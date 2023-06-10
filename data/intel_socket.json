@@ -1,0 +1,141 @@
+{
+    "status": true,
+    "RC": "0000",
+    "currentPage": 0,
+    "description": "Success",
+    "totalRecords": 11,
+    "result": [
+        {
+            "BNAME": "intel",
+            "PCODE": 24,
+            "PNAME": "LGA 1700",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: November 2021. Type: PC Desktop. CPU families: 12th Gen.",
+            "PBEST": 0,
+            "PLINK": "LGA-1700",
+            "RTYPE": ""
+        },
+        {
+            "BNAME": "intel",
+            "PCODE": 23,
+            "PNAME": "LGA 1200",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: March 2020. Type: PC Desktop. CPU families: 11th Gen, 10th Gen.",
+            "PBEST": 0,
+            "PLINK": "LGA-1200",
+            "RTYPE": ""
+        },
+        {
+            "BNAME": "intel",
+            "PCODE": 18,
+            "PNAME": "LGA 1151v2",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: April 2018. Type: PC Desktop. CPU families: 9th Gen, 8th Gen.",
+            "PBEST": 0,
+            "PLINK": "LGA-1151v2",
+            "RTYPE": ""
+        },
+        {
+            "BNAME": "intel",
+            "PCODE": 1,
+            "PNAME": "LGA 2066",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: June 2017. Type: PC Desktop\/Server. CPU families: 7th Gen.",
+            "PBEST": 0,
+            "PLINK": "LGA-2066",
+            "RTYPE": ""
+        },
+        {
+            "BNAME": "intel",
+            "PCODE": 19,
+            "PNAME": "LGA 3647",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: September 2016. Type: PC Server. CPU families:  Intel Xeon.",
+            "PBEST": 0,
+            "PLINK": "LGA-3647",
+            "RTYPE": ""
+        },
+        {
+            "BNAME": "intel",
+            "PCODE": 2,
+            "PNAME": "LGA 1151",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: September 2015. Type: PC Desktop. CPU families: 7th Gen, 6th Gen.",
+            "PBEST": 0,
+            "PLINK": "LGA-1151",
+            "RTYPE": ""
+        },
+        {
+            "BNAME": "intel",
+            "PCODE": 17,
+            "PNAME": "LGA 2011v3",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: August 2014. Type: PC Desktop\/Server. CPU families: 6th Gen, 5th Gen.",
+            "PBEST": 0,
+            "PLINK": "LGA-2011v3",
+            "RTYPE": ""
+        },
+        {
+            "BNAME": "intel",
+            "PCODE": 3,
+            "PNAME": "LGA 1150",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: June 2013. Type: PC Desktop. CPU families: 5th Gen, 4th Gen.",
+            "PBEST": 0,
+            "PLINK": "LGA-1150",
+            "RTYPE": ""
+        },
+        {
+            "BNAME": "intel",
+            "PCODE": 5,
+            "PNAME": "LGA 2011",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: November 2011. Type: PC Desktop\/Server. CPU families: 4th Gen, 3rd Gen.",
+            "PBEST": 0,
+            "PLINK": "LGA-2011",
+            "RTYPE": ""
+        },
+        {
+            "BNAME": "intel",
+            "PCODE": 4,
+            "PNAME": "LGA 1155",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: January 2011. Type: PC Desktop. CPU families: 3rd Gen, 2nd Gen.",
+            "PBEST": 0,
+            "PLINK": "LGA-1155",
+            "RTYPE": ""
+        },
+        {
+            "BNAME": "intel",
+            "PCODE": 6,
+            "PNAME": "LGA 775",
+            "PPRCZ": null,
+            "PIMGZ": null,
+            "PSTTS": 0,
+            "PDTLS": "Socket Release: March 2004. Type: PC Desktop. CPU families: Core 2 Quad, Core 2 Duo, Pentium, Celeron.",
+            "PBEST": 0,
+            "PLINK": "LGA-775",
+            "RTYPE": ""
+        }
+    ]
+}

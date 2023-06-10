@@ -1,0 +1,141 @@
+{
+	"status": true,
+	"RC": "0000",
+	"currentPage": 0,
+	"description": "Success",
+	"totalRecords": 11,
+	"result": [
+		{
+			"BNAME": "amd",
+			"PCODE": 26,
+			"PNAME": "AM5",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "Socket Release: September 2022. Type: PC Desktop. CPU families: Ryzen 7000 Series",
+			"PBEST": 0,
+			"PLINK": "AM5",
+			"RTYPE": ""
+		},
+		{
+			"BNAME": "amd",
+			"PCODE": 25,
+			"PNAME": "sWRX8",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "Socket Release: March 2021. ",
+			"PBEST": 0,
+			"PLINK": "sWRX8",
+			"RTYPE": ""
+		},
+		{
+			"BNAME": "amd",
+			"PCODE": 22,
+			"PNAME": "sTRX4",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "Socket Release: November 2019. Type: PC Desktop. CPU families: Ryzen Threadripper (3000 series) Generation.",
+			"PBEST": 0,
+			"PLINK": "sTRX4",
+			"RTYPE": ""
+		},
+		{
+			"BNAME": "amd",
+			"PCODE": 12,
+			"PNAME": "TR4",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "Socket Release: August 2017. Type: PC Desktop. CPU families: Ryzen Threadripper Generation.",
+			"PBEST": 0,
+			"PLINK": "TR4",
+			"RTYPE": ""
+		},
+		{
+			"BNAME": "amd",
+			"PCODE": 11,
+			"PNAME": "AM4",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "Socket Release: September 2016. Type: PC Desktop. CPU families: Ryzen, Athlon 3000, Athlon 200, Bristol series Generation.",
+			"PBEST": 0,
+			"PLINK": "AM4",
+			"RTYPE": ""
+		},
+		{
+			"BNAME": "amd",
+			"PCODE": 21,
+			"PNAME": "FM2+",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "Socket Release: July 2014. Type: PC Desktop. CPU families: Kaveri, Godavari, Carrizo series Generation.",
+			"PBEST": 0,
+			"PLINK": "FM2",
+			"RTYPE": ""
+		},
+		{
+			"BNAME": "amd",
+			"PCODE": 7,
+			"PNAME": "AM1",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "Socket Release: April 2014. Type: PC Desktop. CPU families: Athlon, Sempron series Generation.",
+			"PBEST": 0,
+			"PLINK": "AM1",
+			"RTYPE": ""
+		},
+		{
+			"BNAME": "amd",
+			"PCODE": 14,
+			"PNAME": "FM2",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "Socket Release: September 2012. Type: PC Desktop. CPU families: Trinity series Generation.",
+			"PBEST": 0,
+			"PLINK": "FM2",
+			"RTYPE": ""
+		},
+		{
+			"BNAME": "amd",
+			"PCODE": 10,
+			"PNAME": "AM3/AM3+",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "Socket Release: March 2012. Type: PC Desktop. CPU families: Vishera FX series Generation.",
+			"PBEST": 0,
+			"PLINK": "AM3AM3",
+			"RTYPE": ""
+		},
+		{
+			"BNAME": "amd",
+			"PCODE": 20,
+			"PNAME": "AM3",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "Socket Release: February 2009. Type: PC Desktop. CPU families: Phenom II, Athlon II series Generation.",
+			"PBEST": 0,
+			"PLINK": "AM3",
+			"RTYPE": ""
+		},
+		{
+			"BNAME": "amd",
+			"PCODE": 15,
+			"PNAME": "FM2/FM2+",
+			"PPRCZ": null,
+			"PIMGZ": null,
+			"PSTTS": 0,
+			"PDTLS": "",
+			"PBEST": 0,
+			"PLINK": "FM2FM2",
+			"RTYPE": ""
+		}
+	]
+}
