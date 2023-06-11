@@ -1,0 +1,128 @@
+[
+  {
+    "display_name": "AM5",
+    "name": "AM5",
+    "brand": "amd",
+    "code": 26,
+    "ram_type": "DDR5"
+  },
+  {
+    "display_name": "sWRX8",
+    "name": "sWRX8",
+    "brand": "amd",
+    "code": 25,
+    "ram_type": "DDR4"
+  },
+  {
+    "display_name": "sTRX4",
+    "name": "sTRX4",
+    "brand": "amd",
+    "code": 22,
+    "ram_type": "DDR4"
+  },
+  {
+    "display_name": "TR4",
+    "name": "TR4",
+    "brand": "amd",
+    "code": 12,
+    "ram_type": "DDR4"
+  },
+  {
+    "display_name": "AM4",
+    "name": "AM4",
+    "brand": "amd",
+    "code": 11,
+    "ram_type": "DDR4"
+  },
+  {
+    "display_name": "FM2+",
+    "name": "FM2",
+    "brand": "amd",
+    "code": 21,
+    "ram_type": "DDR3"
+  },
+  {
+    "display_name": "AM1",
+    "name": "AM1",
+    "brand": "amd",
+    "code": 7,
+    "ram_type": "DDR3"
+  },
+  {
+    "display_name": "FM2",
+    "name": "FM2",
+    "brand": "amd",
+    "code": 14,
+    "ram_type": "DDR3"
+  },
+  {
+    "display_name": "AM3",
+    "name": "AM3",
+    "brand": "amd",
+    "code": 20,
+    "ram_type": "DDR3"
+  },
+  {
+    "display_name": "LGA 1700",
+    "name": "LGA-1700",
+    "brand": "intel",
+    "code": 24,
+    "ram_type": "DDR5"
+  },
+  {
+    "display_name": "LGA 1200",
+    "name": "LGA-1200",
+    "brand": "intel",
+    "code": 23,
+    "ram_type": "DDR4"
+  },
+  {
+    "display_name": "LGA 2066",
+    "name": "LGA-2066",
+    "brand": "intel",
+    "code": 1,
+    "ram_type": "DDR4"
+  },
+  {
+    "display_name": "LGA 3647",
+    "name": "LGA-3647",
+    "brand": "intel",
+    "code": 19,
+    "ram_type": "DDR4"
+  },
+  {
+    "display_name": "LGA 1151",
+    "name": "LGA-1151",
+    "brand": "intel",
+    "code": 2,
+    "ram_type": "DDR4"
+  },
+  {
+    "display_name": "LGA 1150",
+    "name": "LGA-1150",
+    "brand": "intel",
+    "code": 3,
+    "ram_type": "DDR3"
+  },
+  {
+    "display_name": "LGA 2011",
+    "name": "LGA-2011",
+    "brand": "intel",
+    "code": 5,
+    "ram_type": "DDR3"
+  },
+  {
+    "display_name": "LGA 1155",
+    "name": "LGA-1155",
+    "brand": "intel",
+    "code": 4,
+    "ram_type": "DDR3"
+  },
+  {
+    "display_name": "LGA 775",
+    "name": "LGA-775",
+    "brand": "intel",
+    "code": 6,
+    "ram_type": "DDR3"
+  }
+]

@@ -15,7 +15,7 @@
 			"PDTLS": "Socket Release: September 2022. Type: PC Desktop. CPU families: Ryzen 7000 Series",
 			"PBEST": 0,
 			"PLINK": "AM5",
-			"RTYPE": ""
+			"RTYPE": "DDR5"
 		},
 		{
 			"BNAME": "amd",
@@ -27,7 +27,7 @@
 			"PDTLS": "Socket Release: March 2021. ",
 			"PBEST": 0,
 			"PLINK": "sWRX8",
-			"RTYPE": ""
+			"RTYPE": "DDR4"
 		},
 		{
 			"BNAME": "amd",
@@ -39,7 +39,7 @@
 			"PDTLS": "Socket Release: November 2019. Type: PC Desktop. CPU families: Ryzen Threadripper (3000 series) Generation.",
 			"PBEST": 0,
 			"PLINK": "sTRX4",
-			"RTYPE": ""
+			"RTYPE": "DDR4"
 		},
 		{
 			"BNAME": "amd",
@@ -51,7 +51,7 @@
 			"PDTLS": "Socket Release: August 2017. Type: PC Desktop. CPU families: Ryzen Threadripper Generation.",
 			"PBEST": 0,
 			"PLINK": "TR4",
-			"RTYPE": ""
+			"RTYPE": "DDR4"
 		},
 		{
 			"BNAME": "amd",
@@ -63,7 +63,7 @@
 			"PDTLS": "Socket Release: September 2016. Type: PC Desktop. CPU families: Ryzen, Athlon 3000, Athlon 200, Bristol series Generation.",
 			"PBEST": 0,
 			"PLINK": "AM4",
-			"RTYPE": ""
+			"RTYPE": "DDR4"
 		},
 		{
 			"BNAME": "amd",
@@ -75,7 +75,7 @@
 			"PDTLS": "Socket Release: July 2014. Type: PC Desktop. CPU families: Kaveri, Godavari, Carrizo series Generation.",
 			"PBEST": 0,
 			"PLINK": "FM2",
-			"RTYPE": ""
+			"RTYPE": "DDR3"
 		},
 		{
 			"BNAME": "amd",
@@ -87,7 +87,7 @@
 			"PDTLS": "Socket Release: April 2014. Type: PC Desktop. CPU families: Athlon, Sempron series Generation.",
 			"PBEST": 0,
 			"PLINK": "AM1",
-			"RTYPE": ""
+			"RTYPE": "DDR3"
 		},
 		{
 			"BNAME": "amd",
@@ -99,19 +99,7 @@
 			"PDTLS": "Socket Release: September 2012. Type: PC Desktop. CPU families: Trinity series Generation.",
 			"PBEST": 0,
 			"PLINK": "FM2",
-			"RTYPE": ""
-		},
-		{
-			"BNAME": "amd",
-			"PCODE": 10,
-			"PNAME": "AM3/AM3+",
-			"PPRCZ": null,
-			"PIMGZ": null,
-			"PSTTS": 0,
-			"PDTLS": "Socket Release: March 2012. Type: PC Desktop. CPU families: Vishera FX series Generation.",
-			"PBEST": 0,
-			"PLINK": "AM3AM3",
-			"RTYPE": ""
+			"RTYPE": "DDR3"
 		},
 		{
 			"BNAME": "amd",
@@ -123,19 +111,7 @@
 			"PDTLS": "Socket Release: February 2009. Type: PC Desktop. CPU families: Phenom II, Athlon II series Generation.",
 			"PBEST": 0,
 			"PLINK": "AM3",
-			"RTYPE": ""
-		},
-		{
-			"BNAME": "amd",
-			"PCODE": 15,
-			"PNAME": "FM2/FM2+",
-			"PPRCZ": null,
-			"PIMGZ": null,
-			"PSTTS": 0,
-			"PDTLS": "",
-			"PBEST": 0,
-			"PLINK": "FM2FM2",
-			"RTYPE": ""
+			"RTYPE": "DDR3"
 		}
 	]
 }

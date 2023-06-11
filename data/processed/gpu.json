@@ -1,0 +1,4079 @@
+[
+  {
+    "price": 645000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/4/5/9561560/9561560_41daf2e0-6661-4f8a-a80d-088038b2a17b_500_500.png",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce GT 710 2GB DDR3 64 Bit",
+    "name": "Asus-GeForce-GT-710-2GB-DDR3-64-Bit",
+    "code": 121693
+  },
+  {
+    "price": 585000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/6/9651507/9651507_7013d9d1-3be3-4080-8304-2a303d0053e7_700_700",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce GT 710 2GB DDR3 - N710-2GD3H LP",
+    "name": "MSI-GeForce-GT-710-2GB-DDR3-N710-2GD3H-LP",
+    "code": 122068
+  },
+  {
+    "price": 710000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/11/d76498a5-6977-4f33-9803-5986cc2c274b.jpg",
+    "size": "2GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon R7 240 2GB DDR5 64Bit",
+    "name": "PowerColor-Radeon-R7-240-2GB-DDR5-64Bit",
+    "code": 122167
+  },
+  {
+    "price": 990000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/9/cf90dab3-333d-4a65-9db6-fa5077e13627.jpg",
+    "size": "2048MB",
+    "brand": "nvidia",
+    "display_name": "Winfast GeForce GT 730 2048MB SDDR3",
+    "name": "Winfast-GeForce-GT-730-2048MB-SDDR3",
+    "code": 122226
+  },
+  {
+    "price": 8425000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Radeon Pro WX5100 8GB DDR5",
+    "name": "Radeon-Pro-WX5100-8GB-DDR5",
+    "code": 150977
+  },
+  {
+    "price": 5925000,
+    "image": null,
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "Radeon Pro WX4100 4GB DDR5",
+    "name": "Radeon-Pro-WX4100-4GB-DDR5",
+    "code": 150978
+  },
+  {
+    "price": 1630000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/7/5a3bd2ad-0afb-43e7-a08d-05821e711421.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 550 4GB DDR5 Red Dragon Low Profile",
+    "name": "PowerColor-Radeon-RX-550-4GB-DDR5-Red-Dragon-Low-Profile",
+    "code": 151484
+  },
+  {
+    "price": 1330000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/3/9651507/9651507_acd8094e-a38a-4f1e-8634-ce30bd45798e_700_700",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce GT 1030 2GB DDR5",
+    "name": "Asus-GeForce-GT-1030-2GB-DDR5",
+    "code": 151795
+  },
+  {
+    "price": 1419000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/4/9651507/9651507_8f6a7cac-53d3-40a0-affa-daebca46671e_700_700",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GT 1030 2GB DDR5 - GV-N1030D5-2GL",
+    "name": "Gigabyte-GeForce-GT-1030-2GB-DDR5-GV-N1030D5-2GL",
+    "code": 152026
+  },
+  {
+    "price": 1323000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/13/86cb451a-6740-477c-b546-8fdb7271435f.jpg",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GT 1030 2GB DDR5 OC Series - GV-N1030OC-2GI",
+    "name": "Gigabyte-GeForce-GT-1030-2GB-DDR5-OC-Series-GV-N1030OC-2GI",
+    "code": 152300
+  },
+  {
+    "price": 1180000,
+    "image": "https://images.tokopedia.net/img/cache/900/product-1/2020/2/13/83419695/83419695_37adf160-b3db-46cd-923c-749c1c34b0db_1140_1140",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D Geforce GT 1030 2GB DDR5",
+    "name": "Inno-3D-Geforce-GT-1030-2GB-DDR5",
+    "code": 152377
+  },
+  {
+    "price": 1782000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/9/16/9651507/9651507_360a212c-62b8-48be-b9d5-d4a594467087_900_900",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "Biostar Radeon RX 560 4GB DDR5",
+    "name": "Biostar-Radeon-RX-560-4GB-DDR5",
+    "code": 153321
+  },
+  {
+    "price": 874000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/15/7b3ba495-fe5e-454a-910d-518061c699c4.png",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "FORSA PCIE GT 730, 4GB, DDR3, 128BIT",
+    "name": "FORSA-PCIE-GT-730-4GB-DDR3-128BIT",
+    "code": 153516
+  },
+  {
+    "price": 1180000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/3/27/1157156/1157156_0e1256c6-6d4d-412b-aafa-c03a8f5e1f53.png",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce GT 1030 2GB DDR4 - AERO ITX 2GD4 OC",
+    "name": "MSI-GeForce-GT-1030-2GB-DDR4-AERO-ITX-2GD4-OC",
+    "code": 156509
+  },
+  {
+    "price": 1352000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/8/28/7752206a-3262-4531-9b79-c077dbcd8b1b.png",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GT 1030 2GB DDR4 - GV-N1030D4-2GL",
+    "name": "Gigabyte-GeForce-GT-1030-2GB-DDR4-GV-N1030D4-2GL",
+    "code": 156526
+  },
+  {
+    "price": 855000,
+    "image": null,
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce GT 730 2GB DDR3 64 Bit",
+    "name": "PALIT-GeForce-GT-730-2GB-DDR3-64-Bit",
+    "code": 156931
+  },
+  {
+    "price": 1355000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/1/5c9e392b-67e4-4ab2-91eb-a37c47052ae0.jpg",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce GT 1030 2GB DDR4",
+    "name": "PALIT-GeForce-GT-1030-2GB-DDR4",
+    "code": 157608
+  },
+  {
+    "price": 3600000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/6/18/9651507/9651507_2d0a6ddd-f2bd-4db5-9243-853192f1e35c_2048_2047",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce GTX 1660 Ti 6GB DDR6 (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-GTX-1660-Ti-6GB-DDR6-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 159433
+  },
+  {
+    "price": 3815000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/8/20/2b157b73-f0eb-48f8-872a-28d49b768200.png",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GTX 1660 Ti 6GB DDR6 OC - GV-N166TOC-6GD",
+    "name": "Gigabyte-GeForce-GTX-1660-Ti-6GB-DDR6-OC-GV-N166TOC-6GD",
+    "code": 159634
+  },
+  {
+    "price": 2520000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/23/a7e6907a-d0a4-49a7-b9f2-c4f9a671ee8b.png",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Zotac GeForce GTX 1660 Ti 6GB DDR6",
+    "name": "Zotac-GeForce-GTX-1660-Ti-6GB-DDR6",
+    "code": 159714
+  },
+  {
+    "price": 2890000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/3/11/9561560/9561560_05ac7421-919a-4e8a-95a7-86a40b64c20b_1000_1000.png",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce GTX 1050 Ti 4GB DDR5 - (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-GTX-1050-Ti-4GB-DDR5-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 159859
+  },
+  {
+    "price": 3545000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/15/9651507/9651507_535fc959-263c-45a8-a5fe-e89ef70ee563_700_700",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GTX 1660 6GB DDR5 OC - GV-N1660OC-6GD",
+    "name": "Gigabyte-GeForce-GTX-1660-6GB-DDR5-OC-GV-N1660OC-6GD",
+    "code": 159974
+  },
+  {
+    "price": 3400000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/11/10/1157156/1157156_e301475f-85f5-4f6e-8a0b-53a23237f098.jpg",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce GTX 1660 6GB DDR5 (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-GTX-1660-6GB-DDR5-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 160212
+  },
+  {
+    "price": 3150000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/3/9651507/9651507_056c2ec6-5afd-47ef-9e14-2ace9723ecb6_700_700",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce GTX 1650 4GB DDR5 - Dual OC",
+    "name": "Asus-GeForce-GTX-1650-4GB-DDR5-Dual-OC",
+    "code": 160619
+  },
+  {
+    "price": 590000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/8/9/9651507/9651507_f63a42f9-90bd-4fe8-b287-b9c61e6b72d2_700_700",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "GALAX GeForce GT 710 2GB DDR3 - Garansi 3 Thn",
+    "name": "GALAX-GeForce-GT-710-2GB-DDR3-Garansi-3-Thn",
+    "code": 161565
+  },
+  {
+    "price": 5035000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/1/12/b3403646-3c2a-472f-9ac4-2ff6ecd604c1.png",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 2060 SUPER 8GB DDR6 Windforce OC - GV-N206SWF2OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-2060-SUPER-8GB-DDR6-Windforce-OC-GV-N206SWF2OC-8GD",
+    "code": 162745
+  },
+  {
+    "price": 3650000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/11/7/1157156/1157156_d2507684-20aa-4fac-89ee-39dfc0055524.jpg",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce GTX 1660 SUPER 6GB DDR6 (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-GTX-1660-SUPER-6GB-DDR6-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 162900
+  },
+  {
+    "price": 1339000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/29/9651507/9651507_8db4eb59-007d-4abe-be27-a9c26d410f1d_700_700",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "Biostar Radeon RX 550 4GB DDR5",
+    "name": "Biostar-Radeon-RX-550-4GB-DDR5",
+    "code": 162979
+  },
+  {
+    "price": 4950000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/3/9651507/9651507_0d074368-1bb3-47f9-94d9-6c98c71696cf_700_700",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 2060 SUPER 8GB DDR6 - Ventus GP OC",
+    "name": "MSI-GeForce-RTX-2060-SUPER-8GB-DDR6-Ventus-GP-OC",
+    "code": 162980
+  },
+  {
+    "price": 3950000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/3/9651507/9651507_b52468f4-87c3-4261-9bd8-88b744dd1fff_700_700",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "MSI Geforce GTX 1660 SUPER 6GB DDR6 - Gaming X",
+    "name": "MSI-Geforce-GTX-1660-SUPER-6GB-DDR6-Gaming-X",
+    "code": 163089
+  },
+  {
+    "price": 8209000,
+    "image": null,
+    "size": "5GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte Quadro P2200 5GB DDR5 160 Bit",
+    "name": "Gigabyte-Quadro-P2200-5GB-DDR5-160-Bit",
+    "code": 163170
+  },
+  {
+    "price": 2135000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Colorful Geforce GTX 1050 Ti 4GB DDR5",
+    "name": "Colorful-Geforce-GTX-1050-Ti-4GB-DDR5",
+    "code": 163684
+  },
+  {
+    "price": 1160000,
+    "image": null,
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Colorful GeForce GT 1030 2GB DDR5",
+    "name": "Colorful-GeForce-GT-1030-2GB-DDR5",
+    "code": 165391
+  },
+  {
+    "price": 1910000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/15/9651507/9651507_d158a08a-ab64-4471-9c3d-7ea65c2bbbc7_700_700",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 550 4GB DDR5 - AERO ITX 4G OC",
+    "name": "MSI-Radeon-RX-550-4GB-DDR5-AERO-ITX-4G-OC",
+    "code": 165455
+  },
+  {
+    "price": 2413000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/3/9651507/9651507_c2b47ea5-83d9-40af-a25f-01690d0b5d38_700_700",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce GTX 1650 4GB DDR6 GamingPro",
+    "name": "PALIT-GeForce-GTX-1650-4GB-DDR6-GamingPro",
+    "code": 165839
+  },
+  {
+    "price": 2490000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/4/9651507/9651507_f0202ee6-eae0-4404-af82-894c26f447f4_700_700",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce GTX 1650 4GB DDR6 EX PLUS (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-GTX-1650-4GB-DDR6-EX-PLUS-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 165919
+  },
+  {
+    "price": 3850000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/30/9651507/9651507_1355cd99-e0a5-4d22-8962-bd0f2ade725d_700_700",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "MSI Geforce GTX 1660 SUPER 6GB DDR6 - Ventus XS OC",
+    "name": "MSI-Geforce-GTX-1660-SUPER-6GB-DDR6-Ventus-XS-OC",
+    "code": 166971
+  },
+  {
+    "price": 2319000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce GTX 1650 4GB DDR6 Twin x2 OC",
+    "name": "Inno-3D-GeForce-GTX-1650-4GB-DDR6-Twin-x2-OC",
+    "code": 167080
+  },
+  {
+    "price": 19500000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/13/9d1367b4-419f-4052-ba6f-0ac1e4669e85.png",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3090 24GB GDDR6X - Ventus 3X OC - Promo Limited!!!",
+    "name": "MSI-GeForce-RTX-3090-24GB-GDDR6X-Ventus-3X-OC-Promo-Limited",
+    "code": 168006
+  },
+  {
+    "price": 19999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/13/62249d33-b41b-4824-851d-af157ccfdf11.png",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3090 24GB GDDR6X - Gaming X TRIO - Promo Limited!!!",
+    "name": "MSI-GeForce-RTX-3090-24GB-GDDR6X-Gaming-X-TRIO-Promo-Limited",
+    "code": 168007
+  },
+  {
+    "price": 2435000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/18/05bd4c80-ee4d-432c-b07d-3b2ead52b349.png",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Gainward GeForce GTX 1650 4GB DDR6 - Ghost",
+    "name": "Gainward-GeForce-GTX-1650-4GB-DDR6-Ghost",
+    "code": 168050
+  },
+  {
+    "price": 505000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/10/28/9651507/9651507_4c1e0c2e-417c-406f-89c5-cb2dc4ddc2de_700_700",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "VenomRX GeForce GT 730 4GB DDR3",
+    "name": "VenomRX-GeForce-GT-730-4GB-DDR3",
+    "code": 168131
+  },
+  {
+    "price": 2490000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/24/c4f0d4ef-df9a-46db-8bb6-0ce746d5b10c.png",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "MSI Geforce GTX 1650 4GB DDR6 - Ventus XS OC V1",
+    "name": "MSI-Geforce-GTX-1650-4GB-DDR6-Ventus-XS-OC-V1",
+    "code": 168188
+  },
+  {
+    "price": 22000000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/12/05adc679-0d98-4885-b5cc-287c18bf2802.png",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3090 24GB DDR6X SG (1-Click OC) - TRIPLE ARGB FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3090-24GB-DDR6X-SG-1-Click-OC-TRIPLE-ARGB-FAN-Garansi-3-Thn",
+    "code": 168263
+  },
+  {
+    "price": 2290000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/29/cefd87a2-51d5-42c1-83dd-1724cd24b86a.png",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Colorful Geforce GTX 1650 4GB DDR6 - NB 4G",
+    "name": "Colorful-Geforce-GTX-1650-4GB-DDR6-NB-4G",
+    "code": 168275
+  },
+  {
+    "price": 3530000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/13/cf375a92-842e-4364-bf6a-0c43d131bbff.png",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce GTX 1660 SUPER 6GB DDR6 GamingPro Series",
+    "name": "PALIT-GeForce-GTX-1660-SUPER-6GB-DDR6-GamingPro-Series",
+    "code": 168444
+  },
+  {
+    "price": 15590000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3090 24GB GDDR6X Turbo - GV-N3090TURBO-24GD",
+    "name": "Gigabyte-GeForce-RTX-3090-24GB-GDDR6X-Turbo-GV-N3090TURBO-24GD",
+    "code": 168533
+  },
+  {
+    "price": 6145000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/8/672061f9-1ffb-43d2-a021-c0bcad8a8d24.png",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Zotac GeForce RTX 3060 Ti 8GB GDDR6 Twin Edge OC",
+    "name": "Zotac-GeForce-RTX-3060-Ti-8GB-GDDR6-Twin-Edge-OC",
+    "code": 168848
+  },
+  {
+    "price": 21500000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3090 24GB GDDR6X - SUPRIM X - Promo Limited!!!",
+    "name": "MSI-GeForce-RTX-3090-24GB-GDDR6X-SUPRIM-X-Promo-Limited",
+    "code": 169022
+  },
+  {
+    "price": 2215000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/1/9/851b2776-7b7d-4520-81cf-2788ea917288.png",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Zotac GeForce GTX 1650 4GB DDR6 AMP Core",
+    "name": "Zotac-GeForce-GTX-1650-4GB-DDR6-AMP-Core",
+    "code": 169047
+  },
+  {
+    "price": 8385000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 6800 XT 16GB GDDR6 Gaming OC - GV-R68XTGAMING OC-16GD",
+    "name": "Gigabyte-Radeon-RX-6800-XT-16GB-GDDR6-Gaming-OC-GV-R68XTGAMING-OC-16GD",
+    "code": 169048
+  },
+  {
+    "price": 8325000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 6800 16GB GDDR6 - GAMING X TRIO - Promo Limited!!!",
+    "name": "MSI-Radeon-RX-6800-16GB-GDDR6-GAMING-X-TRIO-Promo-Limited",
+    "code": 169460
+  },
+  {
+    "price": 8790000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 6900 XT 16GB GDDR6 Gaming OC - GV-R69XTGAMING OC-16GD",
+    "name": "Gigabyte-Radeon-RX-6900-XT-16GB-GDDR6-Gaming-OC-GV-R69XTGAMING-OC-16GD",
+    "code": 169554
+  },
+  {
+    "price": 7285000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 6800 16GB GDDR6 Aorus Master - GV-R68AORUS M-16GD",
+    "name": "Gigabyte-Radeon-RX-6800-16GB-GDDR6-Aorus-Master-GV-R68AORUS-M-16GD",
+    "code": 169557
+  },
+  {
+    "price": 12990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/14/fd551474-6aa0-417c-9bfb-000858f8e327.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6800 XT 16GB DDR6 NITRO+ OC SE",
+    "name": "Sapphire-Radeon-RX-6800-XT-16GB-DDR6-NITRO-OC-SE",
+    "code": 169679
+  },
+  {
+    "price": 10040000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6800 XT 16GB GDDR6 ROG Strix LC OC",
+    "name": "Asus-Radeon-RX-6800-XT-16GB-GDDR6-ROG-Strix-LC-OC",
+    "code": 169737
+  },
+  {
+    "price": 7720000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/8d169db1-84ba-42a8-bb3b-089018f1a384.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6800 16GB GDDR6 TUF Gaming OC",
+    "name": "Asus-Radeon-RX-6800-16GB-GDDR6-TUF-Gaming-OC",
+    "code": 169739
+  },
+  {
+    "price": 9785000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/c349e002-f6d3-4698-9d71-598329c4d995.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6900 XT 16GB GDDR6 Red Devil",
+    "name": "PowerColor-Radeon-RX-6900-XT-16GB-GDDR6-Red-Devil",
+    "code": 169740
+  },
+  {
+    "price": 90550000,
+    "image": null,
+    "size": "48GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro RTX A6000 48GB GDDR6",
+    "name": "Leadtek-Quadro-RTX-A6000-48GB-GDDR6",
+    "code": 169810
+  },
+  {
+    "price": 11439000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/df96f506-4a7c-458d-a9a4-903026349c87.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6900 XT 16GB GDDR6 TUF Gaming OC",
+    "name": "Asus-Radeon-RX-6900-XT-16GB-GDDR6-TUF-Gaming-OC",
+    "code": 170289
+  },
+  {
+    "price": 8599000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/c64297ee-7ca4-47e7-b4bb-6373506b54c2.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6800 XT 16GB GDDR6 TUF Gaming OC",
+    "name": "Asus-Radeon-RX-6800-XT-16GB-GDDR6-TUF-Gaming-OC",
+    "code": 170290
+  },
+  {
+    "price": 8020000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/9ddb7188-2a34-4966-ab0f-0e08bbb07e68.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6800 XT 16GB GDDR6 Red Dragon",
+    "name": "PowerColor-Radeon-RX-6800-XT-16GB-GDDR6-Red-Dragon",
+    "code": 170292
+  },
+  {
+    "price": 8400000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/30/6c244c2a-9909-41ce-8c5b-b802227322ff.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6800 XT CORE 16GB DDR6 SPEEDSTER MERC 319 - RX-68XTALFD9",
+    "name": "XFX-Radeon-RX-6800-XT-CORE-16GB-DDR6-SPEEDSTER-MERC-319-RX-68XTALFD9",
+    "code": 170333
+  },
+  {
+    "price": 9690000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 6900 XT 16GB GDDR6 - GAMING X TRIO - Promo Limited!!!",
+    "name": "MSI-Radeon-RX-6900-XT-16GB-GDDR6-GAMING-X-TRIO-Promo-Limited",
+    "code": 170405
+  },
+  {
+    "price": 5850000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/2/22/8cf72e0b-ee19-4d23-951d-615baaca5ec6.png",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3060 12GB DDR6 EX (1-Click OC) - DUAL ARGB FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3060-12GB-DDR6-EX-1-Click-OC-DUAL-ARGB-FAN-Garansi-3-Thn",
+    "code": 170428
+  },
+  {
+    "price": 5008000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/12/b4d4f693-ca92-4d41-b59f-53dce7e1a72a.png",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce RTX 3060 12GB GDDR6 Dual",
+    "name": "PALIT-GeForce-RTX-3060-12GB-GDDR6-Dual",
+    "code": 170520
+  },
+  {
+    "price": 3600000,
+    "image": null,
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GTX 1660 SUPER 6GB DDR6 D6 GV-N166SD6-6GD",
+    "name": "Gigabyte-GeForce-GTX-1660-SUPER-6GB-DDR6-D6-GV-N166SD6-6GD",
+    "code": 170524
+  },
+  {
+    "price": 5750000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/10/0de606cd-13b5-4783-a574-bba3a16d5582.png",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3060 12GB DDR6 (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3060-12GB-DDR6-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 170688
+  },
+  {
+    "price": 6119000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/7/1/7ef2d64f-eda2-40a6-ac75-72f272b51a17.png",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6700 XT 12GB DDR6 NITRO+",
+    "name": "Sapphire-Radeon-RX-6700-XT-12GB-DDR6-NITRO",
+    "code": 170726
+  },
+  {
+    "price": 5675000,
+    "image": null,
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 6700 XT 12GB DDR6 - Challenger Pro 12G OC",
+    "name": "ASRock-Radeon-RX-6700-XT-12GB-DDR6-Challenger-Pro-12G-OC",
+    "code": 170790
+  },
+  {
+    "price": 10120000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 6900 XT 16GB GDDR6 Aorus Master - GV-R69XTAORUS M-16GD",
+    "name": "Gigabyte-Radeon-RX-6900-XT-16GB-GDDR6-Aorus-Master-GV-R69XTAORUS-M-16GD",
+    "code": 170849
+  },
+  {
+    "price": 5825000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/7/a3a53d38-25c8-401c-9f74-064bb683ac6a.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6700 XT 12GB GDDR6 Dual",
+    "name": "Asus-Radeon-RX-6700-XT-12GB-GDDR6-Dual",
+    "code": 170875
+  },
+  {
+    "price": 11620000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6900 XT 16GB GDDR6 Liquid Devil",
+    "name": "PowerColor-Radeon-RX-6900-XT-16GB-GDDR6-Liquid-Devil",
+    "code": 170878
+  },
+  {
+    "price": 4749000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/29/ad186a80-cbd0-434a-bc68-d98109f736ee.png",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 2060 6GB DDR6 - Ventus GP OC",
+    "name": "MSI-GeForce-RTX-2060-6GB-DDR6-Ventus-GP-OC",
+    "code": 171046
+  },
+  {
+    "price": 1230000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/25/2d7e25e0-bb45-4ec6-b6fc-12a8cbbcd1c4.jpg",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce GT 1030 2GB DDR5 - Garansi 3 Thn",
+    "name": "GALAX-Geforce-GT-1030-2GB-DDR5-Garansi-3-Thn",
+    "code": 171114
+  },
+  {
+    "price": 11939000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/033dbde7-0981-4396-b169-acd129bd02f4.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6900 XT 16GB GDDR6 ROG Strix LC OC",
+    "name": "Asus-Radeon-RX-6900-XT-16GB-GDDR6-ROG-Strix-LC-OC",
+    "code": 171115
+  },
+  {
+    "price": 4050000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/29/116db8c7-4240-4fcc-9d40-01dfa3f4eba2.png",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 2060 6GB DDR6 - Dual EVO OC",
+    "name": "Asus-GeForce-RTX-2060-6GB-DDR6-Dual-EVO-OC",
+    "code": 171116
+  },
+  {
+    "price": 17300000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Radeon Pro W5700 8GB DDR6",
+    "name": "Radeon-Pro-W5700-8GB-DDR6",
+    "code": 171241
+  },
+  {
+    "price": 3575000,
+    "image": null,
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "Radeon Pro WX3200 4GB DDR5",
+    "name": "Radeon-Pro-WX3200-4GB-DDR5",
+    "code": 171242
+  },
+  {
+    "price": 8800000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/24/c20a53ef-a12f-479f-ab45-90fc7275f8b6.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Radeon Pro W5500 8GB DDR6",
+    "name": "Radeon-Pro-W5500-8GB-DDR6",
+    "code": 171301
+  },
+  {
+    "price": 4088000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/12/88354ebd-61f0-42ea-8b38-0fe86076dedc.png",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6700 XT BLACK 12GB DDR6  SPEEDSTER QICK319 - RX-67XTYPBDP",
+    "name": "XFX-Radeon-RX-6700-XT-BLACK-12GB-DDR6-SPEEDSTER-QICK319-RX-67XTYPBDP",
+    "code": 171337
+  },
+  {
+    "price": 560000,
+    "image": null,
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Colorful GeForce GT 710 2GB DDR3",
+    "name": "Colorful-GeForce-GT-710-2GB-DDR3",
+    "code": 171682
+  },
+  {
+    "price": 11400000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/8/142b7664-5dcc-4897-8d7d-f3b3633506de.png",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3080 Ti 12GB DDR6X SG (1-Click OC) - TRIPLE ARGB FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3080-Ti-12GB-DDR6X-SG-1-Click-OC-TRIPLE-ARGB-FAN-Garansi-3-Thn",
+    "code": 171736
+  },
+  {
+    "price": 12110000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6900 XT 16GB GDDR6 Liquid Devil Ultimate",
+    "name": "PowerColor-Radeon-RX-6900-XT-16GB-GDDR6-Liquid-Devil-Ultimate",
+    "code": 171746
+  },
+  {
+    "price": 2565000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/11/3b9894ed-abb9-49f8-a923-67e81229f1ae.jpg",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GTX 1650 4GB DDR5 Mini ITX OC - GV-N1650IXOC-4GD",
+    "name": "Gigabyte-GeForce-GTX-1650-4GB-DDR5-Mini-ITX-OC-GV-N1650IXOC-4GD",
+    "code": 171781
+  },
+  {
+    "price": 2563000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/11/25ad1232-187e-4636-97ad-e14739cb33bd.jpg",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GTX 1650 4GB DDR5 Mini ITX GV-N1650IX-4GD",
+    "name": "Gigabyte-GeForce-GTX-1650-4GB-DDR5-Mini-ITX-GV-N1650IX-4GD",
+    "code": 171782
+  },
+  {
+    "price": 12499000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/50e2dab1-0906-40c1-9a85-1c86448c7bdd.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3080 Ti 12GB GDDR6X - Ventus 3X OC - Promo Limited!!!",
+    "name": "MSI-GeForce-RTX-3080-Ti-12GB-GDDR6X-Ventus-3X-OC-Promo-Limited",
+    "code": 171831
+  },
+  {
+    "price": 12999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/9/693be31a-f6f7-4138-9423-70664bb7f6ef.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3080 Ti 12GB GDDR6X - Gaming X TRIO - Promo Limited!!!",
+    "name": "MSI-GeForce-RTX-3080-Ti-12GB-GDDR6X-Gaming-X-TRIO-Promo-Limited",
+    "code": 171832
+  },
+  {
+    "price": 16500000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/5/7dc250c1-94dc-4b54-9225-f5d005502371.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3080 Ti 12GB GDDR6X - SUPRIM X - Promo Limited!!!",
+    "name": "MSI-GeForce-RTX-3080-Ti-12GB-GDDR6X-SUPRIM-X-Promo-Limited",
+    "code": 171833
+  },
+  {
+    "price": 11710000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/26/56c6d307-f3cd-4ca2-a6b3-96257c64c3b3.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3080 Ti 12GB GDDR6X Vision OC - GV-N308TVISION OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-3080-Ti-12GB-GDDR6X-Vision-OC-GV-N308TVISION-OC-12GD",
+    "code": 171839
+  },
+  {
+    "price": 5039000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/6/afcca991-bf7a-48f6-bd51-95d4fc3120fe.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 3060 12GB GDDR6 - Dual-V2 OC",
+    "name": "Asus-GeForce-RTX-3060-12GB-GDDR6-Dual-V2-OC",
+    "code": 171923
+  },
+  {
+    "price": 5990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/3/ea45668c-b0c6-47a4-aee2-b380cbd5c038.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6700 XT 12GB DDR6 Pulse",
+    "name": "Sapphire-Radeon-RX-6700-XT-12GB-DDR6-Pulse",
+    "code": 172030
+  },
+  {
+    "price": 10000000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/8/21/f7de8085-cdcc-423b-a452-47aa36ab5629.png",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3070 Ti 8GB DDR6X SG (1-Click OC) - TRIPLE ARGB FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3070-Ti-8GB-DDR6X-SG-1-Click-OC-TRIPLE-ARGB-FAN-Garansi-3-Thn",
+    "code": 172035
+  },
+  {
+    "price": 8799000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/25/efcc77c6-fa51-49c4-8eb3-2087fee0b989.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3070 Ti 8GB GDDR6X Gaming OC - GV-N307TGAMING OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3070-Ti-8GB-GDDR6X-Gaming-OC-GV-N307TGAMING-OC-8GD",
+    "code": 172046
+  },
+  {
+    "price": 7830000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/6/f51b18a8-c97c-4ec9-b990-08c3a4346018.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 3070 8GB GDDR6 - TUF Gaming-V2 OC",
+    "name": "Asus-GeForce-RTX-3070-8GB-GDDR6-TUF-Gaming-V2-OC",
+    "code": 172072
+  },
+  {
+    "price": 5370000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/4/9e40026e-00b3-45b1-a2d6-5593627e8475.png",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 6700 XT 12GB DDR6 - Challenger D 12G OC",
+    "name": "ASRock-Radeon-RX-6700-XT-12GB-DDR6-Challenger-D-12G-OC",
+    "code": 172093
+  },
+  {
+    "price": 12039000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/b721313f-76ba-488c-a096-a2667c2c57b9.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6900 XT 16GB GDDR6 ROG Strix LC TOP Edition",
+    "name": "Asus-Radeon-RX-6900-XT-16GB-GDDR6-ROG-Strix-LC-TOP-Edition",
+    "code": 172099
+  },
+  {
+    "price": 8375000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/29/f34c6838-0fd6-416d-882a-264adfd03c1a.png",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gainward GeForce RTX 3070 Ti 8GB GDDR6X - Phoenix",
+    "name": "Gainward-GeForce-RTX-3070-Ti-8GB-GDDR6X-Phoenix",
+    "code": 172101
+  },
+  {
+    "price": 11150000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/25/2b2cadf1-370f-4824-a80c-de8458c38d3f.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3080 Ti 12GB GDDR6X Eagle OC - GV-N308TEAGLE OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-3080-Ti-12GB-GDDR6X-Eagle-OC-GV-N308TEAGLE-OC-12GD",
+    "code": 172125
+  },
+  {
+    "price": 10210000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 6900 XT 16GB GDDR6 Aorus Xtreme Waterforce WB - GV-R69XTAORUSX WB-16GD",
+    "name": "Gigabyte-Radeon-RX-6900-XT-16GB-GDDR6-Aorus-Xtreme-Waterforce-WB-GV-R69XTAORUSX-WB-16GD",
+    "code": 172126
+  },
+  {
+    "price": 6509000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/9/faa07c1b-c355-4be8-9aa4-85b94f9ffe20.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 12GB GDDR6 Gaming OC Rev2.0 - GV-N3060GAMING OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-3060-12GB-GDDR6-Gaming-OC-Rev20-GV-N3060GAMING-OC-12GD",
+    "code": 172283
+  },
+  {
+    "price": 7490000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce RTX 3070 Ti 8GB GDDR6X GamingPro",
+    "name": "PALIT-GeForce-RTX-3070-Ti-8GB-GDDR6X-GamingPro",
+    "code": 172310
+  },
+  {
+    "price": 11250000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3080 Ti 12GB GDDR6X Vulcan OC-V",
+    "name": "iGame-Geforce-RTX-3080-Ti-12GB-GDDR6X-Vulcan-OC-V",
+    "code": 172311
+  },
+  {
+    "price": 10164000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/21/e16a675b-38f1-4975-b80b-b95015290b5f.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3080 Ti 12GB GDDR6X Advanced OC-V",
+    "name": "iGame-Geforce-RTX-3080-Ti-12GB-GDDR6X-Advanced-OC-V",
+    "code": 172312
+  },
+  {
+    "price": 7990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/20/72996987-e5ea-4662-8ef7-2d4ccdd9f3ea.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3070 8GB GDDR6 - Ventus 2X OC-LHR",
+    "name": "MSI-GeForce-RTX-3070-8GB-GDDR6-Ventus-2X-OC-LHR",
+    "code": 172326
+  },
+  {
+    "price": 9999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/20/0e1e793f-264e-47f0-9353-dd94cbfddfa0.jpg",
+    "size": "10GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3080 10GB GDDR6X - Gaming Z TRIO-LHR",
+    "name": "MSI-GeForce-RTX-3080-10GB-GDDR6X-Gaming-Z-TRIO-LHR",
+    "code": 172339
+  },
+  {
+    "price": 5170000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/16/4c97f905-77e0-45fa-a09f-1d9b50e2ae9b.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3060 12GB GDDR6 Ultra W OC L-V LHR",
+    "name": "iGame-Geforce-RTX-3060-12GB-GDDR6-Ultra-W-OC-L-V-LHR",
+    "code": 172340
+  },
+  {
+    "price": 865000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/29/3dc20fa6-fc5c-4653-bd39-d5c5a8841463.jpg",
+    "size": "2048MB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GT 730 2048MB DDR5 - GV-N730D5-2GL",
+    "name": "Gigabyte-GeForce-GT-730-2048MB-DDR5-GV-N730D5-2GL",
+    "code": 172347
+  },
+  {
+    "price": 890000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/d1cfadc9-7a1f-4bae-8a58-f698e9610e05.jpg",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce GT 730 2GB DDR5 64 Bit",
+    "name": "Asus-GeForce-GT-730-2GB-DDR5-64-Bit",
+    "code": 172446
+  },
+  {
+    "price": 2690000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/14/5de284f2-019e-4af5-b29e-eba3877c6deb.jpg",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce GTX 1650 4GB DDR6-P - TUF Gaming OC Edition",
+    "name": "Asus-GeForce-GTX-1650-4GB-DDR6-P-TUF-Gaming-OC-Edition",
+    "code": 172449
+  },
+  {
+    "price": 8300000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/6/25/8daee005-c32c-43d6-a755-48c3d6be98c7.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 3070 8GB GDDR6 - Dual-V2 OC",
+    "name": "Asus-GeForce-RTX-3070-8GB-GDDR6-Dual-V2-OC",
+    "code": 172453
+  },
+  {
+    "price": 10000000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/8/19/9920c0b9-8561-4ae5-a4cd-df4271accf5e.png",
+    "size": "10GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3080 10GB DDR6X SG (1-Click OC) - TRIPLE ARGB FAN - LHR Version - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3080-10GB-DDR6X-SG-1-Click-OC-TRIPLE-ARGB-FAN-LHR-Version-Garansi-3-Thn",
+    "code": 172483
+  },
+  {
+    "price": 6050000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/4/76cb4417-cafe-4a48-ad71-9d2a18d807b2.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gainward GeForce RTX 3060 Ti 8GB GDDR6 - Ghost LHR",
+    "name": "Gainward-GeForce-RTX-3060-Ti-8GB-GDDR6-Ghost-LHR",
+    "code": 172520
+  },
+  {
+    "price": 5390000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/7/31/0725ca85-f0a7-4667-bdc0-39d10ae327ab.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3060 12GB GDDR6 - Gaming X-LHR",
+    "name": "MSI-GeForce-RTX-3060-12GB-GDDR6-Gaming-X-LHR",
+    "code": 172541
+  },
+  {
+    "price": 8490000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/25/a901e26e-7148-40df-8ed8-35ae86c887f2.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3070 8GB GDDR6 Gaming OC Rev2.0 - GV-N3070GAMING OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3070-8GB-GDDR6-Gaming-OC-Rev20-GV-N3070GAMING-OC-8GD",
+    "code": 172542
+  },
+  {
+    "price": 23750000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte Quadro RTX A4000-NV 16GB GDDR6 256 Bit",
+    "name": "Gigabyte-Quadro-RTX-A4000-NV-16GB-GDDR6-256-Bit",
+    "code": 172555
+  },
+  {
+    "price": 8690000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/22/aa3148c9-c70a-4e2f-9bcb-e92d7c169956.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3070 8GB GDDR6 - Gaming Z TRIO-LHR",
+    "name": "MSI-GeForce-RTX-3070-8GB-GDDR6-Gaming-Z-TRIO-LHR",
+    "code": 172565
+  },
+  {
+    "price": 9595000,
+    "image": null,
+    "size": "10GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3080 10GB GDDR6X Eagle Rev2.0 - GV-N3080EAGLE-10GD",
+    "name": "Gigabyte-GeForce-RTX-3080-10GB-GDDR6X-Eagle-Rev20-GV-N3080EAGLE-10GD",
+    "code": 172584
+  },
+  {
+    "price": 12009000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3070 Ti 8GB GDDR6X Vulcan OC-V",
+    "name": "iGame-Geforce-RTX-3070-Ti-8GB-GDDR6X-Vulcan-OC-V",
+    "code": 172600
+  },
+  {
+    "price": 11229000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3070 Ti 8GB GDDR6X Advanced OC-V",
+    "name": "iGame-Geforce-RTX-3070-Ti-8GB-GDDR6X-Advanced-OC-V",
+    "code": 172601
+  },
+  {
+    "price": 9800000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Colorful Geforce RTX 3070 Ti 8GB GDDR6X NB-V",
+    "name": "Colorful-Geforce-RTX-3070-Ti-8GB-GDDR6X-NB-V",
+    "code": 172603
+  },
+  {
+    "price": 5590000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/8/19/3709e368-bffe-4d30-b982-cc261a9c04c8.png",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6600 XT 8GB DDR6 NITRO+ OC",
+    "name": "Sapphire-Radeon-RX-6600-XT-8GB-DDR6-NITRO-OC",
+    "code": 172613
+  },
+  {
+    "price": 6500000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/8/19/60e0dafa-e8a6-4449-bdef-2d34def39fb6.png",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3060 Ti 8GB DDR6 (1-Click OC) - DUAL FAN - LHR Version - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3060-Ti-8GB-DDR6-1-Click-OC-DUAL-FAN-LHR-Version-Garansi-3-Thn",
+    "code": 172647
+  },
+  {
+    "price": 5000000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/0f8ba725-bd1e-46fc-afd8-58e0b2568cdc.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6600 XT BLACK 8GB DDR6 SPEEDSTER QICK308 - TRIPLE FAN - RX-66XT8LBDQ",
+    "name": "XFX-Radeon-RX-6600-XT-BLACK-8GB-DDR6-SPEEDSTER-QICK308-TRIPLE-FAN-RX-66XT8LBDQ",
+    "code": 172649
+  },
+  {
+    "price": 6150000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/8/19/70759650-d0d4-4327-915b-64ee93ba8e03.png",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6600 XT CORE 8GB DDR6 SPEEDSTER SWFT210 - RX-66XT8DFDQ",
+    "name": "XFX-Radeon-RX-6600-XT-CORE-8GB-DDR6-SPEEDSTER-SWFT210-RX-66XT8DFDQ",
+    "code": 172650
+  },
+  {
+    "price": 4690000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/29/30d054de-ae83-481d-ac81-399105d970d3.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6600 XT 8GB GDDR6 ROG Strix OC",
+    "name": "Asus-Radeon-RX-6600-XT-8GB-GDDR6-ROG-Strix-OC",
+    "code": 172656
+  },
+  {
+    "price": 27800000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3090 24GB GDDR6X Kudan-V",
+    "name": "iGame-Geforce-RTX-3090-24GB-GDDR6X-Kudan-V",
+    "code": 172757
+  },
+  {
+    "price": 4880000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Colorful Geforce RTX 3060 12GB GDDR6 NB DUO 12G LHR",
+    "name": "Colorful-Geforce-RTX-3060-12GB-GDDR6-NB-DUO-12G-LHR",
+    "code": 172764
+  },
+  {
+    "price": 10990000,
+    "image": null,
+    "size": "10GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3080 10GB GDDR6X - SUPRIM X-LHR",
+    "name": "MSI-GeForce-RTX-3080-10GB-GDDR6X-SUPRIM-X-LHR",
+    "code": 172779
+  },
+  {
+    "price": 6550000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/20/983b1e8c-29fa-492d-bbeb-8488c6e15dd9.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3060 Ti 8GB GDDR6 - Gaming X-LHR",
+    "name": "MSI-GeForce-RTX-3060-Ti-8GB-GDDR6-Gaming-X-LHR",
+    "code": 172781
+  },
+  {
+    "price": 10630000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 6900 XT 16GB GDDR6 - GAMING Z TRIO - Promo Limited!!!",
+    "name": "MSI-Radeon-RX-6900-XT-16GB-GDDR6-GAMING-Z-TRIO-Promo-Limited",
+    "code": 172782
+  },
+  {
+    "price": 9709000,
+    "image": null,
+    "size": "10GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3080 10GB GDDR6X TURBO Rev2.0 - GV-N3080TURBO-10GD",
+    "name": "Gigabyte-GeForce-RTX-3080-10GB-GDDR6X-TURBO-Rev20-GV-N3080TURBO-10GD",
+    "code": 172796
+  },
+  {
+    "price": 6795000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/11/4e246536-a8ad-408b-9ed1-1f182487e80c.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 Ti 8GB GDDR6 Eagle OC Rev2.0 - GV-N306TEAGLE OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3060-Ti-8GB-GDDR6-Eagle-OC-Rev20-GV-N306TEAGLE-OC-8GD",
+    "code": 172797
+  },
+  {
+    "price": 6089000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/9/0e0ed206-0b9b-4c51-ba8d-bc3c7141b3d4.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 12GB GDDR6 Eagle OC Rev2.0 - GV-N3060EAGLE OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-3060-12GB-GDDR6-Eagle-OC-Rev20-GV-N3060EAGLE-OC-12GD",
+    "code": 172798
+  },
+  {
+    "price": 46150000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro RTX A5000 24GB GDDR6",
+    "name": "Leadtek-Quadro-RTX-A5000-24GB-GDDR6",
+    "code": 172837
+  },
+  {
+    "price": 6300000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro T1000 4GB GDDR6",
+    "name": "Leadtek-Quadro-T1000-4GB-GDDR6",
+    "code": 172838
+  },
+  {
+    "price": 3970000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro T600 4GB GDDR6",
+    "name": "Leadtek-Quadro-T600-4GB-GDDR6",
+    "code": 172839
+  },
+  {
+    "price": 2650000,
+    "image": null,
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro T400 2GB GDDR6",
+    "name": "Leadtek-Quadro-T400-2GB-GDDR6",
+    "code": 172840
+  },
+  {
+    "price": 2490000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/8/28/a5bf9b31-9cf9-4f81-ad02-c3a3410f1bc9.png",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce GTX 1650 4GB DDR6 EX (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-GTX-1650-4GB-DDR6-EX-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 172933
+  },
+  {
+    "price": 5090000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/20/900a7a13-a1d9-4a7a-be84-093990fdc1a7.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3060 12GB GDDR6 - Ventus 2X OC-LHR",
+    "name": "MSI-GeForce-RTX-3060-12GB-GDDR6-Ventus-2X-OC-LHR",
+    "code": 172970
+  },
+  {
+    "price": 21685000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro RTX A4000 16GB GDDR6",
+    "name": "Leadtek-Quadro-RTX-A4000-16GB-GDDR6",
+    "code": 173163
+  },
+  {
+    "price": 7880000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3070 8GB GDDR6 Eagle OC Rev2.0 - GV-N3070EAGLE OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3070-8GB-GDDR6-Eagle-OC-Rev20-GV-N3070EAGLE-OC-8GD",
+    "code": 173280
+  },
+  {
+    "price": 8524000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/2/6e725df4-bff9-41f4-a376-52414b2995af.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 Ti 8GB GDDR6 Gaming OC Rev2.0 - GV-N306TGAMING OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3060-Ti-8GB-GDDR6-Gaming-OC-Rev20-GV-N306TGAMING-OC-8GD",
+    "code": 173281
+  },
+  {
+    "price": 18000000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/d0a3001e-a5c9-483c-b2f9-d767c11b30f2.png",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6900 XT CORE 16GB DDR6 SPEEDSTER SWFT319 - RX-69XTAQFD9",
+    "name": "XFX-Radeon-RX-6900-XT-CORE-16GB-DDR6-SPEEDSTER-SWFT319-RX-69XTAQFD9",
+    "code": 173311
+  },
+  {
+    "price": 372000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/13/c5dcde9f-6214-4a16-809a-c329d3092b61.jpg",
+    "size": "1GB",
+    "brand": "nvidia",
+    "display_name": "Biostar GeForce GT 210 1GB DDR3 64 Bit",
+    "name": "Biostar-GeForce-GT-210-1GB-DDR3-64-Bit",
+    "code": 173315
+  },
+  {
+    "price": 11009000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 3070 Ti 8GB GDDR6X Ultra W OC-V",
+    "name": "iGame-GeForce-RTX-3070-Ti-8GB-GDDR6X-Ultra-W-OC-V",
+    "code": 173377
+  },
+  {
+    "price": 8190000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 12GB GDDR6 Aorus Elite Rev2.0 - GV-N3060AORUS E-12GD",
+    "name": "Gigabyte-GeForce-RTX-3060-12GB-GDDR6-Aorus-Elite-Rev20-GV-N3060AORUS-E-12GD",
+    "code": 173483
+  },
+  {
+    "price": 2430000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GTX 1650 4GB DDR6 Windforce OC Rev2.0 - GV-N1656WF2OC-4GD",
+    "name": "Gigabyte-GeForce-GTX-1650-4GB-DDR6-Windforce-OC-Rev20-GV-N1656WF2OC-4GD",
+    "code": 173484
+  },
+  {
+    "price": 4990000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 3060 12GB GDDR6 Twin X2-LHR",
+    "name": "Inno-3D-GeForce-RTX-3060-12GB-GDDR6-Twin-X2-LHR",
+    "code": 173492
+  },
+  {
+    "price": 10369000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/90679874-6965-4484-ae18-a932593b28d1.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6900 XT 16GB GDDR6 Red Devil Ultimate",
+    "name": "PowerColor-Radeon-RX-6900-XT-16GB-GDDR6-Red-Devil-Ultimate",
+    "code": 173500
+  },
+  {
+    "price": 9890000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/14/bcf3ca3a-932d-4a4e-a098-a98c078f3242.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 Ti 8GB GDDR6 Aorus Elite Rev2.0 GV-N306TAORUS E-8GD",
+    "name": "Gigabyte-GeForce-RTX-3060-Ti-8GB-GDDR6-Aorus-Elite-Rev20-GV-N306TAORUS-E-8GD",
+    "code": 173568
+  },
+  {
+    "price": 8990000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 Ti 8GB GDDR6 Vision OC Rev2.0 - GV-N306TVISION OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3060-Ti-8GB-GDDR6-Vision-OC-Rev20-GV-N306TVISION-OC-8GD",
+    "code": 173569
+  },
+  {
+    "price": 8250000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/1/9c9669fa-d59b-41c0-8773-78d2460870dc.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6800 XT CORE 16GB DDR6 SPEEDSTER SWFT319 - RX-68XTAQFD9",
+    "name": "XFX-Radeon-RX-6800-XT-CORE-16GB-DDR6-SPEEDSTER-SWFT319-RX-68XTAQFD9",
+    "code": 173633
+  },
+  {
+    "price": 33825000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/30/11f2279e-7d64-4e8f-a596-69b556e5a71a.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6900 XT RGB EKWB Waterblock 16GB DDR6 SPEEDSTER ZERO - RX-69XTAWBD9",
+    "name": "XFX-Radeon-RX-6900-XT-RGB-EKWB-Waterblock-16GB-DDR6-SPEEDSTER-ZERO-RX-69XTAWBD9",
+    "code": 173634
+  },
+  {
+    "price": 29787000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/30/5dbed2bc-4eb6-4e67-bb98-8dd5fda28ff1.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6900 XT Limited BLACK 16GB DDR6 SPEEDSTER MERC 319 - RX-69XTACSD9",
+    "name": "XFX-Radeon-RX-6900-XT-Limited-BLACK-16GB-DDR6-SPEEDSTER-MERC-319-RX-69XTACSD9",
+    "code": 173635
+  },
+  {
+    "price": 8690000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/13/ce55f08b-93a1-4948-b364-e2ea581ad9dd.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6700 XT CORE 12GB DDR6  SPEEDSTER SWFT309 - RX-67XTYJFDV",
+    "name": "XFX-Radeon-RX-6700-XT-CORE-12GB-DDR6-SPEEDSTER-SWFT309-RX-67XTYJFDV",
+    "code": 173636
+  },
+  {
+    "price": 8350000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/20/a8ddf6da-a987-497f-a0ed-eb8a11c87c97.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3070 8GB DDR6 (1-Click OC) - DUAL FAN - LHR Version - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3070-8GB-DDR6-1-Click-OC-DUAL-FAN-LHR-Version-Garansi-3-Thn",
+    "code": 173884
+  },
+  {
+    "price": 2657000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/21/b7f1b69b-7796-4451-ba36-71028ba37925.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6600 CORE 8GB DDR6 SPEEDSTER SWFT210 - RX-66XL8LFDQ",
+    "name": "XFX-Radeon-RX-6600-CORE-8GB-DDR6-SPEEDSTER-SWFT210-RX-66XL8LFDQ",
+    "code": 173889
+  },
+  {
+    "price": 3209000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/2/f8a2b129-5093-404e-bf23-db71555f8ab9.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6600 8GB DDR6 Pulse",
+    "name": "Sapphire-Radeon-RX-6600-8GB-DDR6-Pulse",
+    "code": 173890
+  },
+  {
+    "price": 3269000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/3/b3e4a1f4-7626-42b5-9a1c-27df46eb1655.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 6600 8GB DDR6 - Challenger D 8G",
+    "name": "ASRock-Radeon-RX-6600-8GB-DDR6-Challenger-D-8G",
+    "code": 174058
+  },
+  {
+    "price": 3190000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/3/304b8ffa-5fb0-4c5f-9032-d22e183f6f3b.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6600 8GB GDDR6 Fighter",
+    "name": "PowerColor-Radeon-RX-6600-8GB-GDDR6-Fighter",
+    "code": 174094
+  },
+  {
+    "price": 3810000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6600 8GB GDDR6 Hellhound",
+    "name": "PowerColor-Radeon-RX-6600-8GB-GDDR6-Hellhound",
+    "code": 174302
+  },
+  {
+    "price": 3844000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 6600 XT 8GB GDDR6 Gaming OC - GV-R66XTGAMING OC-8GD",
+    "name": "Gigabyte-Radeon-RX-6600-XT-8GB-GDDR6-Gaming-OC-GV-R66XTGAMING-OC-8GD",
+    "code": 174313
+  },
+  {
+    "price": 1200000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/2/12/5d5aa58a-218c-45a8-a881-e77ea6951f6e.jpg",
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce GT 1030 2GB DDR4",
+    "name": "PNY-GeForce-GT-1030-2GB-DDR4",
+    "code": 174602
+  },
+  {
+    "price": 7300000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/4/afd0e84b-6539-4741-8909-7d1190c47f24.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 3070 8GB GDDR6 ICHILL X4-LHR",
+    "name": "Inno-3D-GeForce-RTX-3070-8GB-GDDR6-ICHILL-X4-LHR",
+    "code": 174866
+  },
+  {
+    "price": 4550000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/7/42d90d4c-b439-4b43-b809-502aad628cc0.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 2060 12GB DDR6 PLUS (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-2060-12GB-DDR6-PLUS-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 174893
+  },
+  {
+    "price": 11000000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Winfast GeForce RTX 3070 8GB GDDR6 Hurricane LHR",
+    "name": "Winfast-GeForce-RTX-3070-8GB-GDDR6-Hurricane-LHR",
+    "code": 174927
+  },
+  {
+    "price": 635000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "VenomRX GeForce GT 740 4GB DDR3",
+    "name": "VenomRX-GeForce-GT-740-4GB-DDR3",
+    "code": 174934
+  },
+  {
+    "price": 6940000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/5dfb3ee4-2926-48b9-9f26-a4552e0d1c77.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 12GB GDDR6 Vision OC Rev2.0 - GV-N3060VISION OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-3060-12GB-GDDR6-Vision-OC-Rev20-GV-N3060VISION-OC-12GD",
+    "code": 174964
+  },
+  {
+    "price": 4999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/9/197edd43-3992-44bb-9e22-b6c21ca53185.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 2060 12GB DDR6 - Ventus OC",
+    "name": "MSI-GeForce-RTX-2060-12GB-DDR6-Ventus-OC",
+    "code": 175147
+  },
+  {
+    "price": 49660000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte Quadro RTX A5000-NV 24GB GDDR6 384 Bit",
+    "name": "Gigabyte-Quadro-RTX-A5000-NV-24GB-GDDR6-384-Bit",
+    "code": 175175
+  },
+  {
+    "price": 5029000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/10/2dbe5c9a-1bc5-426e-8b90-adc9ab25b2c6.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gainward GeForce RTX 3060 12GB GDDR6 - Ghost LHR",
+    "name": "Gainward-GeForce-RTX-3060-12GB-GDDR6-Ghost-LHR",
+    "code": 175207
+  },
+  {
+    "price": 1210000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/25/a6c5dbcb-a399-4798-8e6b-4a1a053ece3f.jpg",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Colorful GeForce GT 1030 4GB DDR4 - 4G-V",
+    "name": "Colorful-GeForce-GT-1030-4GB-DDR4-4G-V",
+    "code": 175275
+  },
+  {
+    "price": 2446000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/27/4272a059-35cc-4819-9796-615609ad11ad.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6500 XT 4GB DDR6 Pulse OC",
+    "name": "Sapphire-Radeon-RX-6500-XT-4GB-DDR6-Pulse-OC",
+    "code": 175340
+  },
+  {
+    "price": 9500000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/29/783a0551-1550-4f2c-bbcb-837f35a6e4f3.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3070 Ti 8GB DDR6X (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3070-Ti-8GB-DDR6X-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 175362
+  },
+  {
+    "price": 1429000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Biostar GeForce GT 1030 4GB DDR4",
+    "name": "Biostar-GeForce-GT-1030-4GB-DDR4",
+    "code": 175363
+  },
+  {
+    "price": 7679000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/11/eac1c3ae-7e7e-4c65-ad52-cd9ef98e5e62.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gainward GeForce RTX 3070 8GB GDDR6 - Phantom+ LHR",
+    "name": "Gainward-GeForce-RTX-3070-8GB-GDDR6-Phantom-LHR",
+    "code": 175501
+  },
+  {
+    "price": 10599000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/9/5c2183da-3c2c-4b0c-925d-d6bf6e7a0b8c.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3080 12GB GDDR6X - Ventus 3X PLUS OC-LHR - Promo Limited!!!",
+    "name": "MSI-GeForce-RTX-3080-12GB-GDDR6X-Ventus-3X-PLUS-OC-LHR-Promo-Limited",
+    "code": 175811
+  },
+  {
+    "price": 10999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/9/d76f6628-9f7a-474d-83fb-ccf47884c23f.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3080 12GB GDDR6X - Gaming Z TRIO-LHR - Promo Limited!!!",
+    "name": "MSI-GeForce-RTX-3080-12GB-GDDR6X-Gaming-Z-TRIO-LHR-Promo-Limited",
+    "code": 175812
+  },
+  {
+    "price": 11599000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/20/b5ed85e2-3777-482e-8009-a0caa386e49a.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3080 12GB GDDR6X - SUPRIM X-LHR",
+    "name": "MSI-GeForce-RTX-3080-12GB-GDDR6X-SUPRIM-X-LHR",
+    "code": 175813
+  },
+  {
+    "price": 2310000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/27/d802ee6d-9091-4362-8539-0cec6d72ffb6.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6500 XT 4GB DDR6 ITX",
+    "name": "PowerColor-Radeon-RX-6500-XT-4GB-DDR6-ITX",
+    "code": 175819
+  },
+  {
+    "price": 5155000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/29/6fecb311-18ee-445d-9fac-9ba15b2c1b92.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3050 8GB GDDR6 Gaming OC - GV-N3050GAMING OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3050-8GB-GDDR6-Gaming-OC-GV-N3050GAMING-OC-8GD",
+    "code": 175986
+  },
+  {
+    "price": 4250000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/9/b9ca6263-d183-48eb-8e31-78e254dae9ef.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3050 8GB GDDR6 Eagle OC - GV-N3050EAGLE OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3050-8GB-GDDR6-Eagle-OC-GV-N3050EAGLE-OC-8GD",
+    "code": 175987
+  },
+  {
+    "price": 3390000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro T400 4GB GDDR6",
+    "name": "Leadtek-Quadro-T400-4GB-GDDR6",
+    "code": 175996
+  },
+  {
+    "price": 4950000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/29/2545a1ab-7582-46df-aea0-939627409a62.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3050 8GB DDR6 EX (1-Click OC) - DUAL RGB FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3050-8GB-DDR6-EX-1-Click-OC-DUAL-RGB-FAN-Garansi-3-Thn",
+    "code": 175997
+  },
+  {
+    "price": 2780000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/27/9d2be57a-ebaa-4ac8-9c73-3a21bf1088a6.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6500 XT CORE 4GB DDR6 SPEEDSTER QICK 210 - RX-65XT4DBDQ",
+    "name": "XFX-Radeon-RX-6500-XT-CORE-4GB-DDR6-SPEEDSTER-QICK-210-RX-65XT4DBDQ",
+    "code": 175998
+  },
+  {
+    "price": 2625000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/27/d1295266-e3ff-4eb3-9e96-2106af61cd72.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 6500 XT 4GB DDR6 - MECH 2X OC",
+    "name": "MSI-Radeon-RX-6500-XT-4GB-DDR6-MECH-2X-OC",
+    "code": 176043
+  },
+  {
+    "price": 4890000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/2/25/f095482f-e472-4938-bd06-538faab626b1.jpg",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce GTX 1660 SUPER 6GB DDR6 - TUF Gaming OC Edition",
+    "name": "Asus-GeForce-GTX-1660-SUPER-6GB-DDR6-TUF-Gaming-OC-Edition",
+    "code": 176093
+  },
+  {
+    "price": 9500000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/12/f07f95a7-e129-464a-a14e-eb34f1f247d2.jpg",
+    "size": "10GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3080 10GB GDDR6X - Ventus 3X PLUS OC-LHR",
+    "name": "MSI-GeForce-RTX-3080-10GB-GDDR6X-Ventus-3X-PLUS-OC-LHR",
+    "code": 176113
+  },
+  {
+    "price": 4500000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/2/25/fe6ad6c4-a908-4c8d-a3bb-7aabf3ada0c8.jpg",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce GTX 1660 SUPER 6GB DDR6 - Phoenix (PH) OC Edition",
+    "name": "Asus-GeForce-GTX-1660-SUPER-6GB-DDR6-Phoenix-PH-OC-Edition",
+    "code": 176116
+  },
+  {
+    "price": 3929000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/02f3d1eb-5889-4015-9901-7d58112bac3d.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 3050 8GB GDDR6 - Dual OC Edition",
+    "name": "Asus-GeForce-RTX-3050-8GB-GDDR6-Dual-OC-Edition",
+    "code": 176120
+  },
+  {
+    "price": 4120000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/de6f2588-2310-4a95-ba77-c147555fbab4.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3050 8GB GDDR6 - Gaming X",
+    "name": "MSI-GeForce-RTX-3050-8GB-GDDR6-Gaming-X",
+    "code": 176122
+  },
+  {
+    "price": 3890000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/7486c7ee-73d3-445d-876c-b7246c1b14a7.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3050 8GB GDDR6 - Ventus 2X OC",
+    "name": "MSI-GeForce-RTX-3050-8GB-GDDR6-Ventus-2X-OC",
+    "code": 176123
+  },
+  {
+    "price": 3830000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/3f945b3a-089e-4df9-88d3-272d8bd920ba.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3050 8GB GDDR6 - AERO ITX OC",
+    "name": "MSI-GeForce-RTX-3050-8GB-GDDR6-AERO-ITX-OC",
+    "code": 176124
+  },
+  {
+    "price": 8720000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 6800 XT 16GB GDDR6 - GAMING Z TRIO - Promo Limited!!!",
+    "name": "MSI-Radeon-RX-6800-XT-16GB-GDDR6-GAMING-Z-TRIO-Promo-Limited",
+    "code": 176143
+  },
+  {
+    "price": 4350000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/9/d5373c25-a396-43d4-9656-ec8ab5bd69dc.jpg",
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 2060 6GB DDR6 PLUS (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-2060-6GB-DDR6-PLUS-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 176157
+  },
+  {
+    "price": 830000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Colorful GeForce GT 730K 4GB DDR3 - 4GD3-V",
+    "name": "Colorful-GeForce-GT-730K-4GB-DDR3-4GD3-V",
+    "code": 176208
+  },
+  {
+    "price": 2375000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/2/11/48b1d0f8-131e-4ea3-b788-1f0008ab82f6.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 6500 XT 4GB DDR6 - Phantom Gaming D 4G OC",
+    "name": "ASRock-Radeon-RX-6500-XT-4GB-DDR6-Phantom-Gaming-D-4G-OC",
+    "code": 176237
+  },
+  {
+    "price": 14650000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Radeon Pro W6600 8GB DDR6",
+    "name": "Radeon-Pro-W6600-8GB-DDR6",
+    "code": 176340
+  },
+  {
+    "price": 2350000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/25/834cfad0-fd41-4a09-8971-103772eb38b1.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6500 XT 4GB DDR6 Fighter",
+    "name": "PowerColor-Radeon-RX-6500-XT-4GB-DDR6-Fighter",
+    "code": 176414
+  },
+  {
+    "price": 2459000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/2/11/622ee8ea-7da4-4900-96bd-911b9022586a.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 6500 XT 4GB GDDR6 Gaming OC - GV-R65XTGAMING OC-4GD",
+    "name": "Gigabyte-Radeon-RX-6500-XT-4GB-GDDR6-Gaming-OC-GV-R65XTGAMING-OC-4GD",
+    "code": 176417
+  },
+  {
+    "price": 4270000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 3050 8GB GDDR6 Twin X2 OC",
+    "name": "Inno-3D-GeForce-RTX-3050-8GB-GDDR6-Twin-X2-OC",
+    "code": 176482
+  },
+  {
+    "price": 19900000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Winfast GeForce RTX 3080 Ti 12GB GDDR6X Hurricane",
+    "name": "Winfast-GeForce-RTX-3080-Ti-12GB-GDDR6X-Hurricane",
+    "code": 176521
+  },
+  {
+    "price": 2800000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Winfast GeForce GTX 1650 4GB GDDR6",
+    "name": "Winfast-GeForce-GTX-1650-4GB-GDDR6",
+    "code": 176523
+  },
+  {
+    "price": 36000000,
+    "image": null,
+    "size": "20GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro RTX A4500 20GB GDDR6",
+    "name": "Leadtek-Quadro-RTX-A4500-20GB-GDDR6",
+    "code": 176668
+  },
+  {
+    "price": 8100000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro T1000 8GB GDDR6",
+    "name": "Leadtek-Quadro-T1000-8GB-GDDR6",
+    "code": 176674
+  },
+  {
+    "price": 5925000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/29/ddeb168c-de00-4a01-89a2-fbcb6a62906f.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6700 XT 12GB GDDR6 Dual OC Edition",
+    "name": "Asus-Radeon-RX-6700-XT-12GB-GDDR6-Dual-OC-Edition",
+    "code": 176995
+  },
+  {
+    "price": 4950000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/473126e3-cb38-4efc-a851-470af7f2d3df.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 2060 SUPER 8GB DDR6 (1-Click OC) V2 - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-2060-SUPER-8GB-DDR6-1-Click-OC-V2-DUAL-FAN-Garansi-3-Thn",
+    "code": 176999
+  },
+  {
+    "price": 2450000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/399ac600-a5e8-438b-a1ee-32103c1a23d6.jpg",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce GTX 1650 4GB DDR6 Dual Fan",
+    "name": "PNY-GeForce-GTX-1650-4GB-DDR6-Dual-Fan",
+    "code": 177085
+  },
+  {
+    "price": 10000000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/23/cd1419cc-b8ab-4ecc-bb5c-eff9d6b461d8.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3080 12GB DDR6X SG (1-Click OC) - TRIPLE ARGB FAN - LHR Version - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3080-12GB-DDR6X-SG-1-Click-OC-TRIPLE-ARGB-FAN-LHR-Version-Garansi-3-Thn",
+    "code": 177168
+  },
+  {
+    "price": 4100000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/25/37aab4da-e074-41b1-9ba3-341a6c809b19.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3050 8GB DDR6 (1-Click OC) - SINGLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3050-8GB-DDR6-1-Click-OC-SINGLE-FAN-Garansi-3-Thn",
+    "code": 177188
+  },
+  {
+    "price": 4030000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3050 8GB GDDR6 Ultra W OC 8G-V - CNY Edition",
+    "name": "iGame-Geforce-RTX-3050-8GB-GDDR6-Ultra-W-OC-8G-V-CNY-Edition",
+    "code": 177276
+  },
+  {
+    "price": 22999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/9/03ed8223-d228-4a02-8ac3-019e8ec041cc.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3090 Ti 24GB GDDR6X - Gaming X TRIO - Promo Limited!!!",
+    "name": "MSI-GeForce-RTX-3090-Ti-24GB-GDDR6X-Gaming-X-TRIO-Promo-Limited",
+    "code": 177281
+  },
+  {
+    "price": 23999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/9/8d394b59-ed75-4e94-974b-718851455eba.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3090 Ti 24GB GDDR6X - SUPRIM X - Promo Limited!!!",
+    "name": "MSI-GeForce-RTX-3090-Ti-24GB-GDDR6X-SUPRIM-X-Promo-Limited",
+    "code": 177282
+  },
+  {
+    "price": 13395000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro RTX A2000 12GB GDDR6",
+    "name": "Leadtek-Quadro-RTX-A2000-12GB-GDDR6",
+    "code": 177289
+  },
+  {
+    "price": 9280000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3070 8GB GDDR6 Ultra OC-V LHR",
+    "name": "iGame-Geforce-RTX-3070-8GB-GDDR6-Ultra-OC-V-LHR",
+    "code": 177361
+  },
+  {
+    "price": 4750000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/8/716e2ac7-3143-4ae8-9e22-285c1ec40b6d.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Zotac GeForce RTX 3060 12GB GDDR6 Twin Edge-LHR",
+    "name": "Zotac-GeForce-RTX-3060-12GB-GDDR6-Twin-Edge-LHR",
+    "code": 177487
+  },
+  {
+    "price": 5990000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce RTX 3060 Ti 8GB GDDR6 Dual V1",
+    "name": "PALIT-GeForce-RTX-3060-Ti-8GB-GDDR6-Dual-V1",
+    "code": 177520
+  },
+  {
+    "price": 26000000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/21/34fa09b2-e3e1-4d55-99ca-e3b7b6d47a17.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3090 Ti 24GB DDR6X EX Gamer (1-Click OC) - Triple Fan - RGB Effect - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3090-Ti-24GB-DDR6X-EX-Gamer-1-Click-OC-Triple-Fan-RGB-Effect-Garansi-3-Thn",
+    "code": 177533
+  },
+  {
+    "price": 2155000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/22/e1c0b0c6-67d4-455b-934a-80acb3fc61f6.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 6400 4GB DDR6 - AERO ITX 4G",
+    "name": "MSI-Radeon-RX-6400-4GB-DDR6-AERO-ITX-4G",
+    "code": 177581
+  },
+  {
+    "price": 2056000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/18/73fd38bd-3b2c-4ff4-8ba8-ae75923d9d8d.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6400 4GB DDR6 Pulse",
+    "name": "Sapphire-Radeon-RX-6400-4GB-DDR6-Pulse",
+    "code": 177695
+  },
+  {
+    "price": 7190000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/28/c040d51e-c742-41f2-ba26-bb1891f09d6b.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3050 8GB GDDR6 Aorus Elite - GV-N3050AORUS E-8GD",
+    "name": "Gigabyte-GeForce-RTX-3050-8GB-GDDR6-Aorus-Elite-GV-N3050AORUS-E-8GD",
+    "code": 177696
+  },
+  {
+    "price": 5990000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce RTX 3060 Ti 8GB GDDR6 Dual OC V1",
+    "name": "PALIT-GeForce-RTX-3060-Ti-8GB-GDDR6-Dual-OC-V1",
+    "code": 177785
+  },
+  {
+    "price": 3890000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3050 8GB GDDR6 Ultra W DUO OC 8G-V",
+    "name": "iGame-Geforce-RTX-3050-8GB-GDDR6-Ultra-W-DUO-OC-8G-V",
+    "code": 177837
+  },
+  {
+    "price": 3750000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Colorful Geforce RTX 3050 8GB GDDR6 NB DUO 8G-V",
+    "name": "Colorful-Geforce-RTX-3050-8GB-GDDR6-NB-DUO-8G-V",
+    "code": 177838
+  },
+  {
+    "price": 4689000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/21/54fb53bb-e4d5-4970-9329-672fc7d7f2e1.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 6650 XT 8GB GDDR6 Gaming OC - GV-R665XTGAMING OC-8GD",
+    "name": "Gigabyte-Radeon-RX-6650-XT-8GB-GDDR6-Gaming-OC-GV-R665XTGAMING-OC-8GD",
+    "code": 177839
+  },
+  {
+    "price": 2200000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/13/1889ffc4-51e4-4c86-96bb-0fe09e3b2d01.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6400 4GB GDDR6 Dual",
+    "name": "Asus-Radeon-RX-6400-4GB-GDDR6-Dual",
+    "code": 177841
+  },
+  {
+    "price": 5977000,
+    "image": null,
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6750 XT 12GB DDR6 NITRO+",
+    "name": "Sapphire-Radeon-RX-6750-XT-12GB-DDR6-NITRO",
+    "code": 177847
+  },
+  {
+    "price": 5434000,
+    "image": null,
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6750 XT 12GB DDR6 PULSE",
+    "name": "Sapphire-Radeon-RX-6750-XT-12GB-DDR6-PULSE",
+    "code": 177848
+  },
+  {
+    "price": 4678000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/12/124bb9bf-0e58-4a84-a285-5ce81ef0b2b9.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6650 XT 8GB DDR6 NITRO+ OC",
+    "name": "Sapphire-Radeon-RX-6650-XT-8GB-DDR6-NITRO-OC",
+    "code": 177849
+  },
+  {
+    "price": 4376000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/26/8fd88eab-7988-4957-9947-68c883556244.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 6650 XT 8GB DDR6 PULSE",
+    "name": "Sapphire-Radeon-RX-6650-XT-8GB-DDR6-PULSE",
+    "code": 177850
+  },
+  {
+    "price": 21850000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Gainward GeForce RTX 3090 Ti 24GB GDDR6X - Phantom",
+    "name": "Gainward-GeForce-RTX-3090-Ti-24GB-GDDR6X-Phantom",
+    "code": 177855
+  },
+  {
+    "price": 11150000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 6950 XT 16GB GDDR6 - GAMING X TRIO - Promo Limited!!!",
+    "name": "MSI-Radeon-RX-6950-XT-16GB-GDDR6-GAMING-X-TRIO-Promo-Limited",
+    "code": 177860
+  },
+  {
+    "price": 6065000,
+    "image": null,
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 6750 XT 12GB GDDR6 - MECH 2X OC - Promo Limited!!!",
+    "name": "MSI-Radeon-RX-6750-XT-12GB-GDDR6-MECH-2X-OC-Promo-Limited",
+    "code": 177862
+  },
+  {
+    "price": 6800000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/18/407dab22-ab8a-4125-810f-5cad82577173.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6750 XT BLACK 12GB DDR6 SPEEDSTER MERC319 - RX-675XYTBDP",
+    "name": "XFX-Radeon-RX-6750-XT-BLACK-12GB-DDR6-SPEEDSTER-MERC319-RX-675XYTBDP",
+    "code": 177876
+  },
+  {
+    "price": 6650000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/18/98a51b88-3e2f-4b63-884e-08170edc361c.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6750 XT ULTRA 12GB DDR6 SPEEDSTER QICK319 - RX-675XYLUDP",
+    "name": "XFX-Radeon-RX-6750-XT-ULTRA-12GB-DDR6-SPEEDSTER-QICK319-RX-675XYLUDP",
+    "code": 177877
+  },
+  {
+    "price": 4990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/18/846e9d1e-c984-4f04-b000-76581df37771.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6650 XT BLACK 8GB DDR6 SPEEDSTER MERC308 - TRIPLE FAN - RX-665X8TBDY",
+    "name": "XFX-Radeon-RX-6650-XT-BLACK-8GB-DDR6-SPEEDSTER-MERC308-TRIPLE-FAN-RX-665X8TBDY",
+    "code": 177878
+  },
+  {
+    "price": 4850000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/18/e7060df7-4e30-4971-8d28-b1270eeb6fac.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6650 XT ULTRA 8GB DDR6 SPEEDSTER QICK308 - TRIPLE FAN - RX-665X8LUDY",
+    "name": "XFX-Radeon-RX-6650-XT-ULTRA-8GB-DDR6-SPEEDSTER-QICK308-TRIPLE-FAN-RX-665X8LUDY",
+    "code": 177879
+  },
+  {
+    "price": 4100000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/19998788-4ef1-430c-a8d3-e9a0bb5137d1.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3050 8GB DDR6 (1-Click OC) V2 - SINGLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3050-8GB-DDR6-1-Click-OC-V2-SINGLE-FAN-Garansi-3-Thn",
+    "code": 177892
+  },
+  {
+    "price": 11200000,
+    "image": null,
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 6950 XT 16GB GDDR6 Gaming OC - GV-R695XTGAMING OC-16GD",
+    "name": "Gigabyte-Radeon-RX-6950-XT-16GB-GDDR6-Gaming-OC-GV-R695XTGAMING-OC-16GD",
+    "code": 177927
+  },
+  {
+    "price": 6550000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/10/45a8ad6e-c09d-47f5-b8e4-09a3e54c2d54.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 6750 XT 12GB DDR6 - Phantom Gaming D 12G OC",
+    "name": "ASRock-Radeon-RX-6750-XT-12GB-DDR6-Phantom-Gaming-D-12G-OC",
+    "code": 177947
+  },
+  {
+    "price": 6350000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/10/9a46baac-63ff-46fe-8284-9c62c16b876d.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 6750 XT 12GB DDR6 - Challenger Pro 12G OC",
+    "name": "ASRock-Radeon-RX-6750-XT-12GB-DDR6-Challenger-Pro-12G-OC",
+    "code": 177948
+  },
+  {
+    "price": 4159000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/12/1c34dcb6-100e-48f2-891f-fb2498274243.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 6650 XT 8GB DDR6 - Challenger D 8G OC",
+    "name": "ASRock-Radeon-RX-6650-XT-8GB-DDR6-Challenger-D-8G-OC",
+    "code": 177950
+  },
+  {
+    "price": 10840000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/068c36c9-61da-4a89-af84-346ae397ef0a.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6950 XT 16GB GDDR6 Red Devil",
+    "name": "PowerColor-Radeon-RX-6950-XT-16GB-GDDR6-Red-Devil",
+    "code": 178080
+  },
+  {
+    "price": 5720000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/12/1ddcab8d-7d5f-45d7-a754-bad3560ab2d8.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6750 XT 12GB GDDR6 Red Devil",
+    "name": "PowerColor-Radeon-RX-6750-XT-12GB-GDDR6-Red-Devil",
+    "code": 178081
+  },
+  {
+    "price": 4370000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/0d4b1ca1-cab1-4aa3-a5d0-bdc8247bc53b.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6650 XT 8GB GDDR6 Hellhound Sakura Edition",
+    "name": "PowerColor-Radeon-RX-6650-XT-8GB-GDDR6-Hellhound-Sakura-Edition",
+    "code": 178082
+  },
+  {
+    "price": 4070000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/60e2b456-74c1-4327-91ac-8bc8a34f70ab.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6650 XT 8GB GDDR6 Hellhound",
+    "name": "PowerColor-Radeon-RX-6650-XT-8GB-GDDR6-Hellhound",
+    "code": 178083
+  },
+  {
+    "price": 2050000,
+    "image": null,
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 6400 4GB DDR6 ITX",
+    "name": "PowerColor-Radeon-RX-6400-4GB-DDR6-ITX",
+    "code": 178084
+  },
+  {
+    "price": 23500000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Winfast GeForce RTX 3090 24GB GDDR6X Hurricane",
+    "name": "Winfast-GeForce-RTX-3090-24GB-GDDR6X-Hurricane",
+    "code": 178257
+  },
+  {
+    "price": 25889000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/21/58dfd252-bb68-4f28-956f-a23e779ebc8b.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 3090 Ti 24GB GDDR6X Vulcan OC-V",
+    "name": "iGame-GeForce-RTX-3090-Ti-24GB-GDDR6X-Vulcan-OC-V",
+    "code": 178286
+  },
+  {
+    "price": 2350000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/16/3f735b3c-53a7-4580-8eb6-d5d636957270.jpg",
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 6400 4GB DDR6 SPEEDSTER SWFT105 - RX-64XL4SFG2",
+    "name": "XFX-Radeon-RX-6400-4GB-DDR6-SPEEDSTER-SWFT105-RX-64XL4SFG2",
+    "code": 178473
+  },
+  {
+    "price": 39000000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/6/25/529235ca-6eae-445d-b13c-2d696428ea52.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3090 Ti 24GB DDR6X HOF VERSION (HALL OF FAME) - ARGB TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3090-Ti-24GB-DDR6X-HOF-VERSION-HALL-OF-FAME-ARGB-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 178633
+  },
+  {
+    "price": 8520000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3070 Ti 8GB GDDR6X Eagle OC - GV-N307TEAGLE OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3070-Ti-8GB-GDDR6X-Eagle-OC-GV-N307TEAGLE-OC-8GD",
+    "code": 178772
+  },
+  {
+    "price": 7179000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/bc71cb05-028c-4601-883c-fc1481ccfab9.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6750 XT 12GB GDDR6 ROG Strix OC Edition",
+    "name": "Asus-Radeon-RX-6750-XT-12GB-GDDR6-ROG-Strix-OC-Edition",
+    "code": 178857
+  },
+  {
+    "price": 5960000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/d2ec7728-80b8-4df3-bb18-0cd8739aec87.jpg",
+    "size": "12GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6750 XT 12GB GDDR6 Dual OC Edition",
+    "name": "Asus-Radeon-RX-6750-XT-12GB-GDDR6-Dual-OC-Edition",
+    "code": 178858
+  },
+  {
+    "price": 4779000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/c8785421-46f8-4cf4-801d-e8699aceb8d1.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6650 XT 8GB GDDR6 ROG Strix OC Edition",
+    "name": "Asus-Radeon-RX-6650-XT-8GB-GDDR6-ROG-Strix-OC-Edition",
+    "code": 178859
+  },
+  {
+    "price": 4320000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/e06e1710-d2da-496d-9f4f-a2c1e9d3e042.jpg",
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6650 XT 8GB GDDR6 Dual OC Edition",
+    "name": "Asus-Radeon-RX-6650-XT-8GB-GDDR6-Dual-OC-Edition",
+    "code": 178860
+  },
+  {
+    "price": 4370000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/22/c3d22e9b-01c6-4b9e-be3d-8d0579fef64e.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 3050 8GB GDDR6 - TUF Gaming OC Edition",
+    "name": "Asus-GeForce-RTX-3050-8GB-GDDR6-TUF-Gaming-OC-Edition",
+    "code": 178948
+  },
+  {
+    "price": 2165000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Colorful Geforce GTX 1630 4GB GDDR6 - NB 4G-V",
+    "name": "Colorful-Geforce-GTX-1630-4GB-GDDR6-NB-4G-V",
+    "code": 179165
+  },
+  {
+    "price": 2250000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/28/e312265d-4fbf-42fe-a0f3-c7f34ee4fa87.jpg",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce GTX 1630 4GB DDR6 EX (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-GTX-1630-4GB-DDR6-EX-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 179179
+  },
+  {
+    "price": 2375000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce GTX 1630 4GB GDDR6 - Ventus XS OC",
+    "name": "MSI-GeForce-GTX-1630-4GB-GDDR6-Ventus-XS-OC",
+    "code": 179419
+  },
+  {
+    "price": 2330000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/12/711c2ed0-b05f-432d-bf7e-01a1f8f0b81e.jpg",
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce GTX 1630 4GB DDR6 OC Series - GV-N1630OC-4GD",
+    "name": "Gigabyte-GeForce-GTX-1630-4GB-DDR6-OC-Series-GV-N1630OC-4GD",
+    "code": 179790
+  },
+  {
+    "price": 7829000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3070 8GB GDDR6 Eagle Rev2.0 - GV-N3070EAGLE-8GD",
+    "name": "Gigabyte-GeForce-RTX-3070-8GB-GDDR6-Eagle-Rev20-GV-N3070EAGLE-8GD",
+    "code": 179793
+  },
+  {
+    "price": 8835000,
+    "image": null,
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro RTX A2000 6GB GDDR6",
+    "name": "Leadtek-Quadro-RTX-A2000-6GB-GDDR6",
+    "code": 179864
+  },
+  {
+    "price": 4900000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/23/b49ebe3f-7484-462a-a03d-90830a361a6d.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "PNY Geforce RTX 3060 12GB DDR6 VERTO Dual Fan LHR",
+    "name": "PNY-Geforce-RTX-3060-12GB-DDR6-VERTO-Dual-Fan-LHR",
+    "code": 179911
+  },
+  {
+    "price": 7800000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/9/cf15581a-230c-4e00-a242-5ab9da3a2a46.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PNY Geforce RTX 3070 Ti 8GB GDDR6X XLR8 Gaming REVEL EPIC-X RGB Triple Fan",
+    "name": "PNY-Geforce-RTX-3070-Ti-8GB-GDDR6X-XLR8-Gaming-REVEL-EPIC-X-RGB-Triple-Fan",
+    "code": 179912
+  },
+  {
+    "price": 2490000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/a1d8a3be-dc55-4252-be45-6d28fd78d036.jpg",
+    "size": "6GB",
+    "brand": "intel",
+    "display_name": "ASRock Intel ARC A380 6GB GDDR6 - Challenger ITX 6GB OC",
+    "name": "ASRock-Intel-ARC-A380-6GB-GDDR6-Challenger-ITX-6GB-OC",
+    "code": 180027
+  },
+  {
+    "price": 12039000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/7cf0b111-0e26-4ca1-9b9f-1146d12925a0.jpg",
+    "size": "16GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 6950 XT 16GB GDDR6 TUF Gaming OC Edition",
+    "name": "Asus-Radeon-RX-6950-XT-16GB-GDDR6-TUF-Gaming-OC-Edition",
+    "code": 180271
+  },
+  {
+    "price": 28178000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Palit GeForce RTX 4090 24GB GDDR6X GameRock",
+    "name": "Palit-GeForce-RTX-4090-24GB-GDDR6X-GameRock",
+    "code": 180442
+  },
+  {
+    "price": 28150000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce RTX 4090 24GB GDDR6X XLR8 Gaming VERTO EPIC-X RGB OC Triple Fan",
+    "name": "PNY-GeForce-RTX-4090-24GB-GDDR6X-XLR8-Gaming-VERTO-EPIC-X-RGB-OC-Triple-Fan",
+    "code": 180592
+  },
+  {
+    "price": 27030000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Colorful GeForce RTX 4090 24GB GDDR6X NB EX-V",
+    "name": "Colorful-GeForce-RTX-4090-24GB-GDDR6X-NB-EX-V",
+    "code": 180593
+  },
+  {
+    "price": 8170000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/28/0b334ba8-a446-461b-a193-cc290f240f87.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 Ti 8GB GDDR6 Windforce OC - GV-N306TWF2OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3060-Ti-8GB-GDDR6-Windforce-OC-GV-N306TWF2OC-8GD",
+    "code": 180603
+  },
+  {
+    "price": 5269000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/28/a62ec900-5a8f-49e3-b36d-10c670be731d.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 12GB GDDR6 Windforce OC - GV-N3060WF2OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-3060-12GB-GDDR6-Windforce-OC-GV-N3060WF2OC-12GD",
+    "code": 180604
+  },
+  {
+    "price": 36820000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/16/29c94a46-a5db-4827-9a6d-ee087e88004a.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4090 24GB GDDR6X - ROG Strix OC Edition",
+    "name": "Asus-GeForce-RTX-4090-24GB-GDDR6X-ROG-Strix-OC-Edition",
+    "code": 180606
+  },
+  {
+    "price": 35190000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4090 24GB GDDR6X - TUF Gaming OC Edition",
+    "name": "Asus-GeForce-RTX-4090-24GB-GDDR6X-TUF-Gaming-OC-Edition",
+    "code": 180607
+  },
+  {
+    "price": 34990000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4090 24GB GDDR6X - TUF Gaming",
+    "name": "Asus-GeForce-RTX-4090-24GB-GDDR6X-TUF-Gaming",
+    "code": 180608
+  },
+  {
+    "price": 29500000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/14/0339da41-ff1f-43b3-b267-e9f7c91e91a6.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4090 24GB DDR6X SG (1-Click OC) - ARGB EFFECT - TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4090-24GB-DDR6X-SG-1-Click-OC-ARGB-EFFECT-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 180609
+  },
+  {
+    "price": 28900000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/14/b5380dc0-bbd8-4c9e-a6d1-6476596c6593.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4090 24GB DDR6X ST (1-Click OC) - ARGB EFFECT - TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4090-24GB-DDR6X-ST-1-Click-OC-ARGB-EFFECT-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 180610
+  },
+  {
+    "price": 29590000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/26/d46ed54f-fcb3-45a2-9889-4e9ae6e6773d.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4090 24GB GDDR6X - Gaming X TRIO 24G",
+    "name": "MSI-GeForce-RTX-4090-24GB-GDDR6X-Gaming-X-TRIO-24G",
+    "code": 180628
+  },
+  {
+    "price": 33190000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/16/4daa8f32-4482-41e9-aaf2-e340394ddba7.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4090 24GB GDDR6X - SUPRIM X 24G",
+    "name": "MSI-GeForce-RTX-4090-24GB-GDDR6X-SUPRIM-X-24G",
+    "code": 180629
+  },
+  {
+    "price": 35090000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4090 24GB GDDR6X - SUPRIM LIQUID X 24G",
+    "name": "MSI-GeForce-RTX-4090-24GB-GDDR6X-SUPRIM-LIQUID-X-24G",
+    "code": 180630
+  },
+  {
+    "price": 29350000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/16/c90b1001-ac38-4fa7-98ce-9ff339c1ab72.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4090 24GB GDDR6X - Gaming TRIO 24G",
+    "name": "MSI-GeForce-RTX-4090-24GB-GDDR6X-Gaming-TRIO-24G",
+    "code": 180732
+  },
+  {
+    "price": 34580000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4090 24GB GDDR6X Aorus Master - GV-N4090AORUS M-24GD",
+    "name": "Gigabyte-GeForce-RTX-4090-24GB-GDDR6X-Aorus-Master-GV-N4090AORUS-M-24GD",
+    "code": 180740
+  },
+  {
+    "price": 29550000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/31/97b58209-e849-4607-8515-b5f4aefbc654.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4090 24GB GDDR6X Gaming OC - GV-N4090GAMING OC-24GD",
+    "name": "Gigabyte-GeForce-RTX-4090-24GB-GDDR6X-Gaming-OC-GV-N4090GAMING-OC-24GD",
+    "code": 180741
+  },
+  {
+    "price": 5055000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce RTX 3060 8GB GDDR6 StormX",
+    "name": "PALIT-GeForce-RTX-3060-8GB-GDDR6-StormX",
+    "code": 180959
+  },
+  {
+    "price": 29440000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/29/5e4c7561-05d1-4dfd-9562-e06f836310d0.jpg",
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4090 24GB GDDR6X Vulcan OC-V",
+    "name": "iGame-GeForce-RTX-4090-24GB-GDDR6X-Vulcan-OC-V",
+    "code": 181013
+  },
+  {
+    "price": 22000000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/12/16ca242e-d127-4624-8170-bc7d8a5924b5.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4080 16GB GDDR6X - TUF Gaming OC Edition",
+    "name": "Asus-GeForce-RTX-4080-16GB-GDDR6X-TUF-Gaming-OC-Edition",
+    "code": 181141
+  },
+  {
+    "price": 24330000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/27/74ae7979-54c4-457b-b0ec-2b22627c2adc.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4080 16GB GDDR6X - ROG Strix OC Edition",
+    "name": "Asus-GeForce-RTX-4080-16GB-GDDR6X-ROG-Strix-OC-Edition",
+    "code": 181142
+  },
+  {
+    "price": 22970000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/12/fb82e503-ac0e-45c3-ab53-d040f3739217.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4080 16GB GDDR6X Gaming OC - GV-N4080GAMING OC-16GD",
+    "name": "Gigabyte-GeForce-RTX-4080-16GB-GDDR6X-Gaming-OC-GV-N4080GAMING-OC-16GD",
+    "code": 181157
+  },
+  {
+    "price": 22350000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/12/7c28d447-743c-4940-8338-2f602d6ec87a.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4080 16GB GDDR6X Eagle OC GV-N4080EAGLE OC-16GD",
+    "name": "Gigabyte-GeForce-RTX-4080-16GB-GDDR6X-Eagle-OC-GV-N4080EAGLE-OC-16GD",
+    "code": 181158
+  },
+  {
+    "price": 22500000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/16/3331f4ec-0343-46f8-9cb0-b3fc8a7766f6.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4080 16GB DDR6X SG (1-Click OC) - ARGB EFFECT - TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4080-16GB-DDR6X-SG-1-Click-OC-ARGB-EFFECT-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 181240
+  },
+  {
+    "price": 7450000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/16/982e273c-0720-4c3f-b33f-619be3bf2500.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3060 Ti 8GB DDR6X PLUS SG (1-Click OC) - RGB EFFECT - TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3060-Ti-8GB-DDR6X-PLUS-SG-1-Click-OC-RGB-EFFECT-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 181241
+  },
+  {
+    "price": 5150000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/16/d40bdc2d-4602-4fad-be3c-6f44bf419367.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3060 8GB DDR6 (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3060-8GB-DDR6-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 181242
+  },
+  {
+    "price": 21175000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/3/dc051dda-d907-4c74-ade6-d94ab76e5a35.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4080 16GB GDDR6X - Ventus 3X OC 16G",
+    "name": "MSI-GeForce-RTX-4080-16GB-GDDR6X-Ventus-3X-OC-16G",
+    "code": 181307
+  },
+  {
+    "price": 21370000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/24/56cd1b31-4bf7-4713-9a8d-2260443ac07d.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4080 16GB GDDR6X - Gaming X TRIO 16G",
+    "name": "MSI-GeForce-RTX-4080-16GB-GDDR6X-Gaming-X-TRIO-16G",
+    "code": 181308
+  },
+  {
+    "price": 23180000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4080 16GB GDDR6X - SUPRIM X 16G",
+    "name": "MSI-GeForce-RTX-4080-16GB-GDDR6X-SUPRIM-X-16G",
+    "code": 181309
+  },
+  {
+    "price": 21500000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4080 16GB GDDR6X - TUF Gaming",
+    "name": "Asus-GeForce-RTX-4080-16GB-GDDR6X-TUF-Gaming",
+    "code": 181310
+  },
+  {
+    "price": 21400000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4080 16GB GDDR6X Eagle - GV-N4080EAGLE-16GD",
+    "name": "Gigabyte-GeForce-RTX-4080-16GB-GDDR6X-Eagle-GV-N4080EAGLE-16GD",
+    "code": 181311
+  },
+  {
+    "price": 19350000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce RTX 4080 16GB GDDR6X XLR8 Gaming VERTO EPIC-X RGB OC Triple Fan",
+    "name": "PNY-GeForce-RTX-4080-16GB-GDDR6X-XLR8-Gaming-VERTO-EPIC-X-RGB-OC-Triple-Fan",
+    "code": 181315
+  },
+  {
+    "price": 23119000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4080 16GB GDDR6X AERO OC - GV-N4080AERO OC-16GD",
+    "name": "Gigabyte-GeForce-RTX-4080-16GB-GDDR6X-AERO-OC-GV-N4080AERO-OC-16GD",
+    "code": 181319
+  },
+  {
+    "price": 23890000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4080 16GB GDDR6X Aorus Master - GV-N4080AORUS M-16GD",
+    "name": "Gigabyte-GeForce-RTX-4080-16GB-GDDR6X-Aorus-Master-GV-N4080AORUS-M-16GD",
+    "code": 181324
+  },
+  {
+    "price": 20200000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/29/e7d397d0-98c0-4155-a178-a1450c170960.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Colorful GeForce RTX 4080 16GB GDDR6X NB EX-V",
+    "name": "Colorful-GeForce-RTX-4080-16GB-GDDR6X-NB-EX-V",
+    "code": 181340
+  },
+  {
+    "price": 20730000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/29/a132089a-bc8d-43ba-8865-45583a4f11bd.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4080 16GB GDDR6X Ultra W OC-V",
+    "name": "iGame-GeForce-RTX-4080-16GB-GDDR6X-Ultra-W-OC-V",
+    "code": 181341
+  },
+  {
+    "price": 20800000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/29/1f0a4627-c1fa-41d5-b24a-a7ab4c45e433.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4080 16GB GDDR6X Advanced OC-V",
+    "name": "iGame-GeForce-RTX-4080-16GB-GDDR6X-Advanced-OC-V",
+    "code": 181342
+  },
+  {
+    "price": 22460000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/29/a80a88a7-16ca-4eb6-aa30-dd0ab56e537a.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4080 16GB GDDR6X Vulcan OC-V",
+    "name": "iGame-GeForce-RTX-4080-16GB-GDDR6X-Vulcan-OC-V",
+    "code": 181343
+  },
+  {
+    "price": 24020000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4080 16GB GDDR6X Neptune OC-V",
+    "name": "iGame-GeForce-RTX-4080-16GB-GDDR6X-Neptune-OC-V",
+    "code": 181344
+  },
+  {
+    "price": 31290000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4090 24GB GDDR6X Neptune OC-V",
+    "name": "iGame-GeForce-RTX-4090-24GB-GDDR6X-Neptune-OC-V",
+    "code": 181345
+  },
+  {
+    "price": 21780000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/55a5aee9-7c8c-4212-8a24-c14d9955a15f.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 4080 16GB GDDR6X X3 OC",
+    "name": "Inno-3D-GeForce-RTX-4080-16GB-GDDR6X-X3-OC",
+    "code": 181396
+  },
+  {
+    "price": 22780000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/b42a9e26-6d9e-466e-9fbb-d3ea2901c8fb.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 4080 16GB GDDR6X ICHILL X3",
+    "name": "Inno-3D-GeForce-RTX-4080-16GB-GDDR6X-ICHILL-X3",
+    "code": 181398
+  },
+  {
+    "price": 5515000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/2635f9c4-3a79-4227-9f0c-9ba1c075038d.jpg",
+    "size": "8GB",
+    "brand": "intel",
+    "display_name": "ASRock Intel ARC A770 8GB GDDR6 - Phantom Gaming D 8GB OC",
+    "name": "ASRock-Intel-ARC-A770-8GB-GDDR6-Phantom-Gaming-D-8GB-OC",
+    "code": 181409
+  },
+  {
+    "price": 4900000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/28/903f3cdb-dbc5-4cf0-8824-56c3a1b0b1cd.jpg",
+    "size": "8GB",
+    "brand": "intel",
+    "display_name": "ASRock Intel ARC A750 8GB GDDR6 - Challenger D 8GB OC",
+    "name": "ASRock-Intel-ARC-A750-8GB-GDDR6-Challenger-D-8GB-OC",
+    "code": 181410
+  },
+  {
+    "price": 6950000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/30/225f2f6e-37f2-455c-96f5-f745d2ae015a.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3060 Ti 8GB DDR6X EX WHITE PLUS (1-Click OC) - RGB EFFECT - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3060-Ti-8GB-DDR6X-EX-WHITE-PLUS-1-Click-OC-RGB-EFFECT-DUAL-FAN-Garansi-3-Thn",
+    "code": 181603
+  },
+  {
+    "price": 6650000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/30/2bd7e883-1d79-44a7-94d1-08089f4116be.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 3060 Ti 8GB DDR6X PLUS (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-3060-Ti-8GB-DDR6X-PLUS-1-Click-OC-DUAL-FAN-Garansi-3-Thn",
+    "code": 181604
+  },
+  {
+    "price": 34700000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4090 24GB GDDR6X - SUPRIM LIQUID 24G",
+    "name": "MSI-GeForce-RTX-4090-24GB-GDDR6X-SUPRIM-LIQUID-24G",
+    "code": 182141
+  },
+  {
+    "price": 4460000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/3/53de0a3d-f175-4bf8-b8a9-0fa7a30fe36c.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Colorful Geforce RTX 3060 8GB GDDR6 NB DUO-V",
+    "name": "Colorful-Geforce-RTX-3060-8GB-GDDR6-NB-DUO-V",
+    "code": 182231
+  },
+  {
+    "price": 4670000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/3/fb39e13b-e660-444e-aafe-d8dbd6258bb8.jpg",
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3060 8GB GDDR6 Ultra W OC-V",
+    "name": "iGame-Geforce-RTX-3060-8GB-GDDR6-Ultra-W-OC-V",
+    "code": 182232
+  },
+  {
+    "price": 6320000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Zotac GeForce RTX 3060 Ti 8GB GDDR6X Twin Edge",
+    "name": "Zotac-GeForce-RTX-3060-Ti-8GB-GDDR6X-Twin-Edge",
+    "code": 182311
+  },
+  {
+    "price": 4580000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3060 8GB GDDR6 - Ventus 2X 8G OC",
+    "name": "MSI-GeForce-RTX-3060-8GB-GDDR6-Ventus-2X-8G-OC",
+    "code": 182320
+  },
+  {
+    "price": 975000,
+    "image": null,
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce GT 730 2GB DDR3 - N730K-2GD3/OCV5",
+    "name": "MSI-GeForce-GT-730-2GB-DDR3-N730K-2GD3OCV5",
+    "code": 182321
+  },
+  {
+    "price": 18900000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/22/ca1a6d74-6a4f-4fb3-b842-3e004dcc53df.jpg",
+    "size": "24GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 7900 XTX 24GB GDDR6 Gaming - RX-79XMBABF9",
+    "name": "XFX-Radeon-RX-7900-XTX-24GB-GDDR6-Gaming-RX-79XMBABF9",
+    "code": 182397
+  },
+  {
+    "price": 16900000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/22/458f0159-63bf-47f2-b2bb-f5f3e2be2780.jpg",
+    "size": "20GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 7900 XT 20GB GDDR6 Gaming - RX-79TMBABF9",
+    "name": "XFX-Radeon-RX-7900-XT-20GB-GDDR6-Gaming-RX-79TMBABF9",
+    "code": 182398
+  },
+  {
+    "price": 20489000,
+    "image": null,
+    "size": "24GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 7900 XTX 24GB GDDR6 NITRO+ Vapor-X",
+    "name": "Sapphire-Radeon-RX-7900-XTX-24GB-GDDR6-NITRO-Vapor-X",
+    "code": 182403
+  },
+  {
+    "price": 24550000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/31/c98e7dcf-8675-45ef-aa4c-0405531f76ed.jpg",
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4080 16GB GDDR6X - ROG Strix OC White Edition",
+    "name": "Asus-GeForce-RTX-4080-16GB-GDDR6X-ROG-Strix-OC-White-Edition",
+    "code": 182410
+  },
+  {
+    "price": 14850000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/30/339734f2-9c6a-4a99-975f-43a16dffb522.jpg",
+    "size": "20GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 7900 XT 20GB GDDR6",
+    "name": "ASRock-Radeon-RX-7900-XT-20GB-GDDR6",
+    "code": 182448
+  },
+  {
+    "price": 30995000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Gainward GeForce RTX 4090 24GB GDDR6X - Phantom GS",
+    "name": "Gainward-GeForce-RTX-4090-24GB-GDDR6X-Phantom-GS",
+    "code": 182557
+  },
+  {
+    "price": 24190000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "Gainward GeForce RTX 4080 16GB GDDR6X - Phantom GS",
+    "name": "Gainward-GeForce-RTX-4080-16GB-GDDR6X-Phantom-GS",
+    "code": 182558
+  },
+  {
+    "price": 21350000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/30/966dffae-0a63-4469-ac8a-3def7684ff08.jpg",
+    "size": "24GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 7900 XTX 24GB GDDR6 Red Devil",
+    "name": "PowerColor-Radeon-RX-7900-XTX-24GB-GDDR6-Red-Devil",
+    "code": 182573
+  },
+  {
+    "price": 17139000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/30/b375b9d4-7a0b-4ee1-9af9-6f7973747d54.jpg",
+    "size": "20GB",
+    "brand": "amd",
+    "display_name": "PowerColor Radeon RX 7900 XT 20GB GDDR6 Hellhound",
+    "name": "PowerColor-Radeon-RX-7900-XT-20GB-GDDR6-Hellhound",
+    "code": 182574
+  },
+  {
+    "price": 13730000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Colorful GeForce RTX 4070 Ti 12GB GDDR6X NB EX-V",
+    "name": "Colorful-GeForce-RTX-4070-Ti-12GB-GDDR6X-NB-EX-V",
+    "code": 182607
+  },
+  {
+    "price": 14230000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4070 Ti 12GB GDDR6X Ultra W OC-V",
+    "name": "iGame-GeForce-RTX-4070-Ti-12GB-GDDR6X-Ultra-W-OC-V",
+    "code": 182608
+  },
+  {
+    "price": 15040000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4070 Ti 12GB GDDR6X Advanced OC-V",
+    "name": "iGame-GeForce-RTX-4070-Ti-12GB-GDDR6X-Advanced-OC-V",
+    "code": 182609
+  },
+  {
+    "price": 18190000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4070 Ti 12GB GDDR6X Neptune OC-V",
+    "name": "iGame-GeForce-RTX-4070-Ti-12GB-GDDR6X-Neptune-OC-V",
+    "code": 182610
+  },
+  {
+    "price": 16240000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4070 Ti 12GB GDDR6X Vulcan OC-V",
+    "name": "iGame-GeForce-RTX-4070-Ti-12GB-GDDR6X-Vulcan-OC-V",
+    "code": 182611
+  },
+  {
+    "price": 19650000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/5/dbcf9540-42d4-4100-968e-84bbe68156dd.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4070 Ti 12GB GDDR6X - ROG Strix OC Edition",
+    "name": "Asus-GeForce-RTX-4070-Ti-12GB-GDDR6X-ROG-Strix-OC-Edition",
+    "code": 182658
+  },
+  {
+    "price": 17650000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/5/894b24ce-e46a-4f44-ac8d-cd3c15056590.jpg",
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4070 Ti 12GB GDDR6X - TUF Gaming OC Edition",
+    "name": "Asus-GeForce-RTX-4070-Ti-12GB-GDDR6X-TUF-Gaming-OC-Edition",
+    "code": 182659
+  },
+  {
+    "price": 13750000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce RTX 4070 Ti 12GB GDDR6X GamingPro",
+    "name": "PALIT-GeForce-RTX-4070-Ti-12GB-GDDR6X-GamingPro",
+    "code": 182681
+  },
+  {
+    "price": 15220000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4070 Ti 12GB GDDR6X Gaming OC - GV-N407TGAMING OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-4070-Ti-12GB-GDDR6X-Gaming-OC-GV-N407TGAMING-OC-12GD",
+    "code": 182682
+  },
+  {
+    "price": 14890000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4070 Ti 12GB GDDR6X Eagle OC - GV-N407TEAGLE OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-4070-Ti-12GB-GDDR6X-Eagle-OC-GV-N407TEAGLE-OC-12GD",
+    "code": 182683
+  },
+  {
+    "price": 15400000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4070 Ti 12GB GDDR6X - TUF Gaming",
+    "name": "Asus-GeForce-RTX-4070-Ti-12GB-GDDR6X-TUF-Gaming",
+    "code": 182686
+  },
+  {
+    "price": 15045000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4070 Ti 12GB GDDR6X - Ventus 3X OC 12G",
+    "name": "MSI-GeForce-RTX-4070-Ti-12GB-GDDR6X-Ventus-3X-OC-12G",
+    "code": 182724
+  },
+  {
+    "price": 16250000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4070 Ti 12GB GDDR6X - Gaming X TRIO 12G",
+    "name": "MSI-GeForce-RTX-4070-Ti-12GB-GDDR6X-Gaming-X-TRIO-12G",
+    "code": 182725
+  },
+  {
+    "price": 17530000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4070 Ti 12GB GDDR6X - SUPRIM X 12G",
+    "name": "MSI-GeForce-RTX-4070-Ti-12GB-GDDR6X-SUPRIM-X-12G",
+    "code": 182726
+  },
+  {
+    "price": 15910000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4070 Ti 12GB GDDR6X Aorus Master - GV-N407TAORUS M-12GD",
+    "name": "Gigabyte-GeForce-RTX-4070-Ti-12GB-GDDR6X-Aorus-Master-GV-N407TAORUS-M-12GD",
+    "code": 182739
+  },
+  {
+    "price": 15460000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4070 Ti 12GB GDDR6X Aorus Elite - GV-N407TAORUS E-12GD",
+    "name": "Gigabyte-GeForce-RTX-4070-Ti-12GB-GDDR6X-Aorus-Elite-GV-N407TAORUS-E-12GD",
+    "code": 182740
+  },
+  {
+    "price": 15020000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4070 Ti 12GB GDDR6X AERO OC - GV-N407TAERO OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-4070-Ti-12GB-GDDR6X-AERO-OC-GV-N407TAERO-OC-12GD",
+    "code": 182741
+  },
+  {
+    "price": 14570000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4070 Ti 12GB GDDR6X Eagle - GV-N407TEAGLE-12GD",
+    "name": "Gigabyte-GeForce-RTX-4070-Ti-12GB-GDDR6X-Eagle-GV-N407TEAGLE-12GD",
+    "code": 182743
+  },
+  {
+    "price": 22500000,
+    "image": null,
+    "size": "16GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4080 16GB DDR6X ST (1-Click OC) - TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4080-16GB-DDR6X-ST-1-Click-OC-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 182795
+  },
+  {
+    "price": 13700000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4070 Ti 12GB DDR6X SG (1-Click OC) - ARGB EFFECT - TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4070-Ti-12GB-DDR6X-SG-1-Click-OC-ARGB-EFFECT-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 182796
+  },
+  {
+    "price": 13050000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4070 Ti 12GB DDR6X ST (1-Click OC) - TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4070-Ti-12GB-DDR6X-ST-1-Click-OC-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 182797
+  },
+  {
+    "price": 1720000,
+    "image": null,
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "Asus Radeon RX 550 4GB DDR5 - Phoenix EVO",
+    "name": "Asus-Radeon-RX-550-4GB-DDR5-Phoenix-EVO",
+    "code": 182926
+  },
+  {
+    "price": 19230000,
+    "image": null,
+    "size": "24GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 7900 XTX 24GB GDDR6 Gaming OC - GV-R79XTXGAMING OC-24GD",
+    "name": "Gigabyte-Radeon-RX-7900-XTX-24GB-GDDR6-Gaming-OC-GV-R79XTXGAMING-OC-24GD",
+    "code": 182928
+  },
+  {
+    "price": 17250000,
+    "image": null,
+    "size": "20GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 7900 XT 20GB GDDR6 Gaming OC - GV-R79XTGAMING OC-20GD",
+    "name": "Gigabyte-Radeon-RX-7900-XT-20GB-GDDR6-Gaming-OC-GV-R79XTGAMING-OC-20GD",
+    "code": 182929
+  },
+  {
+    "price": 18100000,
+    "image": null,
+    "size": "24GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 7900 XTX 24GB GDDR6 - GV-R79XTX-24GC-B",
+    "name": "Gigabyte-Radeon-RX-7900-XTX-24GB-GDDR6-GV-R79XTX-24GC-B",
+    "code": 182936
+  },
+  {
+    "price": 19600000,
+    "image": null,
+    "size": "24GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 7900 XTX 24GB GDDR6 Aorus Elite - GV-R79XTXAORUS E-24GD",
+    "name": "Gigabyte-Radeon-RX-7900-XTX-24GB-GDDR6-Aorus-Elite-GV-R79XTXAORUS-E-24GD",
+    "code": 182937
+  },
+  {
+    "price": 13990000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "PNY Geforce RTX 4070 Ti 12GB GDDR6X XLR8 Gaming VERTO EPIC-X RGB OC Triple Fan",
+    "name": "PNY-Geforce-RTX-4070-Ti-12GB-GDDR6X-XLR8-Gaming-VERTO-EPIC-X-RGB-OC-Triple-Fan",
+    "code": 182956
+  },
+  {
+    "price": 6279000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 3060 Ti 8GB GDDR6X - Dual OC Edition",
+    "name": "Asus-GeForce-RTX-3060-Ti-8GB-GDDR6X-Dual-OC-Edition",
+    "code": 183028
+  },
+  {
+    "price": 37820000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4090 24GB GDDR6X - ROG Strix OC White Edition",
+    "name": "Asus-GeForce-RTX-4090-24GB-GDDR6X-ROG-Strix-OC-White-Edition",
+    "code": 183029
+  },
+  {
+    "price": 33050000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4090 24GB GDDR6X - SUPRIM 24G",
+    "name": "MSI-GeForce-RTX-4090-24GB-GDDR6X-SUPRIM-24G",
+    "code": 183116
+  },
+  {
+    "price": 18280000,
+    "image": null,
+    "size": "24GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 7900 XTX 24GB GDDR6 - Gaming TRIO Classic",
+    "name": "MSI-Radeon-RX-7900-XTX-24GB-GDDR6-Gaming-TRIO-Classic",
+    "code": 183117
+  },
+  {
+    "price": 16850000,
+    "image": null,
+    "size": "20GB",
+    "brand": "amd",
+    "display_name": "MSI Radeon RX 7900 XT 20GB GDDR6 - Gaming TRIO Classic",
+    "name": "MSI-Radeon-RX-7900-XT-20GB-GDDR6-Gaming-TRIO-Classic",
+    "code": 183118
+  },
+  {
+    "price": 16050000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 4070 Ti 12GB GDDR6X ICHILL X3",
+    "name": "Inno-3D-GeForce-RTX-4070-Ti-12GB-GDDR6X-ICHILL-X3",
+    "code": 183154
+  },
+  {
+    "price": 14750000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 4070 Ti 12GB GDDR6X X3",
+    "name": "Inno-3D-GeForce-RTX-4070-Ti-12GB-GDDR6X-X3",
+    "code": 183155
+  },
+  {
+    "price": 18390000,
+    "image": null,
+    "size": "24GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 7900 XTX 24GB GDDR6 - Phantom Gaming 24G OC",
+    "name": "ASRock-Radeon-RX-7900-XTX-24GB-GDDR6-Phantom-Gaming-24G-OC",
+    "code": 183177
+  },
+  {
+    "price": 2415000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce GTX 1650 4GB DDR6-P - Dual-V2 OC Edition",
+    "name": "Asus-GeForce-GTX-1650-4GB-DDR6-P-Dual-V2-OC-Edition",
+    "code": 183181
+  },
+  {
+    "price": 17091000,
+    "image": null,
+    "size": "24GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 7900 XTX 24GB GDDR6 PULSE",
+    "name": "Sapphire-Radeon-RX-7900-XTX-24GB-GDDR6-PULSE",
+    "code": 183317
+  },
+  {
+    "price": 4519000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PNY Geforce RTX 3060 8GB DDR6 VERTO Dual Fan",
+    "name": "PNY-Geforce-RTX-3060-8GB-DDR6-VERTO-Dual-Fan",
+    "code": 183318
+  },
+  {
+    "price": 6690000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Zotac GeForce RTX 3060 Ti 8GB GDDR6X Twin Edge -White",
+    "name": "Zotac-GeForce-RTX-3060-Ti-8GB-GDDR6X-Twin-Edge-White",
+    "code": 183342
+  },
+  {
+    "price": 38500000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4090 24GB DDR6X HOF White Edition with HOF PANEL III - ARGB EFFECT - TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4090-24GB-DDR6X-HOF-White-Edition-with-HOF-PANEL-III-ARGB-EFFECT-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 183395
+  },
+  {
+    "price": 165000000,
+    "image": null,
+    "size": "48GB",
+    "brand": "nvidia",
+    "display_name": "Leadtek Quadro RTX 6000 Ada Gen 48GB GDDR6",
+    "name": "Leadtek-Quadro-RTX-6000-Ada-Gen-48GB-GDDR6",
+    "code": 183403
+  },
+  {
+    "price": 7300000,
+    "image": null,
+    "size": null,
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 3060 Ti GDDR6X ICHILL X4",
+    "name": "Inno-3D-GeForce-RTX-3060-Ti-GDDR6X-ICHILL-X4",
+    "code": 183550
+  },
+  {
+    "price": 4679000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 3060 8GB GDDR6 - Dual OC Edition",
+    "name": "Asus-GeForce-RTX-3060-8GB-GDDR6-Dual-OC-Edition",
+    "code": 183555
+  },
+  {
+    "price": 4679000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 3060 8GB GDDR6 - Dual White OC Edition",
+    "name": "Asus-GeForce-RTX-3060-8GB-GDDR6-Dual-White-OC-Edition",
+    "code": 183556
+  },
+  {
+    "price": 6279000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 3060 Ti 8GB GDDR6X - Dual OC White Edition",
+    "name": "Asus-GeForce-RTX-3060-Ti-8GB-GDDR6X-Dual-OC-White-Edition",
+    "code": 183557
+  },
+  {
+    "price": 28740000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4090 24GB GDDR6X - Ventus 3X 24G OC",
+    "name": "MSI-GeForce-RTX-4090-24GB-GDDR6X-Ventus-3X-24G-OC",
+    "code": 183560
+  },
+  {
+    "price": 16670000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4070 Ti 12GB GDDR6X - Gaming X TRIO 12G White",
+    "name": "MSI-GeForce-RTX-4070-Ti-12GB-GDDR6X-Gaming-X-TRIO-12G-White",
+    "code": 183561
+  },
+  {
+    "price": 3700000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Zotac GeForce RTX 3050 8GB GDDR6 Solo",
+    "name": "Zotac-GeForce-RTX-3050-8GB-GDDR6-Solo",
+    "code": 183562
+  },
+  {
+    "price": 3390000,
+    "image": null,
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Colorful GeForce GTX 1660 SUPER 6GB GDDR6 NB DUO 6G-V",
+    "name": "Colorful-GeForce-GTX-1660-SUPER-6GB-GDDR6-NB-DUO-6G-V",
+    "code": 183618
+  },
+  {
+    "price": 31900000,
+    "image": null,
+    "size": "24GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4090 24GB GDDR6X Vulcan W OC-V",
+    "name": "iGame-GeForce-RTX-4090-24GB-GDDR6X-Vulcan-W-OC-V",
+    "code": 183621
+  },
+  {
+    "price": 13450000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce RTX 4070 Ti 12GB GDDR6X LED VERTO White Triple Fan",
+    "name": "PNY-GeForce-RTX-4070-Ti-12GB-GDDR6X-LED-VERTO-White-Triple-Fan",
+    "code": 183818
+  },
+  {
+    "price": 4200000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce RTX 3050 8GB GDDR6 XLR8 Gaming REVEL EPIC-X RGB Dual Fan",
+    "name": "PNY-GeForce-RTX-3050-8GB-GDDR6-XLR8-Gaming-REVEL-EPIC-X-RGB-Dual-Fan",
+    "code": 183819
+  },
+  {
+    "price": 10880000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4070 12GB GDDR6X - Dual OC Edition",
+    "name": "Asus-GeForce-RTX-4070-12GB-GDDR6X-Dual-OC-Edition",
+    "code": 183833
+  },
+  {
+    "price": 10680000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4070 12GB GDDR6X - Dual",
+    "name": "Asus-GeForce-RTX-4070-12GB-GDDR6X-Dual",
+    "code": 183834
+  },
+  {
+    "price": 2950000,
+    "image": null,
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Arktek Geforce GTX 1660 Ti 6GB GDDR6 Matrix - Garansi 3 Thn",
+    "name": "Arktek-Geforce-GTX-1660-Ti-6GB-GDDR6-Matrix-Garansi-3-Thn",
+    "code": 183835
+  },
+  {
+    "price": 1750000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Arktek Radeon RX 580 8GB GDDR5 Cyclops - Garansi 3 Thn",
+    "name": "Arktek-Radeon-RX-580-8GB-GDDR5-Cyclops-Garansi-3-Thn",
+    "code": 183836
+  },
+  {
+    "price": 2950000,
+    "image": null,
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Arktek Geforce GTX 1660 SUPER 6GB GDDR6 Matrix - Garansi 3 Thn",
+    "name": "Arktek-Geforce-GTX-1660-SUPER-6GB-GDDR6-Matrix-Garansi-3-Thn",
+    "code": 183837
+  },
+  {
+    "price": 11490000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4070 12GB GDDR6X AERO OC - GV-N4070AERO OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-4070-12GB-GDDR6X-AERO-OC-GV-N4070AERO-OC-12GD",
+    "code": 183838
+  },
+  {
+    "price": 11300000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4070 12GB GDDR6X Gaming OC - GV-N4070GAMING OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-4070-12GB-GDDR6X-Gaming-OC-GV-N4070GAMING-OC-12GD",
+    "code": 183839
+  },
+  {
+    "price": 11000000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4070 12GB GDDR6X Eagle OC - GV-N4070EAGLE OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-4070-12GB-GDDR6X-Eagle-OC-GV-N4070EAGLE-OC-12GD",
+    "code": 183840
+  },
+  {
+    "price": 10450000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4070 12GB GDDR6X Windforce OC - GV-N4070WF3OC-12GD",
+    "name": "Gigabyte-GeForce-RTX-4070-12GB-GDDR6X-Windforce-OC-GV-N4070WF3OC-12GD",
+    "code": 183841
+  },
+  {
+    "price": 12030000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4070 12GB GDDR6X - TUF Gaming OC Edition",
+    "name": "Asus-GeForce-RTX-4070-12GB-GDDR6X-TUF-Gaming-OC-Edition",
+    "code": 183842
+  },
+  {
+    "price": 11300000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 4070 12GB GDDR6X - ICHILL X3",
+    "name": "Inno-3D-GeForce-RTX-4070-12GB-GDDR6X-ICHILL-X3",
+    "code": 183844
+  },
+  {
+    "price": 10700000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 4070 12GB GDDR6X - TWIN X2 OC White",
+    "name": "Inno-3D-GeForce-RTX-4070-12GB-GDDR6X-TWIN-X2-OC-White",
+    "code": 183845
+  },
+  {
+    "price": 10300000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 4070 12GB GDDR6X - TWIN X2",
+    "name": "Inno-3D-GeForce-RTX-4070-12GB-GDDR6X-TWIN-X2",
+    "code": 183846
+  },
+  {
+    "price": 10170000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4070 12GB GDDR6X - Ventus 2X 12G OC",
+    "name": "MSI-GeForce-RTX-4070-12GB-GDDR6X-Ventus-2X-12G-OC",
+    "code": 183849
+  },
+  {
+    "price": 10755000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4070 12GB GDDR6X - Ventus 3X 12G",
+    "name": "MSI-GeForce-RTX-4070-12GB-GDDR6X-Ventus-3X-12G",
+    "code": 183850
+  },
+  {
+    "price": 10990000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4070 12GB GDDR6X - Ventus 3X 12G OC",
+    "name": "MSI-GeForce-RTX-4070-12GB-GDDR6X-Ventus-3X-12G-OC",
+    "code": 183851
+  },
+  {
+    "price": 11970000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4070 12GB GDDR6X - Gaming X TRIO 12G",
+    "name": "MSI-GeForce-RTX-4070-12GB-GDDR6X-Gaming-X-TRIO-12G",
+    "code": 183852
+  },
+  {
+    "price": 9620000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Zotac GeForce RTX 4070 12GB GDDR6X Twin Edge OC",
+    "name": "Zotac-GeForce-RTX-4070-12GB-GDDR6X-Twin-Edge-OC",
+    "code": 183856
+  },
+  {
+    "price": 10590000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce RTX 4070 12GB GDDR6X Dual",
+    "name": "PALIT-GeForce-RTX-4070-12GB-GDDR6X-Dual",
+    "code": 183877
+  },
+  {
+    "price": 10500000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4070 12GB DDR6X EX GAMER (1-Click OC) - ARGB TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4070-12GB-DDR6X-EX-GAMER-1-Click-OC-ARGB-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 184014
+  },
+  {
+    "price": 10700000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4070 12GB DDR6X EX GAMER (1-Click OC) WHITE EDITION - ARGB TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4070-12GB-DDR6X-EX-GAMER-1-Click-OC-WHITE-EDITION-ARGB-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 184015
+  },
+  {
+    "price": 10900000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4070 12GB DDR6X EX GAMER (1-Click OC) PINK EDITION - ARGB TRIPLE FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4070-12GB-DDR6X-EX-GAMER-1-Click-OC-PINK-EDITION-ARGB-TRIPLE-FAN-Garansi-3-Thn",
+    "code": 184016
+  },
+  {
+    "price": 10030000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce RTX 4070 12GB 12GB GDDR6X VERTO Dual Fan",
+    "name": "PNY-GeForce-RTX-4070-12GB-12GB-GDDR6X-VERTO-Dual-Fan",
+    "code": 184031
+  },
+  {
+    "price": 5490000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 3060 8GB GDDR6 Gaming OC Rev2.0 - GV-N3060GAMING OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-3060-8GB-GDDR6-Gaming-OC-Rev20-GV-N3060GAMING-OC-8GD",
+    "code": 184135
+  },
+  {
+    "price": 19390000,
+    "image": null,
+    "size": "24GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 7900 XTX 24GB GDDR6 - Taichi White 24GB OC",
+    "name": "ASRock-Radeon-RX-7900-XTX-24GB-GDDR6-Taichi-White-24GB-OC",
+    "code": 184188
+  },
+  {
+    "price": 9950000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "Colorful GeForce RTX 4070 12GB GDDR6X NB EX-V",
+    "name": "Colorful-GeForce-RTX-4070-12GB-GDDR6X-NB-EX-V",
+    "code": 184201
+  },
+  {
+    "price": 11020000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4070 12GB GDDR6X Ultra W OC V2-V",
+    "name": "iGame-GeForce-RTX-4070-12GB-GDDR6X-Ultra-W-OC-V2-V",
+    "code": 184202
+  },
+  {
+    "price": 13590000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4070 12GB GDDR6X Advanced OC-V",
+    "name": "iGame-GeForce-RTX-4070-12GB-GDDR6X-Advanced-OC-V",
+    "code": 184203
+  },
+  {
+    "price": 13650000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4070 12GB GDDR6X Vulcan OC-V",
+    "name": "iGame-GeForce-RTX-4070-12GB-GDDR6X-Vulcan-OC-V",
+    "code": 184204
+  },
+  {
+    "price": 14200000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "iGame GeForce RTX 4070 12GB GDDR6X Neptune OC-V",
+    "name": "iGame-GeForce-RTX-4070-12GB-GDDR6X-Neptune-OC-V",
+    "code": 184205
+  },
+  {
+    "price": 6390000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce RTX 3060 Ti 8GB GDDR6 VERTO Dual Fan LHR",
+    "name": "PNY-GeForce-RTX-3060-Ti-8GB-GDDR6-VERTO-Dual-Fan-LHR",
+    "code": 184229
+  },
+  {
+    "price": 2740000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce GTX 1650 4GB DDR6-P - TUF Gaming-V2 OC Edition",
+    "name": "Asus-GeForce-GTX-1650-4GB-DDR6-P-TUF-Gaming-V2-OC-Edition",
+    "code": 184244
+  },
+  {
+    "price": 7310000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4060 Ti 8GB GDDR6 - Ventus 3X 8G OC",
+    "name": "MSI-GeForce-RTX-4060-Ti-8GB-GDDR6-Ventus-3X-8G-OC",
+    "code": 184268
+  },
+  {
+    "price": 6870000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4060 Ti 8GB GDDR6 - Ventus 2X BLACK 8G OC",
+    "name": "MSI-GeForce-RTX-4060-Ti-8GB-GDDR6-Ventus-2X-BLACK-8G-OC",
+    "code": 184269
+  },
+  {
+    "price": 8450000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4060 Ti 8GB GDDR6 - Gaming X TRIO 8G",
+    "name": "MSI-GeForce-RTX-4060-Ti-8GB-GDDR6-Gaming-X-TRIO-8G",
+    "code": 184270
+  },
+  {
+    "price": 7950000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 4060 Ti 8GB GDDR6 - Gaming X 8G",
+    "name": "MSI-GeForce-RTX-4060-Ti-8GB-GDDR6-Gaming-X-8G",
+    "code": 184271
+  },
+  {
+    "price": 6280000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "MSI GeForce RTX 3060 Ti 8GB GDDR6X - Ventus 2X OC",
+    "name": "MSI-GeForce-RTX-3060-Ti-8GB-GDDR6X-Ventus-2X-OC",
+    "code": 184272
+  },
+  {
+    "price": 7350000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 4060 Ti 8GB GDDR6 - TWIN X2 OC White",
+    "name": "Inno-3D-GeForce-RTX-4060-Ti-8GB-GDDR6-TWIN-X2-OC-White",
+    "code": 184279
+  },
+  {
+    "price": 7000000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Inno 3D GeForce RTX 4060 Ti 8GB GDDR6 - TWIN X2",
+    "name": "Inno-3D-GeForce-RTX-4060-Ti-8GB-GDDR6-TWIN-X2",
+    "code": 184280
+  },
+  {
+    "price": 7500000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4060 Ti 8GB DDR6 EX (1-Click OC) WHITE EDITION - RGB EFFECT - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4060-Ti-8GB-DDR6-EX-1-Click-OC-WHITE-EDITION-RGB-EFFECT-DUAL-FAN-Garansi-3-Thn",
+    "code": 184281
+  },
+  {
+    "price": 7400000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "GALAX Geforce RTX 4060 Ti 8GB DDR6 EX (1-Click OC) - RGB EFFECT - DUAL FAN - Garansi 3 Thn",
+    "name": "GALAX-Geforce-RTX-4060-Ti-8GB-DDR6-EX-1-Click-OC-RGB-EFFECT-DUAL-FAN-Garansi-3-Thn",
+    "code": 184282
+  },
+  {
+    "price": 6524000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Zotac GeForce RTX 4060 Ti 8GB GDDR6 Twin Edge",
+    "name": "Zotac-GeForce-RTX-4060-Ti-8GB-GDDR6-Twin-Edge",
+    "code": 184303
+  },
+  {
+    "price": 8450000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4060 Ti 8GB GDDR6 Aorus Elite - GV-N406TAORUS E-8GD",
+    "name": "Gigabyte-GeForce-RTX-4060-Ti-8GB-GDDR6-Aorus-Elite-GV-N406TAORUS-E-8GD",
+    "code": 184307
+  },
+  {
+    "price": 7980000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4060 Ti 8GB GDDR6 AERO OC - GV-N406TAERO OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-4060-Ti-8GB-GDDR6-AERO-OC-GV-N406TAERO-OC-8GD",
+    "code": 184308
+  },
+  {
+    "price": 7870000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4060 Ti 8GB GDDR6 Gaming OC - GV-N406TGAMING OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-4060-Ti-8GB-GDDR6-Gaming-OC-GV-N406TGAMING-OC-8GD",
+    "code": 184309
+  },
+  {
+    "price": 7750000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4060 Ti 8GB GDDR6 Eagle OC - GV-N406TEAGLE OC-8GD",
+    "name": "Gigabyte-GeForce-RTX-4060-Ti-8GB-GDDR6-Eagle-OC-GV-N406TEAGLE-OC-8GD",
+    "code": 184310
+  },
+  {
+    "price": 6972000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce RTX 4060 Ti 8GB GDDR6 Dual",
+    "name": "PALIT-GeForce-RTX-4060-Ti-8GB-GDDR6-Dual",
+    "code": 184312
+  },
+  {
+    "price": 4465000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Sapphire Radeon RX 7600 8GB GDDR6 Pulse",
+    "name": "Sapphire-Radeon-RX-7600-8GB-GDDR6-Pulse",
+    "code": 184318
+  },
+  {
+    "price": 1389000,
+    "image": null,
+    "size": "4GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 550 4GB GDDR5 - Phantom Gaming 4G",
+    "name": "ASRock-Radeon-RX-550-4GB-GDDR5-Phantom-Gaming-4G",
+    "code": 184319
+  },
+  {
+    "price": 4710000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 7600 8GB GDDR6 - Challenger 8G OC",
+    "name": "ASRock-Radeon-RX-7600-8GB-GDDR6-Challenger-8G-OC",
+    "code": 184320
+  },
+  {
+    "price": 5040000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 7600 8GB GDDR6 - Steel Legend 8G OC",
+    "name": "ASRock-Radeon-RX-7600-8GB-GDDR6-Steel-Legend-8G-OC",
+    "code": 184321
+  },
+  {
+    "price": 5139000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "ASRock Radeon RX 7600 8GB GDDR6 - Phantom Gaming 8G OC",
+    "name": "ASRock-Radeon-RX-7600-8GB-GDDR6-Phantom-Gaming-8G-OC",
+    "code": 184322
+  },
+  {
+    "price": 4315000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 7600 CORE Edition 8GB GDDR6 SPEEDSTER SWFT210 - RX-76PSWFTFY",
+    "name": "XFX-Radeon-RX-7600-CORE-Edition-8GB-GDDR6-SPEEDSTER-SWFT210-RX-76PSWFTFY",
+    "code": 184323
+  },
+  {
+    "price": 4615000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "XFX Radeon RX 7600 BLACK Edition 8GB GDDR6 SPEEDSTER QICK308 - TRIPLE FAN - RX-76PQICKBY",
+    "name": "XFX-Radeon-RX-7600-BLACK-Edition-8GB-GDDR6-SPEEDSTER-QICK308-TRIPLE-FAN-RX-76PQICKBY",
+    "code": 184324
+  },
+  {
+    "price": 8120000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4060 Ti 8GB GDDR6 - TUF Gaming OC Edition",
+    "name": "Asus-GeForce-RTX-4060-Ti-8GB-GDDR6-TUF-Gaming-OC-Edition",
+    "code": 184325
+  },
+  {
+    "price": 7100000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4060 Ti 8GB GDDR6 - Dual OC White Edition",
+    "name": "Asus-GeForce-RTX-4060-Ti-8GB-GDDR6-Dual-OC-White-Edition",
+    "code": 184326
+  },
+  {
+    "price": 6950000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Asus GeForce RTX 4060 Ti 8GB GDDR6 - Dual OC",
+    "name": "Asus-GeForce-RTX-4060-Ti-8GB-GDDR6-Dual-OC",
+    "code": 184327
+  },
+  {
+    "price": 2683000,
+    "image": null,
+    "size": "6GB",
+    "brand": "nvidia",
+    "display_name": "Qwerty GeForce GTX 1660 Ti 6GB DDR6",
+    "name": "Qwerty-GeForce-GTX-1660-Ti-6GB-DDR6",
+    "code": 184347
+  },
+  {
+    "price": 1812000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Qwerty GeForce GTX 1050 Ti 4GB DDR5",
+    "name": "Qwerty-GeForce-GTX-1050-Ti-4GB-DDR5",
+    "code": 184348
+  },
+  {
+    "price": 1082000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Qwerty GeForce GTX 750 Ti 4GB DDR5",
+    "name": "Qwerty-GeForce-GTX-750-Ti-4GB-DDR5",
+    "code": 184349
+  },
+  {
+    "price": 508000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Qwerty GeForce GT 730 4GB DDR3",
+    "name": "Qwerty-GeForce-GT-730-4GB-DDR3",
+    "code": 184350
+  },
+  {
+    "price": 327000,
+    "image": null,
+    "size": "2GB",
+    "brand": "nvidia",
+    "display_name": "Qwerty GeForce GT 610 2GB DDR3",
+    "name": "Qwerty-GeForce-GT-610-2GB-DDR3",
+    "code": 184351
+  },
+  {
+    "price": 297000,
+    "image": null,
+    "size": "1GB",
+    "brand": "nvidia",
+    "display_name": "Qwerty GeForce GT 240 1GB DDR3",
+    "name": "Qwerty-GeForce-GT-240-1GB-DDR3",
+    "code": 184352
+  },
+  {
+    "price": 6050000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Colorful Geforce RTX 3060 Ti 8GB GDDR6X NB DUO G6X-V",
+    "name": "Colorful-Geforce-RTX-3060-Ti-8GB-GDDR6X-NB-DUO-G6X-V",
+    "code": 184391
+  },
+  {
+    "price": 6200000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "iGame Geforce RTX 3060 Ti 8GB GDDR6X Ultra W OC G6X-V",
+    "name": "iGame-Geforce-RTX-3060-Ti-8GB-GDDR6X-Ultra-W-OC-G6X-V",
+    "code": 184392
+  },
+  {
+    "price": 2250000,
+    "image": null,
+    "size": "4GB",
+    "brand": "nvidia",
+    "display_name": "Arktek Geforce GTX 1650 4GB GDDR6 Matrix - Garansi 3 Thn",
+    "name": "Arktek-Geforce-GTX-1650-4GB-GDDR6-Matrix-Garansi-3-Thn",
+    "code": 184393
+  },
+  {
+    "price": 3895000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PALIT GeForce RTX 3050 8GB GDDR6 Dual V1",
+    "name": "PALIT-GeForce-RTX-3050-8GB-GDDR6-Dual-V1",
+    "code": 184399
+  },
+  {
+    "price": 11100000,
+    "image": null,
+    "size": "12GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce RTX 4070 12GB GDDR6X XLR8 Gaming VERTO EPIC-X RGB Triple Fan",
+    "name": "PNY-GeForce-RTX-4070-12GB-GDDR6X-XLR8-Gaming-VERTO-EPIC-X-RGB-Triple-Fan",
+    "code": 184406
+  },
+  {
+    "price": 6850000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce RTX 4060 Ti 8GB GDDR6 VERTO Dual Fan",
+    "name": "PNY-GeForce-RTX-4060-Ti-8GB-GDDR6-VERTO-Dual-Fan",
+    "code": 184407
+  },
+  {
+    "price": 7700000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce RTX 3070 Ti 8GB GDDR6X VERTO Triple Fan",
+    "name": "PNY-GeForce-RTX-3070-Ti-8GB-GDDR6X-VERTO-Triple-Fan",
+    "code": 184408
+  },
+  {
+    "price": 7700000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "PNY GeForce RTX 4060 Ti 8GB GDDR6 XLR8 Gaming VERTO EPIC-X RGB Triple Fan",
+    "name": "PNY-GeForce-RTX-4060-Ti-8GB-GDDR6-XLR8-Gaming-VERTO-EPIC-X-RGB-Triple-Fan",
+    "code": 184410
+  },
+  {
+    "price": 4690000,
+    "image": null,
+    "size": "8GB",
+    "brand": "amd",
+    "display_name": "Gigabyte Radeon RX 7600 8GB GDDR6 Gaming OC - GV-R76GAMING OC-8GD",
+    "name": "Gigabyte-Radeon-RX-7600-8GB-GDDR6-Gaming-OC-GV-R76GAMING-OC-8GD",
+    "code": 184425
+  },
+  {
+    "price": 6950000,
+    "image": null,
+    "size": "8GB",
+    "brand": "nvidia",
+    "display_name": "Gigabyte GeForce RTX 4060 Ti 8GB GDDR6 Eagle - GV-N406TEAGLE-8GD",
+    "name": "Gigabyte-GeForce-RTX-4060-Ti-8GB-GDDR6-Eagle-GV-N406TEAGLE-8GD",
+    "code": 184426
+  }
+]

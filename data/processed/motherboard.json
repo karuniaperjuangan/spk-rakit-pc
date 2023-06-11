@@ -1,0 +1,4138 @@
+[
+  {
+
+    "price": 15500000,
+    "image": null,
+    "display_name": "Asus ROG CROSSHAIR X670E EXTREME (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-CROSSHAIR-X670E-EXTREME-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180028,
+    "socket": "AM5"
+  },
+  {
+    "price": 10250000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/7/9b820bcf-7438-461f-b74b-873188e15a42.jpg",
+    "display_name": "Asus ROG CROSSHAIR X670E GENE (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-CROSSHAIR-X670E-GENE-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180029,
+    "socket": "AM5"
+  },
+  {
+    "price": 11345000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/7/b4aab4f3-f801-4f4e-a846-b76c4bbac622.jpg",
+    "display_name": "Asus ROG CROSSHAIR X670E HERO (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-CROSSHAIR-X670E-HERO-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180030,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 8760000,
+    "image": null,
+    "display_name": "ASRock X670E Taichi (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-X670E-Taichi-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180144,
+    "socket": "AM5"
+  },
+  {
+    "price": 5343000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/3/db08e65c-91c7-4d13-bcdb-45774e7dad15.jpg",
+    "display_name": "ASRock X670E Steel Legend (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-X670E-Steel-Legend-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180145,
+    "socket": "AM5"
+  },
+  {
+    "price": 4880000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/3/009984f6-f21d-4537-a26c-63f51678cc16.jpg",
+    "display_name": "ASRock X670E Pro RS (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-X670E-Pro-RS-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180146,
+    "socket": "AM5"
+  },
+  {
+    "price": 4585000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/3/8d95fa8b-63f5-4eaf-8ecf-86887f4a48eb.jpg",
+    "display_name": "ASRock X670E PG Lightning (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-X670E-PG-Lightning-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180147,
+    "socket": "AM5"
+  },
+  {
+    "price": 5990000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/20/90346f7b-46fd-4962-95ff-433452c30238.jpg",
+    "display_name": "Gigabyte X670 Aorus Elite AX (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-X670-Aorus-Elite-AX-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180160,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 8970000,
+    "image": null,
+    "display_name": "Asus ROG STRIX X670E-E Gaming WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-X670E-E-Gaming-WIFI-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180290,
+    "socket": "AM5"
+  },
+  {
+    "price": 7055000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/30/f930a283-618a-4506-98f5-e0b9519ee826.jpg",
+    "display_name": "Asus ROG STRIX X670E-F Gaming WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-X670E-F-Gaming-WIFI-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180291,
+    "socket": "AM5"
+  },
+  {
+    "price": 6950000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/30/59593dc7-8b3c-42c5-a411-855a21374e36.jpg",
+    "display_name": "Asus ROG STRIX X670E-A Gaming WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-X670E-A-Gaming-WIFI-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180292,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 7660000,
+    "image": null,
+    "display_name": "Asus ROG STRIX X670E-I Gaming WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-X670E-I-Gaming-WIFI-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180293,
+    "socket": "AM5"
+  },
+  {
+    "price": 5919000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/30/e80e051f-defc-4cf8-ae86-563cfc70c9c3.jpg",
+    "display_name": "Asus TUF GAMING X670E-PLUS WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-GAMING-X670E-PLUS-WIFI-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180294,
+    "socket": "AM5"
+  },
+  {
+    "price": 4890000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/26/30ea8214-6682-4aab-a066-370c820a6f30.jpg",
+    "display_name": "Asus PRIME X670-P WIFI-CSM (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-PRIME-X670-P-WIFI-CSM-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180295,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 8650000,
+    "image": null,
+    "display_name": "Asus ProArt X670E-CREATOR WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ProArt-X670E-CREATOR-WIFI-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180296,
+    "socket": "AM5"
+  },
+  {
+    "price": 8165000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/14/a09742be-3a06-49a7-a676-378d80492648.jpg",
+    "display_name": "MSI MPG X670E CARBON WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MPG-X670E-CARBON-WIFI-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180323,
+    "socket": "AM5"
+  },
+  {
+    "price": 5255000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/14/399a9ed9-8a70-4d26-8b8b-32157a9c6313.jpg",
+    "display_name": "MSI PRO X670-P WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-PRO-X670-P-WIFI-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180324,
+    "socket": "AM5"
+  },
+  {
+    "price": 4070000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/26/764f42af-56ea-494b-8217-ca121947cc7d.jpg",
+    "display_name": "Asus TUF Gaming B650-PLUS WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-Gaming-B650-PLUS-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180556,
+    "socket": "AM5"
+  },
+  {
+    "price": 4020000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/11/16ce7204-f902-4f77-ae3b-5855f265bce2.jpg",
+    "display_name": "Asus TUF Gaming B650M-PLUS WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-Gaming-B650M-PLUS-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180557,
+    "socket": "AM5"
+  },
+  {
+    "price": 3290000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/19/8a12161a-4d7d-4ceb-861e-372e27b4f5f6.jpg",
+    "display_name": "Asus PRIME B650M-A WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-PRIME-B650M-A-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180558,
+    "socket": "AM5"
+  },
+  {
+    "price": 5290000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/13/5c6fc297-9893-41bf-959b-ed57a57f3034.jpg",
+    "display_name": "Asus ROG STRIX B650E-F Gaming WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-B650E-F-Gaming-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180561,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 5520000,
+    "image": null,
+    "display_name": "Asus ROG STRIX B650E-I Gaming WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-B650E-I-Gaming-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180562,
+    "socket": "AM5"
+  },
+  {
+    "price": 4850000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/13/439b86cb-f9ae-4bd5-9533-7c8422a5f73b.jpg",
+    "display_name": "Asus ROG STRIX B650-A Gaming WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-B650-A-Gaming-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180563,
+    "socket": "AM5"
+  },
+  {
+    "price": 3600000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/12/f4b1f9c8-ff6b-4dc0-9791-632f6315d5c9.jpg",
+    "display_name": "ASRock B650 PG Lightning (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B650-PG-Lightning-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180564,
+    "socket": "AM5"
+  },
+  {
+    "price": 3675000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/12/a3c088ca-55e2-4197-9e68-6ecc780c18b0.jpg",
+    "display_name": "ASRock B650 Pro RS (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B650-Pro-RS-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180565,
+    "socket": "AM5"
+  },
+  {
+    "price": 4065000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/12/df208547-e31c-426e-81f4-a06aa5500e7f.jpg",
+    "display_name": "ASRock B650E PG Riptide WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B650E-PG-Riptide-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180567,
+    "socket": "AM5"
+  },
+  {
+    "price": 2823000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/12/3b54e394-5e6d-409a-be1b-b9f94659d8a3.jpg",
+    "display_name": "ASRock B650M PG Riptide (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B650M-PG-Riptide-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180577,
+    "socket": "AM5"
+  },
+  {
+    "price": 4641000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/12/887a5310-498b-46d9-81c2-43fc486ceb7c.jpg",
+    "display_name": "ASRock B650E Steel Legend WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B650E-Steel-Legend-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180578,
+    "socket": "AM5"
+  },
+  {
+    "price": 9680000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/1/c02767ac-9f2a-4468-92eb-82c64a2e9682.jpg",
+    "display_name": "ASRock X670E Taichi Carrara (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-X670E-Taichi-Carrara-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180580,
+    "socket": "AM5"
+  },
+  {
+    "price": 4606000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/14/951e4b80-fdf0-49a3-8f2d-7d6332138e04.jpg",
+    "display_name": "Gigabyte B650 Aorus Elite AX (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B650-Aorus-Elite-AX-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180600,
+    "socket": "AM5"
+  },
+  {
+    "price": 4499000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/14/3e1edda5-a684-403a-b7cb-161da0df742d.jpg",
+    "display_name": "Gigabyte B650M Aorus PRO AX (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B650M-Aorus-PRO-AX-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180601,
+    "socket": "AM5"
+  },
+  {
+    "price": 3885000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/14/f4955524-29c0-484f-b6b6-3846e803d648.jpg",
+    "display_name": "MSI MAG B650M Mortar WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MAG-B650M-Mortar-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180613,
+    "socket": "AM5"
+  },
+  {
+    "price": 4275000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/14/a765ab60-684c-4284-9624-7074c020fac7.jpg",
+    "display_name": "MSI MAG B650 Tomahawk WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MAG-B650-Tomahawk-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180614,
+    "socket": "AM5"
+  },
+  {
+    "price": 4940000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/20/0c4438eb-0961-4f7d-a335-9c7c8e2d7279.jpg",
+    "display_name": "Gigabyte X670 Gaming X AX (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-X670-Gaming-X-AX-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180771,
+    "socket": "AM5"
+  },
+  {
+    "price": 3055000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/19/2c98e1f2-9a05-41a2-857c-c4fb8d732688.jpg",
+    "display_name": "Asus PRIME B650M-A (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-PRIME-B650M-A-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180875,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 8400000,
+    "image": null,
+    "display_name": "Gigabyte X670E Aorus Master (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-X670E-Aorus-Master-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 180957,
+    "socket": "AM5"
+  },
+  {
+    "price": 4942000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/26/a5a29642-ecde-4cc9-a846-e794dfb93ced.jpg",
+    "display_name": "Gigabyte B650 Aorus PRO AX (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B650-Aorus-PRO-AX-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180972,
+    "socket": "AM5"
+  },
+  {
+    "price": 5150000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/26/72e9d53c-0e46-4506-abfa-d4d7ff22f2cb.jpg",
+    "display_name": "Gigabyte B650 AERO G (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B650-AERO-G-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 180973,
+    "socket": "AM5"
+  },
+  {
+    "price": 2880000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/4/ef56a6be-85a4-4634-af79-d20743174009.jpg",
+    "display_name": "Gigabyte B650M DS3H (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B650M-DS3H-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 181008,
+    "socket": "AM5"
+  },
+  {
+    "price": 3200000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/18/a2d622e4-afc5-47f1-b5c6-4bc4e40c50fa.jpg",
+    "display_name": "MSI PRO B650M-A WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-PRO-B650M-A-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 181257,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 6035000,
+    "image": null,
+    "display_name": "MSI MPG B650 CARBON WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MPG-B650-CARBON-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 181286,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 5255000,
+    "image": null,
+    "display_name": "MSI MPG B650 EDGE WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MPG-B650-EDGE-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 181287,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 4565000,
+    "image": null,
+    "display_name": "MSI MPG B650I EDGE WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MPG-B650I-EDGE-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 181288,
+    "socket": "AM5"
+  },
+  {
+    "price": 5280000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/8/21343470-df3d-4ecf-8f85-f93c199d932c.jpg",
+    "display_name": "ASRock B650E PG-ITX WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B650E-PG-ITX-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 182156,
+    "socket": "AM5"
+  },
+  {
+    "price": 4000000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/8/e699e125-1a2f-4426-beee-9d3a079b191b.jpg",
+    "display_name": "ASRock B650 LiveMixer (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B650-LiveMixer-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 182157,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 5275000,
+    "image": null,
+    "display_name": "NZXT N7 B650E WIFI - Matte White (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "NZXT-N7-B650E-WIFI-Matte-White-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 182979,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 5275000,
+    "image": null,
+    "display_name": "NZXT N7 B650E WIFI - Matte Black (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "NZXT-N7-B650E-WIFI-Matte-Black-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 182981,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 2155000,
+    "image": null,
+    "display_name": "Biostar B650M-Silver (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Biostar-B650M-Silver-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 183195,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 11450000,
+    "image": null,
+    "display_name": "Gigabyte X670E Aorus Xtreme (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-X670E-Aorus-Xtreme-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 183391,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 2420000,
+    "image": null,
+    "display_name": "ASRock B650M-HDV/M.2 (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B650M-HDVM2-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 183706,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 1610000,
+    "image": null,
+    "display_name": "ASRock A620M-HDV/M.2+ (AM5, AMD A620, DDR5, USB3.2, SATA3)",
+    "name": "ASRock-A620M-HDVM2-AM5-AMD-A620-DDR5-USB32-SATA3",
+    "code": 184003,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 1510000,
+    "image": null,
+    "display_name": "ASRock A620M-HDV/M.2 (AM5, AMD A620, DDR5, USB3.2, SATA3)",
+    "name": "ASRock-A620M-HDVM2-AM5-AMD-A620-DDR5-USB32-SATA3",
+    "code": 184004,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 2100000,
+    "image": null,
+    "display_name": "Asus PRIME A620M-A (AM5, A620, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-PRIME-A620M-A-AM5-A620-DDR5-USB32-Type-C-SATA3",
+    "code": 184065,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 2620000,
+    "image": null,
+    "display_name": "Asus TUF GAMING A620M-PLUS WIFI (AM5, A620, DDR5, USB 3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-GAMING-A620M-PLUS-WIFI-AM5-A620-DDR5-USB-32-Type-C-SATA3",
+    "code": 184102,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 3450000,
+    "image": null,
+    "display_name": "Asus TUF GAMING B650M-E WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-GAMING-B650M-E-WIFI-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 184103,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 1670000,
+    "image": null,
+    "display_name": "MSI PRO A620M-E (AM5, A620, DDR5,\u00a0USB3.2,\u00a0SATA3)",
+    "name": "MSI-PRO-A620M-E-AM5-A620-DDR5USB32SATA3",
+    "code": 184125,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 2355000,
+    "image": null,
+    "display_name": "MSI PRO B650M-P (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-PRO-B650M-P-AM5-AMD-B650-DDR5-USB32-Type-C-SATA3",
+    "code": 184126,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 5835000,
+    "image": null,
+    "display_name": "MSI MAG X670E TOMAHAWK WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MAG-X670E-TOMAHAWK-WIFI-AM5-AMD-X670-DDR5-USB32-Type-C-SATA3",
+    "code": 184192,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 2373000,
+    "image": null,
+    "display_name": "Gigabyte A620M Gaming X (AM5, AMD A620, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-A620M-Gaming-X-AM5-AMD-A620-DDR5-USB32-Type-C-SATA3",
+    "code": 184210,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 2502000,
+    "image": null,
+    "display_name": "Gigabyte A620M Gaming X AX (AM5, AMD A620, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-A620M-Gaming-X-AX-AM5-AMD-A620-DDR5-USB32-Type-C-SATA3",
+    "code": 184211,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 1710000,
+    "image": null,
+    "display_name": "Biostar A620MP-E PRO (AM5, A620, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Biostar-A620MP-E-PRO-AM5-A620-DDR5-USB32-Type-C-SATA3",
+    "code": 184222,
+    "socket": "AM5"
+  },
+  {
+
+    "price": 16590000,
+    "image": null,
+    "display_name": "Asus PRO WS WRX80E-SAGE SE WIFI (sWRX8, AMD WRX80, DDR4, USB 3.2, SATA3)",
+    "name": "Asus-PRO-WS-WRX80E-SAGE-SE-WIFI-sWRX8-AMD-WRX80-DDR4-USB-32-SATA3",
+    "code": 171010,
+    "socket": "sWRX8"
+  },
+  {
+
+    "price": 17225000,
+    "image": null,
+    "display_name": "ASRock WRX80 Creator (sWRX8, AMD WRX80, DDR4, USB 3.2, SATA3)",
+    "name": "ASRock-WRX80-Creator-sWRX8-AMD-WRX80-DDR4-USB-32-SATA3",
+    "code": 182155,
+    "socket": "sWRX8"
+  },
+  {
+
+    "price": 11000000,
+    "image": null,
+    "display_name": "Asus ROG STRIX TRX40-E Gaming (sTRX4, AMD TRX40, DDR4, USB 3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-TRX40-E-Gaming-sTRX4-AMD-TRX40-DDR4-USB-32-SATA3",
+    "code": 166092,
+    "socket": "sTRX4"
+  },
+  {
+
+    "price": 11000000,
+    "image": null,
+    "display_name": "Asus ROG STRIX TRX40-XE Gaming (sTRX4, AMD TRX40, DDR4, USB 3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-TRX40-XE-Gaming-sTRX4-AMD-TRX40-DDR4-USB-32-SATA3",
+    "code": 170396,
+    "socket": "sTRX4"
+  },
+  {
+
+    "price": 14580000,
+    "image": null,
+    "display_name": "Asus ROG Zenith II Extreme Alpha (sTRX4, AMD TRX40, DDR4, USB 3.2, SATA3)",
+    "name": "Asus-ROG-Zenith-II-Extreme-Alpha-sTRX4-AMD-TRX40-DDR4-USB-32-SATA3",
+    "code": 172949,
+    "socket": "sTRX4"
+  },
+  {
+    "price": 3260000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/efad3dcd-0339-4b1d-a5e1-ec14a929f680.jpg",
+    "display_name": "Gigabyte X399 Designare EX (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)",
+    "name": "Gigabyte-X399-Designare-EX-TR4-AMD-Promontory-X399-DDR4-USB31-SATA3",
+    "code": 158201,
+    "socket": "TR4"
+  },
+  {
+    "price": 9090000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/1/9651507/9651507_0aff36af-1789-420a-9d34-6a05e8188a72_700_700",
+    "display_name": "Asus ROG Zenith Extreme Alpha (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)",
+    "name": "Asus-ROG-Zenith-Extreme-Alpha-TR4-AMD-Promontory-X399-DDR4-USB31-SATA3",
+    "code": 161740,
+    "socket": "TR4"
+  },
+  {
+    "price": 755000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/f84f3788-fe93-4002-87a9-966a25e966f3.jpg",
+    "display_name": "Biostar A320MH (AM4, AMD Promontory A320, DDR4, USB 3.2, SATA3)",
+    "name": "Biostar-A320MH-AM4-AMD-Promontory-A320-DDR4-USB-32-SATA3",
+    "code": 11021,
+    "socket": "AM4"
+  },
+  {
+    "price": 780000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/30/ff3e58da-64bf-4fd5-8305-95b85784a2fb.jpg",
+    "display_name": "ASRock A320M-HDV R4.0 (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+    "name": "ASRock-A320M-HDV-R40-AM4-AMD-Promontory-A320-DDR4-USB-31-SATA3",
+    "code": 151698,
+    "socket": "AM4"
+  },
+  {
+    "price": 839000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/fca9ed7d-fc8c-4fee-aab7-62e6cc1b89e8.jpg",
+    "display_name": "Asus PRIME A320M-K  (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+    "name": "Asus-PRIME-A320M-K-AM4-AMD-Promontory-A320-DDR4-USB-31-SATA3",
+    "code": 151699,
+    "socket": "AM4"
+  },
+  {
+    "price": 1060000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/d9e77109-0fe2-4016-9e6a-a184162f547e.jpg",
+    "display_name": "Asus EX-A320M-Gaming (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+    "name": "Asus-EX-A320M-Gaming-AM4-AMD-Promontory-A320-DDR4-USB-31-SATA3",
+    "code": 154381,
+    "socket": "AM4"
+  },
+  {
+    "price": 970000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/212cbd82-aa27-471f-9097-95906f706df0.jpg",
+    "display_name": "MAXSUN (By SOYO) MS-B350D4 Turbo (AM4, B350, DDR4, Slot M.2, USB 3.1, Hi-Fi Audio)",
+    "name": "MAXSUN-By-SOYO-MS-B350D4-Turbo-AM4-B350-DDR4-Slot-M2-USB-31-Hi-Fi-Audio",
+    "code": 154607,
+    "socket": "AM4"
+  },
+  {
+    "price": 1050000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/0cf42a88-9021-4751-9c03-544329c7d2e9.jpg",
+    "display_name": "MAXSUN (By SOYO) MS-Challenger B350M (AM4 Raven Ridge, B350, DDR4, Slot M.2, VGA+DVI+HDMI, Gigabit)",
+    "name": "MAXSUN-By-SOYO-MS-Challenger-B350M-AM4-Raven-Ridge-B350-DDR4-Slot-M2-VGADVIHDMI-Gigabit",
+    "code": 156404,
+    "socket": "AM4"
+  },
+  {
+    "price": 1350000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/30/a3fd1803-9800-46c6-8631-5465e9a015e8.jpg",
+    "display_name": "ASRock B450 Pro4 R2.0 (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B450-Pro4-R20-AM4-AMD-Promontory-B450-DDR4-USB32-SATA3",
+    "code": 157482,
+    "socket": "AM4"
+  },
+  {
+    "price": 950000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/f4ff4a5b-e144-45c8-929c-a022a86715cb.jpg",
+    "display_name": "ASRock B450M-HDV R4.0 (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+    "name": "ASRock-B450M-HDV-R40-AM4-AMD-Promontory-B450-DDR4-USB31-SATA3",
+    "code": 157483,
+    "socket": "AM4"
+  },
+  {
+    "price": 807000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/21/9651507/9651507_e0056b7e-b927-4772-a3c1-5aa87387b1ca_700_700",
+    "display_name": "Gigabyte GA-A320M-S2H-V2 (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)",
+    "name": "Gigabyte-GA-A320M-S2H-V2-AM4-AMD-Promontory-B350-DDR4-USB31-SATA3",
+    "code": 159439,
+    "socket": "AM4"
+  },
+  {
+    "price": 1129000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/10/21/9651507/9651507_f0270484-3acf-4e1e-a2e3-622fbf809090_700_700",
+    "display_name": "Gigabyte B450M DS3H V2 (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+    "name": "Gigabyte-B450M-DS3H-V2-AM4-AMD-Promontory-B450-DDR4-USB31-SATA3",
+    "code": 159626,
+    "socket": "AM4"
+  },
+  {
+    "price": 1340000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/e3d9b762-150f-4362-961b-c4c4b578d1c6.jpg",
+    "display_name": "ASRock B450M Steel Legend (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+    "name": "ASRock-B450M-Steel-Legend-AM4-AMD-Promontory-B450-DDR4-USB31-SATA3",
+    "code": 159839,
+    "socket": "AM4"
+  },
+  {
+    "price": 800000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/1/9651507/9651507_0f8556a7-448c-421a-8c27-55c3f744be95_700_700",
+    "display_name": "Asus PRIME A320M-F (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+    "name": "Asus-PRIME-A320M-F-AM4-AMD-Promontory-A320-DDR4-USB-31-SATA3",
+    "code": 160452,
+    "socket": "AM4"
+  },
+  {
+    "price": 1500000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/6/10/9651507/9651507_2813f9b1-44ff-40ee-9bc9-078400d9190c_1667_1667",
+    "display_name": "ASRock B450 Steel Legend (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+    "name": "ASRock-B450-Steel-Legend-AM4-AMD-Promontory-B450-DDR4-USB31-SATA3",
+    "code": 160667,
+    "socket": "AM4"
+  },
+  {
+    "price": 4890000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/b36814c5-5fcb-4fe8-972d-f1e72caa4554.jpg",
+    "display_name": "ASRock X570 Taichi (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-X570-Taichi-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 161390,
+    "socket": "AM4"
+  },
+  {
+    "price": 3285000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/a219b4af-f0a7-408a-a724-9383721ccb05.jpg",
+    "display_name": "ASRock X570 Steel Legend (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-X570-Steel-Legend-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 161391,
+    "socket": "AM4"
+  },
+  {
+    "price": 2570000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/cb72ef51-c69d-4b58-bca2-c2dd001e86bb.jpg",
+    "display_name": "ASRock X570 Phantom Gaming 4 (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-X570-Phantom-Gaming-4-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 161392,
+    "socket": "AM4"
+  },
+  {
+    "price": 7799000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/ece8a9e0-227f-4960-aa41-3c3b1b5ffe20.jpg",
+    "display_name": "Asus ROG CROSSHAIR VIII Formula (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-CROSSHAIR-VIII-Formula-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 161600,
+    "socket": "AM4"
+  },
+  {
+    "price": 4850000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/ef4feeab-ec4c-43f2-849d-c4c7dbc033a7.jpg",
+    "display_name": "Asus ROG CROSSHAIR VIII Hero (WI-FI) (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-CROSSHAIR-VIII-Hero-WI-FI-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 161741,
+    "socket": "AM4"
+  },
+  {
+    "price": 4635000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/23/636ab401-dd83-49d7-9f01-7a9cf7cd0ce0.png",
+    "display_name": "Asus TUF Gaming X570-PLUS (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-X570-PLUS-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 161743,
+    "socket": "AM4"
+  },
+  {
+    "price": 1180000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/8b3c02e9-8ab3-48ec-9507-9efe247477f1.jpg",
+    "display_name": "MSI B450-A Pro MAX (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+    "name": "MSI-B450-A-Pro-MAX-AM4-AMD-Promontory-B450-DDR4-USB32-SATA3",
+    "code": 162407,
+    "socket": "AM4"
+  },
+  {
+    "price": 1475000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/1576321d-5eaa-4037-9fb4-b791999ab91f.jpg",
+    "display_name": "MSI B450 Gaming Plus MAX (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+    "name": "MSI-B450-Gaming-Plus-MAX-AM4-AMD-Promontory-B450-DDR4-USB32-SATA3",
+    "code": 162408,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 1128000,
+    "image": null,
+    "display_name": "Biostar X470MH (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+    "name": "Biostar-X470MH-AM4-AMD-Promontory-X470-DDR4-USB31-SATA3",
+    "code": 162702,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 949000,
+    "image": null,
+    "display_name": "Biostar B450MH (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+    "name": "Biostar-B450MH-AM4-AMD-Promontory-B450-DDR4-USB31-SATA3",
+    "code": 163001,
+    "socket": "AM4"
+  },
+  {
+    "price": 5605000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/6164970c-7985-4aa4-b69e-8e3df57e9be1.jpg",
+    "display_name": "Asus ROG STRIX X570-I Gaming (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-X570-I-Gaming-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 163045,
+    "socket": "AM4"
+  },
+  {
+    "price": 3690000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/e5ffe7ce-6f6f-4b29-890d-ab806e93fead.jpg",
+    "display_name": "Asus TUF Gaming X570-PLUS (WI-FI) (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-X570-PLUS-WI-FI-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 163361,
+    "socket": "AM4"
+  },
+  {
+    "price": 4060000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/b2e097d2-aa5b-4c98-815b-1bb83b9ec8bd.jpg",
+    "display_name": "Asus ROG STRIX X570-F Gaming (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-X570-F-Gaming-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 163874,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 6630000,
+    "image": null,
+    "display_name": "Asus ROG CROSSHAIR VIII Impact (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-CROSSHAIR-VIII-Impact-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 163875,
+    "socket": "AM4"
+  },
+  {
+    "price": 1969000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/1/21/83419695/83419695_4802690b-c264-48f2-8636-af09fdb38de6_801_801",
+    "display_name": "GALAX X570M (AM4, AMD Premium X570, DDR4, USB3.1, SATA3)",
+    "name": "GALAX-X570M-AM4-AMD-Premium-X570-DDR4-USB31-SATA3",
+    "code": 164106,
+    "socket": "AM4"
+  },
+  {
+    "price": 2930000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/6/30318d4c-0262-474b-87b3-ee15de5e4aec.png",
+    "display_name": "Gigabyte B550I Aorus Pro AX (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B550I-Aorus-Pro-AX-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166066,
+    "socket": "AM4"
+  },
+  {
+    "price": 4568000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/d2b4f63d-a0b7-49bc-9cd7-bf09aaf8dd1e.jpg",
+    "display_name": "Gigabyte B550 Aorus Master (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B550-Aorus-Master-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166067,
+    "socket": "AM4"
+  },
+  {
+    "price": 3429000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/a30e6a19-9ca5-4119-8e02-4d30c7ff34f7.jpg",
+    "display_name": "Gigabyte B550 Aorus Pro AC (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B550-Aorus-Pro-AC-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166068,
+    "socket": "AM4"
+  },
+  {
+    "price": 1590000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/dd1fbf5a-c9e5-4856-bc3b-24e19b294ca9.jpg",
+    "display_name": "Gigabyte B550M DS3H Rev1.5 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B550M-DS3H-Rev15-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166071,
+    "socket": "AM4"
+  },
+  {
+    "price": 2329000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/12/9651507/9651507_aefed87f-61ff-4f49-b216-dff96feeec6a_700_700",
+    "display_name": "Asus TUF Gaming B550M-PLUS (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B550M-PLUS-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166106,
+    "socket": "AM4"
+  },
+  {
+    "price": 3150000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/e8601250-e21e-4543-8f17-80929ffb476f.jpg",
+    "display_name": "Asus TUF Gaming B550M-PLUS (WI-FI) (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B550M-PLUS-WI-FI-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166107,
+    "socket": "AM4"
+  },
+  {
+    "price": 2990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/9/12/9651507/9651507_08c4bddd-6b6a-4fea-8531-356dd8a32ee1_700_700",
+    "display_name": "Asus ROG STRIX B550-F Gaming (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B550-F-Gaming-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166108,
+    "socket": "AM4"
+  },
+  {
+    "price": 3590000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/c421b39f-669e-4b03-a9eb-c628244db4a8.jpg",
+    "display_name": "Asus ROG STRIX B550-F Gaming (WI-FI) (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B550-F-Gaming-WI-FI-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166109,
+    "socket": "AM4"
+  },
+  {
+    "price": 3350000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/e15bae38-8f0b-4189-93b5-7f60de19d5ec.jpg",
+    "display_name": "Asus ROG STRIX B550-I Gaming (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B550-I-Gaming-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166110,
+    "socket": "AM4"
+  },
+  {
+    "price": 3275000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/ef70150d-49ca-48c1-8e2d-f839d0c90059.jpg",
+    "display_name": "ASRock B550 Phantom Gaming ITX/ax (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550-Phantom-Gaming-ITXax-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166308,
+    "socket": "AM4"
+  },
+  {
+    "price": 2090000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/b34b5a40-bd56-4440-9358-55fccfc587b8.jpg",
+    "display_name": "ASRock B550 Pro4 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550-Pro4-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166309,
+    "socket": "AM4"
+  },
+  {
+    "price": 2143000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/8/cc6373e9-9a2a-4e6f-a059-dc836dd2249f.png",
+    "display_name": "ASRock B550M Steel Legend (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550M-Steel-Legend-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166310,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 3790000,
+    "image": null,
+    "display_name": "ASRock B550 Taichi (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550-Taichi-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166412,
+    "socket": "AM4"
+  },
+  {
+    "price": 2179000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/9/3/9651507/9651507_9c8ca3f5-76ac-4e14-b25c-21fa449b4724_700_700",
+    "display_name": "ASRock B550M ITX/AC (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550M-ITXAC-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166413,
+    "socket": "AM4"
+  },
+  {
+    "price": 1820000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/4f4ff1fe-d022-468c-a027-616299a3791a.jpg",
+    "display_name": "ASRock B550 Phantom Gaming 4 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550-Phantom-Gaming-4-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166414,
+    "socket": "AM4"
+  },
+  {
+    "price": 1640000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/18/9651507/9651507_aa2b05d8-1d67-42d4-9b43-c0db12861db7_700_700",
+    "display_name": "ASRock B550M Pro4 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550M-Pro4-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166415,
+    "socket": "AM4"
+  },
+  {
+    "price": 1239000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/18/9651507/9651507_e2613f1a-9a26-4d29-acea-a2a40ed2a419_700_700",
+    "display_name": "ASRock B550M-HDV (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550M-HDV-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166416,
+    "socket": "AM4"
+  },
+  {
+    "price": 2695000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/90399597-ce84-4dc3-8c14-0179f9ba15dd.jpg",
+    "display_name": "MSI MPG B550 Gaming Plus (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MPG-B550-Gaming-Plus-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166902,
+    "socket": "AM4"
+  },
+  {
+    "price": 2340000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/0f401623-fec9-4abf-ab3f-aabc22b41b37.jpg",
+    "display_name": "MSI B550-A Pro (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "MSI-B550-A-Pro-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 166983,
+    "socket": "AM4"
+  },
+  {
+    "price": 2830000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/2/1/e7ab1661-6ca7-4e59-bb52-2afebcf01eec.png",
+    "display_name": "Asus PRIME X570-P/CSM (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-X570-PCSM-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 167190,
+    "socket": "AM4"
+  },
+  {
+    "price": 1080000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/25/9651507/9651507_f18cbe9d-d3c0-450b-a90f-66f759319e0f_700_700",
+    "display_name": "Gigabyte A520M-S2H (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "Gigabyte-A520M-S2H-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 167295,
+    "socket": "AM4"
+  },
+  {
+    "price": 990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/7d4f7c90-6a88-48a5-a429-64bb26866c20.jpg",
+    "display_name": "GALAX B550M (AM4, AMD Promontory B550, DDR4, M.2 PCIe 4.0, USB3.2, SATA3)",
+    "name": "GALAX-B550M-AM4-AMD-Promontory-B550-DDR4-M2-PCIe-40-USB32-SATA3",
+    "code": 167389,
+    "socket": "AM4"
+  },
+  {
+    "price": 950000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/5/25/74e14e65-7ff3-4e36-b09d-1c56edab9685.png",
+    "display_name": "Asus PRIME A520M-K (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "Asus-PRIME-A520M-K-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 167425,
+    "socket": "AM4"
+  },
+  {
+    "price": 3150000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/8/7324b61e-e0e9-4816-9807-cc3ffd40598d.png",
+    "display_name": "Asus ROG STRIX B550-A Gaming (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B550-A-Gaming-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 167426,
+    "socket": "AM4"
+  },
+  {
+    "price": 1800000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/2/2/9a79798f-4c99-47bd-a35b-937ee8812150.png",
+    "display_name": "Gigabyte A520I AC (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "Gigabyte-A520I-AC-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 167473,
+    "socket": "AM4"
+  },
+  {
+    "price": 3530000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/9/3/9651507/9651507_bb013d94-b983-4831-ac8f-6b1b5e21a5a3_700_700",
+    "display_name": "ASRock B550 Phantom Gaming Velocita (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550-Phantom-Gaming-Velocita-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 167481,
+    "socket": "AM4"
+  },
+  {
+    "price": 2589000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/f10ecc07-f91a-45ea-9017-993787ea13b1.jpg",
+    "display_name": "ASRock B550 Steel Legend (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550-Steel-Legend-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 167482,
+    "socket": "AM4"
+  },
+  {
+    "price": 1760000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/d7702e80-efab-44c0-8266-5883efc0fb94.jpg",
+    "display_name": "ASRock A520M-ITX/ac (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "ASRock-A520M-ITXac-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 167483,
+    "socket": "AM4"
+  },
+  {
+    "price": 2035000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/eaa63f15-fcf5-4d26-9c37-6948460a0266.jpg",
+    "display_name": "MSI B550M Pro-VDH Wifi (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "MSI-B550M-Pro-VDH-Wifi-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 167506,
+    "socket": "AM4"
+  },
+  {
+    "price": 950000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/f198ee1d-4484-4b0f-9de3-8fd867d45e40.jpg",
+    "display_name": "MSI A520M-A Pro (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "MSI-A520M-A-Pro-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 167507,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 905000,
+    "image": null,
+    "display_name": "Asus PRIME A320M-E (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+    "name": "Asus-PRIME-A320M-E-AM4-AMD-Promontory-A320-DDR4-USB-31-SATA3",
+    "code": 167583,
+    "socket": "AM4"
+  },
+  {
+    "price": 1133000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/28/4486074e-a2fd-4524-abbe-667de92937ae.jpg",
+    "display_name": "Biostar B550MH (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Biostar-B550MH-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 167663,
+    "socket": "AM4"
+  },
+  {
+    "price": 4120000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/262e8426-78ac-48b2-ac79-33bd0b8d944d.jpg",
+    "display_name": "Asus ROG STRIX B550-E Gaming (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B550-E-Gaming-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 167780,
+    "socket": "AM4"
+  },
+  {
+    "price": 2830000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/9e7e6d5d-cd09-4401-96e6-f0e79430db98.jpg",
+    "display_name": "Gigabyte B550 Aorus Elite V2 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B550-Aorus-Elite-V2-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 168540,
+    "socket": "AM4"
+  },
+  {
+    "price": 1208000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/23880150-639f-4eb4-99d8-bda0efb93b9c.jpg",
+    "display_name": "Gigabyte A520M DS3H (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "Gigabyte-A520M-DS3H-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 168541,
+    "socket": "AM4"
+  },
+  {
+    "price": 1400000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/6/c31e401d-671e-4bc8-89ff-e0086f93f241.png",
+    "display_name": "ASRock A520M-PRO4 (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "ASRock-A520M-PRO4-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 168803,
+    "socket": "AM4"
+  },
+  {
+    "price": 3230000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/4/79d50471-470d-4d30-bfed-bfd3e3bd69c6.png",
+    "display_name": "Asus TUF Gaming B550-PLUS (WI-FI) (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B550-PLUS-WI-FI-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 168991,
+    "socket": "AM4"
+  },
+  {
+    "price": 4650000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/9cd49f90-f673-4516-809c-9b8141b404df.jpg",
+    "display_name": "Asus ROG CROSSHAIR VIII Dark Hero (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-CROSSHAIR-VIII-Dark-Hero-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 169282,
+    "socket": "AM4"
+  },
+  {
+    "price": 5390000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/02c36d64-5224-4d2e-aa23-04998d9ab4e8.jpg",
+    "display_name": "ASRock X570 Taichi Razer Edition (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-X570-Taichi-Razer-Edition-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 169317,
+    "socket": "AM4"
+  },
+  {
+    "price": 4260000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/482b99a1-c7f5-49d7-96cd-da76aebca0c7.jpg",
+    "display_name": "ASRock X570 Phantom Gaming Velocita (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-X570-Phantom-Gaming-Velocita-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 169318,
+    "socket": "AM4"
+  },
+  {
+    "price": 3890000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/18/423491a2-15b3-4999-a103-e328ff1fb041.png",
+    "display_name": "ASRock B550 Taichi Razer Edition (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550-Taichi-Razer-Edition-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 169319,
+    "socket": "AM4"
+  },
+  {
+    "price": 1465000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/4e462077-f41f-4de3-98f2-b583e940040c.jpg",
+    "display_name": "MSI B550M-A Pro (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "MSI-B550M-A-Pro-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 169324,
+    "socket": "AM4"
+  },
+  {
+    "price": 1530000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/fe7db2bc-89b7-460e-a626-5583ee9b3f87.jpg",
+    "display_name": "Asus TUF Gaming A520M-PLUS (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-A520M-PLUS-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 169744,
+    "socket": "AM4"
+  },
+  {
+    "price": 4325000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/22/947622a0-13b5-4dc6-84d7-24f34552d580.jpg",
+    "display_name": "Asus Pro WS X570-ACE (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-Pro-WS-X570-ACE-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 170214,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 4710000,
+    "image": null,
+    "display_name": "Asus ROG STRIX B550-XE Gaming (WI-FI) (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B550-XE-Gaming-WI-FI-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 170215,
+    "socket": "AM4"
+  },
+  {
+    "price": 1150000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/ab2ff7b3-b1fb-4278-9ed3-a05115d96d52.jpg",
+    "display_name": "GALAX B550M EX (AM4, AMD Promontory B550, DDR4, M.2 PCIe 4.0, USB3.2, SATA3)",
+    "name": "GALAX-B550M-EX-AM4-AMD-Promontory-B550-DDR4-M2-PCIe-40-USB32-SATA3",
+    "code": 170332,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 815000,
+    "image": null,
+    "display_name": "ECS A320AM4-M3D (AM4, AMD Promontory A320, DDR4, SATA3)",
+    "name": "ECS-A320AM4-M3D-AM4-AMD-Promontory-A320-DDR4-SATA3",
+    "code": 170642,
+    "socket": "AM4"
+  },
+  {
+    "price": 3330000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/10/f31860ba-8ef4-4f82-a926-668741e13a97.png",
+    "display_name": "Asus TUF Gaming B550M ZAKU II Edition (WI-FI) (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B550M-ZAKU-II-Edition-WI-FI-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 170672,
+    "socket": "AM4"
+  },
+  {
+    "price": 1690000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/17/7eb73f73-9186-4a12-8bb7-8c7c32e1b775.png",
+    "display_name": "Asus TUF B450M-PLUS II Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+    "name": "Asus-TUF-B450M-PLUS-II-Gaming-AM4-AMD-Promontory-B450-DDR4-USB31-SATA3",
+    "code": 170773,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 4430000,
+    "image": null,
+    "display_name": "MSI MEG B550 Unify (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MEG-B550-Unify-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 170976,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 4575000,
+    "image": null,
+    "display_name": "MSI MEG B550 Unify-X (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MEG-B550-Unify-X-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 170977,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 3280000,
+    "image": null,
+    "display_name": "Asus PROART B550-Creator (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PROART-B550-Creator-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 171009,
+    "socket": "AM4"
+  },
+  {
+    "price": 1750000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/a5bf9dea-a3a8-4bbd-a318-2f106e23d0c4.jpg",
+    "display_name": "Asus ROG STRIX B450-F II Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+    "name": "Asus-ROG-STRIX-B450-F-II-Gaming-AM4-AMD-Promontory-B450-DDR4-USB31-SATA3",
+    "code": 171231,
+    "socket": "AM4"
+  },
+  {
+    "price": 4390000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/7e487273-dd97-4244-abe2-c105cc968280.jpg",
+    "display_name": "Gigabyte B550 Vision D-P (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B550-Vision-D-P-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 171313,
+    "socket": "AM4"
+  },
+  {
+    "price": 1345000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/5/e74dc147-ee71-4c9a-bbf1-ae2703a756a0.jpg",
+    "display_name": "Asus TUF Gaming B450M-PRO II (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B450M-PRO-II-AM4-AMD-Promontory-B450-DDR4-USB32-SATA3",
+    "code": 171425,
+    "socket": "AM4"
+  },
+  {
+    "price": 1000000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/a4a54377-8e0d-438d-a8ea-ff64e40ddc67.jpg",
+    "display_name": "MSI B450M-A Pro MAX (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+    "name": "MSI-B450M-A-Pro-MAX-AM4-AMD-Promontory-B450-DDR4-USB32-SATA3",
+    "code": 171603,
+    "socket": "AM4"
+  },
+  {
+    "price": 2977000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/5/28/ea8045e6-c9f8-4da2-b4fb-5afc00cd014b.png",
+    "display_name": "NZXT N7 B550 Gaming WIFI - Matte White (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3) - Promo Limited!!!",
+    "name": "NZXT-N7-B550-Gaming-WIFI-Matte-White-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3-Promo-Limited",
+    "code": 171713,
+    "socket": "AM4"
+  },
+  {
+    "price": 2977000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/5/28/d2852b62-5268-4189-8247-aeb5384f2d75.png",
+    "display_name": "NZXT N7 B550 Gaming WIFI - Matte Black (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3) - Promo Limited!!!",
+    "name": "NZXT-N7-B550-Gaming-WIFI-Matte-Black-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3-Promo-Limited",
+    "code": 171714,
+    "socket": "AM4"
+  },
+  {
+    "price": 2330000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/9/cede3d2d-3cbc-4606-b993-c961e78f249e.png",
+    "display_name": "Asus TUF Gaming B550M-E (WI-FI) (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B550M-E-WI-FI-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 171899,
+    "socket": "AM4"
+  },
+  {
+    "price": 2235000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/50960f92-a0be-42ce-b741-ba8c7b608b64.jpg",
+    "display_name": "Gigabyte B550 Gaming X V2 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B550-Gaming-X-V2-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 172224,
+    "socket": "AM4"
+  },
+  {
+    "price": 4557000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/24/d4f42017-0e20-4caa-a6bb-01c22cff4f14.jpg",
+    "display_name": "Gigabyte X570S Aorus Pro AX (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-X570S-Aorus-Pro-AX-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 172563,
+    "socket": "AM4"
+  },
+  {
+    "price": 2540000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/75125d7f-b36f-425a-9543-9cfb6ddec3a2.jpg",
+    "display_name": "Gigabyte B550M Aorus PRO-P (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B550M-Aorus-PRO-P-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 173101,
+    "socket": "AM4"
+  },
+  {
+    "price": 790000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/e4b86578-a93f-439f-9a7b-b63c7fc4ff66.jpg",
+    "display_name": "MSI A320M-A Pro (AM4, AMD Promontory A320, DDR4, USB3.2, SATA3)",
+    "name": "MSI-A320M-A-Pro-AM4-AMD-Promontory-A320-DDR4-USB32-SATA3",
+    "code": 173298,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 5880000,
+    "image": null,
+    "display_name": "Asus ROG CROSSHAIR VIII EXTREME (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-CROSSHAIR-VIII-EXTREME-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 173450,
+    "socket": "AM4"
+  },
+  {
+    "price": 5250000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/15/44b020ae-9e95-4cc9-869d-c6b140f00564.jpg",
+    "display_name": "Asus PROART X570-Creator (WI-FI) (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PROART-X570-Creator-WI-FI-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 173451,
+    "socket": "AM4"
+  },
+  {
+    "price": 2535000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/2e3175ff-571d-4175-809e-5c098f44ad38.jpg",
+    "display_name": "MSI MAG B550 Torpedo (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MAG-B550-Torpedo-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 173459,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 7809000,
+    "image": null,
+    "display_name": "Gigabyte X570 Aorus Xtreme 2.0 (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-X570-Aorus-Xtreme-20-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 174294,
+    "socket": "AM4"
+  },
+  {
+    "price": 2940000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/27/0b1707da-a50b-48c4-be90-bf498d6003e5.jpg",
+    "display_name": "ASRock X570S PG Riptide (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-X570S-PG-Riptide-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 174836,
+    "socket": "AM4"
+  },
+  {
+    "price": 2290000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/23/016783e1-1d5b-4aab-9000-cc397f7affc0.jpg",
+    "display_name": "ASRock B550 PG Riptide (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550-PG-Riptide-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 174837,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 5890000,
+    "image": null,
+    "display_name": "MSI MEG X570S Unify-X MAX (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MEG-X570S-Unify-X-MAX-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 174839,
+    "socket": "AM4"
+  },
+  {
+    "price": 1855000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/2/9/db016841-01de-403f-9c78-58dede0257e3.jpg",
+    "display_name": "ASRock B550M PG Riptide (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550M-PG-Riptide-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 176357,
+    "socket": "AM4"
+  },
+  {
+    "price": 3330000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/74637672-1751-4945-89b7-946d994efd9e.jpg",
+    "display_name": "Asus TUF Gaming X570-PRO WIFI II (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-X570-PRO-WIFI-II-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 176378,
+    "socket": "AM4"
+  },
+  {
+    "price": 2685000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/99af6bc9-0231-4e7e-b548-2dccade099a6.jpg",
+    "display_name": "Asus TUF Gaming B550-PLUS WIFI II (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B550-PLUS-WIFI-II-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 176379,
+    "socket": "AM4"
+  },
+  {
+    "price": 2610000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/c041fa33-fbca-4165-a94e-dbea6fd3d79f.jpg",
+    "display_name": "Asus TUF Gaming B550M-PLUS WIFI II (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B550M-PLUS-WIFI-II-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 176380,
+    "socket": "AM4"
+  },
+  {
+    "price": 2070000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/11/c56fb290-432a-47f5-b20b-0dae24f720a0.jpg",
+    "display_name": "Asus TUF Gaming B550M-E (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B550M-E-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 176381,
+    "socket": "AM4"
+  },
+  {
+    "price": 1680000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/30/57280fa9-4634-4e76-890d-317872af60eb.jpg",
+    "display_name": "Asus TUF Gaming B450-PLUS II (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B450-PLUS-II-AM4-AMD-Promontory-B450-DDR4-USB32-SATA3",
+    "code": 176382,
+    "socket": "AM4"
+  },
+  {
+    "price": 1080000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/342dded0-cf12-46e0-bb81-83c6dcfd71cd.jpg",
+    "display_name": "Asus PRIME B450M-A II (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-B450M-A-II-AM4-AMD-Promontory-B450-DDR4-USB32-SATA3",
+    "code": 176383,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 1650000,
+    "image": null,
+    "display_name": "Asus TUF Gaming A520M-PLUS WIFI (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-A520M-PLUS-WIFI-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 176384,
+    "socket": "AM4"
+  },
+  {
+    "price": 1120000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/29/442530fa-e9e2-493f-981e-b15756d4d86d.jpg",
+    "display_name": "Asus PRIME A520M-A II (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "Asus-PRIME-A520M-A-II-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 176385,
+    "socket": "AM4"
+  },
+  {
+    "price": 6420000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/22/88c4f12d-547f-4acc-811f-64146e60e06a.jpg",
+    "display_name": "Asus ROG STRIX X570-E Gaming WIFI II (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-X570-E-Gaming-WIFI-II-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 176400,
+    "socket": "AM4"
+  },
+  {
+    "price": 3390000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/14/70305ca6-0942-43e4-8adb-1fdbdf3a9c6b.jpg",
+    "display_name": "Asus ROG STRIX B550-F Gaming WIFI II (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B550-F-Gaming-WIFI-II-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 176943,
+    "socket": "AM4"
+  },
+  {
+    "price": 4055000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/3/af1ac13c-f1c7-4c2b-a74d-f60685f1d145.jpg",
+    "display_name": "Gigabyte X570S Aorus Elite (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-X570S-Aorus-Elite-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 177177,
+    "socket": "AM4"
+  },
+  {
+    "price": 3669000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/16/fded6fa7-72c1-4c91-b596-70bc082bc681.jpg",
+    "display_name": "Gigabyte X570 Aorus Elite Wifi (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-X570-Aorus-Elite-Wifi-AM4-AMD-Premium-X570-DDR4-USB32-SATA3",
+    "code": 177493,
+    "socket": "AM4"
+  },
+  {
+    "price": 910000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/24/3ebd953f-0371-4252-bb4b-ad0c24f00669.jpg",
+    "display_name": "ASRock A520M-HVS (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "ASRock-A520M-HVS-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 180165,
+    "socket": "AM4"
+  },
+  {
+    "price": 3070000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/1/b44900ca-a8e5-4077-b09d-0ab09b3f589c.jpg",
+    "display_name": "MSI MAG B550M Mortar MAX WIFI (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MAG-B550M-Mortar-MAX-WIFI-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 180409,
+    "socket": "AM4"
+  },
+  {
+    "price": 1770000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/3/eca4ce00-6739-4e7c-b1aa-cf1aa846886f.jpg",
+    "display_name": "Asus PRIME B550M-A WIFI II (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-B550M-A-WIFI-II-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 181269,
+    "socket": "AM4"
+  },
+  {
+    "price": 1605000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/3/c083f353-c78f-4a29-9936-3176720ccd90.jpg",
+    "display_name": "Asus PRIME B550M-A (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-B550M-A-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 181270,
+    "socket": "AM4"
+  },
+  {
+    "price": 3245000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/31/831466c9-0a8d-4b62-be9a-2b635b1d4a66.jpg",
+    "display_name": "MSI MAG B550 Tomahawk MAX WIFI (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MAG-B550-Tomahawk-MAX-WIFI-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 182235,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 1011000,
+    "image": null,
+    "display_name": "Gigabyte B450M K (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B450M-K-AM4-AMD-Promontory-B450-DDR4-USB32-SATA3",
+    "code": 183009,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 879000,
+    "image": null,
+    "display_name": "Biostar B450MHP (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+    "name": "Biostar-B450MHP-AM4-AMD-Promontory-B450-DDR4-USB32-SATA3",
+    "code": 183196,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 1559000,
+    "image": null,
+    "display_name": "ASRock B550M Phantom Gaming 4 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B550M-Phantom-Gaming-4-AM4-AMD-Promontory-B550-DDR4-USB32-SATA3",
+    "code": 183832,
+    "socket": "AM4"
+  },
+  {
+
+    "price": 918000,
+    "image": null,
+    "display_name": "Biostar A520MH 3.0 (AM4, A520, DDR4, USB 3.2, SATA3)",
+    "name": "Biostar-A520MH-30-AM4-A520-DDR4-USB-32-SATA3",
+    "code": 184062,
+    "socket": "AM4"
+  },
+  {
+    "price": 735000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/50e3bcac-5196-4119-893f-b4b3f5afa29f.jpg",
+    "display_name": "ASRock FM2A68M-DG3+ (FM2+, AMD A68H, DDR3)",
+    "name": "ASRock-FM2A68M-DG3-FM2-AMD-A68H-DDR3",
+    "code": 10977,
+    "socket": "FM2"
+  },
+  {
+    "price": 710000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/1/9651507/9651507_92ed5f23-21a6-4dea-897d-b53da1aa594a_700_700",
+    "display_name": "Biostar Hi-Fi A70U3P (FM2+, AMD A70M, DDR3, SATA3, USB3)",
+    "name": "Biostar-Hi-Fi-A70U3P-FM2-AMD-A70M-DDR3-SATA3-USB3",
+    "code": 11004,
+    "socket": "FM2"
+  },
+  {
+
+    "price": 740000,
+    "image": null,
+    "display_name": "Biostar A68MHE (FM2+, AMD A68H, SATA3, DDR3)",
+    "name": "Biostar-A68MHE-FM2-AMD-A68H-SATA3-DDR3",
+    "code": 177171,
+    "socket": "FM2"
+  },
+  {
+    "price": 735000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/50e3bcac-5196-4119-893f-b4b3f5afa29f.jpg",
+    "display_name": "ASRock FM2A68M-DG3+ (FM2+, AMD A68H, DDR3)",
+    "name": "ASRock-FM2A68M-DG3-FM2-AMD-A68H-DDR3",
+    "code": 10977,
+    "socket": "FM2"
+  },
+  {
+    "price": 710000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/1/9651507/9651507_92ed5f23-21a6-4dea-897d-b53da1aa594a_700_700",
+    "display_name": "Biostar Hi-Fi A70U3P (FM2+, AMD A70M, DDR3, SATA3, USB3)",
+    "name": "Biostar-Hi-Fi-A70U3P-FM2-AMD-A70M-DDR3-SATA3-USB3",
+    "code": 11004,
+    "socket": "FM2"
+  },
+  {
+
+    "price": 740000,
+    "image": null,
+    "display_name": "Biostar A68MHE (FM2+, AMD A68H, SATA3, DDR3)",
+    "name": "Biostar-A68MHE-FM2-AMD-A68H-SATA3-DDR3",
+    "code": 177171,
+    "socket": "FM2"
+  },
+  {
+    "price": 4910000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/3/310d9c45-50aa-4955-a2b9-1836db497c40.jpg",
+    "display_name": "Gigabyte Z690 Aorus Elite AX DDR4 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-Z690-Aorus-Elite-AX-DDR4-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 174291,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3825000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/12/885bee65-bed9-4be6-9072-8d5ae5364aa3.jpg",
+    "display_name": "Gigabyte Z690 UD DDR4 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-Z690-UD-DDR4-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 174293,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 24780000,
+    "image": null,
+    "display_name": "Asus ROG Maximus Z690 Extreme Glacial (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "Asus-ROG-Maximus-Z690-Extreme-Glacial-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 174394,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 17400000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/2/4cf64b9f-61c5-48dc-abfd-63ff0b6a0d7a.jpg",
+    "display_name": "Asus ROG Maximus Z690 Extreme (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "Asus-ROG-Maximus-Z690-Extreme-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 174395,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 7070000,
+    "image": null,
+    "display_name": "Asus ROG Maximus Z690 Apex (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "Asus-ROG-Maximus-Z690-Apex-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 174396,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 9390000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/2/d90d8308-185f-427d-b48d-8fe7b7b1b6b5.jpg",
+    "display_name": "Asus ROG Maximus Z690 Hero (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "Asus-ROG-Maximus-Z690-Hero-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 174397,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 5795000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/6/33d1af04-8fd6-4345-a009-423a3565288e.png",
+    "display_name": "Asus ROG Strix Z690-F Gaming WIFI (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "Asus-ROG-Strix-Z690-F-Gaming-WIFI-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 174399,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3645000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/6/4f3c4dcf-5918-4944-b4d6-0ec6caf97f27.png",
+    "display_name": "Asus TUF Gaming Z690-PLUS WIFI D4 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-Z690-PLUS-WIFI-D4-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 174402,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3900000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/7/1b1e7b6d-e7cc-4de7-a196-3fb8a86f0a25.jpg",
+    "display_name": "Asus Prime Z690-P D4 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "Asus-Prime-Z690-P-D4-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 174405,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4083000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/11/0987d40f-1542-4ace-980c-d7436243e835.jpg",
+    "display_name": "MSI PRO Z690-A WiFi DDR4 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-Z690-A-WiFi-DDR4-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 174407,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 6150000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/3/befe056e-0664-47a1-93ce-45f3c2e35271.jpg",
+    "display_name": "MSI MPG Z690 Force WiFi (LGA1700, Z690, DDR5, USB3.2, SATA3) - Promo Limited!!!",
+    "name": "MSI-MPG-Z690-Force-WiFi-LGA1700-Z690-DDR5-USB32-SATA3-Promo-Limited",
+    "code": 174408,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 6190000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/3/c5cfc334-ca23-437b-8f93-20eb473115b9.jpg",
+    "display_name": "MSI MPG Z690 Carbon WiFi (LGA1700, Z690, DDR5, USB3.2, SATA3) - Promo Limited!!!",
+    "name": "MSI-MPG-Z690-Carbon-WiFi-LGA1700-Z690-DDR5-USB32-SATA3-Promo-Limited",
+    "code": 174409,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3895000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/6/95fe830d-4400-47ba-8ac8-bce65d6ae641.png",
+    "display_name": "MSI PRO Z690-A DDR4 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-Z690-A-DDR4-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 174414,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4910000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/6/a41f9c1c-4a89-4e41-936a-82fe139b7720.png",
+    "display_name": "MSI MAG Z690 Tomahawk WiFi DDR4 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MAG-Z690-Tomahawk-WiFi-DDR4-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 174415,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 5820000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/6/a91b91a7-903b-471e-ba27-44e19016649a.png",
+    "display_name": "MSI MPG Z690 Edge WiFi DDR4 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MPG-Z690-Edge-WiFi-DDR4-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 174416,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3990000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/30/dab769bf-2346-4b56-86d0-c7a1275562ee.jpg",
+    "display_name": "ASRock Z690 Extreme (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-Z690-Extreme-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 174589,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4679000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/d1907ffc-f65d-42c5-8d65-b919765389da.jpg",
+    "display_name": "Gigabyte Z690 Aorus Elite DDR4 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-Z690-Aorus-Elite-DDR4-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 174891,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4017000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/14/748960c9-31f1-4161-8831-2d60433f7e90.jpg",
+    "display_name": "Gigabyte Z690 Aorus Elite (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "Gigabyte-Z690-Aorus-Elite-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 174963,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3325000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/23/58ca84e5-6415-4be6-ad46-1564ca8cc483.jpg",
+    "display_name": "ASRock Z690 PG Riptide (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-Z690-PG-Riptide-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 175208,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3430000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/8/8b930358-1eb5-4f37-8484-e8073b30808f.jpg",
+    "display_name": "Asus ROG STRIX B660-G Gaming WIFI (LGA1700, B660, DDR5, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B660-G-Gaming-WIFI-LGA1700-B660-DDR5-USB32-SATA3",
+    "code": 175244,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2810000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/8/82bcd731-3162-464b-ad03-9ea0099ec20b.jpg",
+    "display_name": "Asus TUF Gaming B660-PLUS WIFI D4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B660-PLUS-WIFI-D4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 175246,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2050000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/14/e9e6de3a-4a83-4bc5-a92c-1aa0f19a508b.jpg",
+    "display_name": "Asus PRIME B660M-A D4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-B660M-A-D4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 175247,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1359000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/10/a615c87e-c44b-4db7-9c71-7628afb74334.jpg",
+    "display_name": "Asus PRIME H610M-K D4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-H610M-K-D4-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 175249,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4525000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/22/06e2872f-2c67-46d6-8edf-4a90b04b632b.jpg",
+    "display_name": "MSI MAG Z690 Torpedo (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "MSI-MAG-Z690-Torpedo-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 175330,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3405000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/24/b6a29993-8305-4d89-90ba-9d02194d2622.jpg",
+    "display_name": "MSI MAG B660 Tomahawk Wifi DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MAG-B660-Tomahawk-Wifi-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 175357,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2880000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/8/896d7b7c-9768-494a-8346-46ed234b53af.jpg",
+    "display_name": "MSI MAG B660M Mortar DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MAG-B660M-Mortar-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 175359,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2760000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/2/3/04ad9f8d-ae65-4a26-9c0e-694941c3f2dd.jpg",
+    "display_name": "MSI MAG B660M Bazooka DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MAG-B660M-Bazooka-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 175360,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2171000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/17/4e3f9e5d-9431-4a5b-ad2c-196597822142.jpg",
+    "display_name": "MSI PRO B660M-A Wifi DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-B660M-A-Wifi-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 175361,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4640000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/8/0dbf8fef-b93e-4862-9a8d-f40fd29116b2.jpg",
+    "display_name": "Asus ROG STRIX B660-F Gaming WIFI (LGA1700, B660, DDR5, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B660-F-Gaming-WIFI-LGA1700-B660-DDR5-USB32-SATA3",
+    "code": 175392,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2620000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/8/6aa31411-6b4f-4e93-8519-71a4d859a6d3.jpg",
+    "display_name": "Asus TUF Gaming B660M-PLUS WIFI D4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-B660M-PLUS-WIFI-D4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 175394,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4170000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/8/6cc390dc-a47b-4832-915a-d13163e4e97d.jpg",
+    "display_name": "Asus ProArt B660-CREATOR D4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ProArt-B660-CREATOR-D4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 175395,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1236000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/7/aba625cc-cdad-4a3d-b46b-76c964e5ddf4.jpg",
+    "display_name": "Gigabyte H610M S2 DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-H610M-S2-DDR4-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 175412,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1740000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/2/584c5146-06ac-4f16-b8e2-fcfa66272e7b.jpg",
+    "display_name": "Asus PRIME H610M-A D4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-H610M-A-D4-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 175423,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1365000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/18/dd4f584f-e667-4113-ae0e-a16e8278658d.jpg",
+    "display_name": "Asus PRIME H610M-D D4-CSM (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-H610M-D-D4-CSM-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 175424,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 6090000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/10/8ff248e2-c280-4da1-9df3-869839297a79.jpg",
+    "display_name": "MSI MPG Z690 Edge WiFi (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "MSI-MPG-Z690-Edge-WiFi-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 175563,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 5140000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/4/5db84416-6311-4cd0-b7e2-1778fb6593fb.jpg",
+    "display_name": "MSI MAG Z690 Tomahawk WiFi (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "MSI-MAG-Z690-Tomahawk-WiFi-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 175564,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 6950000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/8/6/dd597631-66a3-4db2-962e-4c70d5d6a58c.jpg",
+    "display_name": "MSI MEG Z690I UNIFY (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "MSI-MEG-Z690I-UNIFY-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 175565,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 10880000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/8/11/533680f3-1c2c-4ddf-aa11-c1ed1f6679f2.jpg",
+    "display_name": "MSI MEG Z690 UNIFY (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "MSI-MEG-Z690-UNIFY-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 175566,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 11750000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/18/c21bc0b2-f99c-4ee3-a92d-b1f8e264f800.jpg",
+    "display_name": "MSI MEG Z690 ACE (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "MSI-MEG-Z690-ACE-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 175567,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2130000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/19/316700fc-f8c3-4a0e-918b-17ae95832e1c.jpg",
+    "display_name": "MSI PRO B660M-G DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-B660M-G-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 175806,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2019000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/17/169f11a3-726d-43c3-8d9d-5ee494b2c82f.jpg",
+    "display_name": "MSI PRO B660M-B DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-B660M-B-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 175807,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1350000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/19/d91df885-a709-47a6-8109-e96003cfa2ec.jpg",
+    "display_name": "MSI PRO H610M-G DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-H610M-G-DDR4-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 175808,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 5890000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/8/b587baa0-ee8b-40fb-b2b7-6636e3336827.jpg",
+    "display_name": "ASRock Z690 PG Velocita (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "ASRock-Z690-PG-Velocita-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 176144,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2580000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/26/fbd6e1e3-0b58-4987-98f3-95c0ce64fc7c.jpg",
+    "display_name": "ASRock B660 Steel Legend (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B660-Steel-Legend-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 176146,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1270000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/b8684b33-41f9-4483-b6f9-ce34974fdc0b.jpg",
+    "display_name": "ASRock H610M-HDV (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-H610M-HDV-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 176149,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2060000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/15/9eb9390b-06b8-42da-b4c3-f1005488bfc5.jpg",
+    "display_name": "Asus PRIME B660M-A WIFI D4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-B660M-A-WIFI-D4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 176386,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2734000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/17/7704b0e2-fd7f-4870-bdc1-77ca650837c7.jpg",
+    "display_name": "Gigabyte B660 Gaming X DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B660-Gaming-X-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 176524,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1859000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/19/3af9e0ac-7a31-426d-afbe-fbc22f476023.jpg",
+    "display_name": "ASRock B660M Pro RS (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B660M-Pro-RS-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 176588,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1534000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/22/ba71bf6d-a88a-468c-a093-c91939389fbb.jpg",
+    "display_name": "ASRock B660M-HDV (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B660M-HDV-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 176590,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1295000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/3/e7fa3da3-d5be-466d-bf5b-daf554f9814d.jpg",
+    "display_name": "Gigabyte H610M S2H DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-H610M-S2H-DDR4-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 176940,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3159000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/8/95b0da25-8c7e-4742-bb2e-12e01b6451dd.jpg",
+    "display_name": "Gigabyte B660M Aorus PRO AX DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B660M-Aorus-PRO-AX-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 177098,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1760000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/7/12/4105cd05-204e-4e6b-a7e5-589a0dd24b69.jpg",
+    "display_name": "Gigabyte B660M GAMING DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B660M-GAMING-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 177102,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1420000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/9/bc7b08d8-d5a3-488a-8203-47b8fd495453.jpg",
+    "display_name": "Asus PRIME H610M-E D4-CSM (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-H610M-E-D4-CSM-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 177105,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 38090000,
+    "image": null,
+    "display_name": "MSI MEG Z690 GODLIKE (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "MSI-MEG-Z690-GODLIKE-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 177121,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4029000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/10/eb9c1433-922e-46be-ac1d-0efa50091645.jpg",
+    "display_name": "Gigabyte Z690 Gaming X DDR4 V2 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-Z690-Gaming-X-DDR4-V2-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 177178,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1960000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/13/23dcf171-c2fe-4459-ad01-4ce2de30d364.jpg",
+    "display_name": "ASRock B660M-ITX/ac (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B660M-ITXac-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 177295,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1202000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/28/b5ff22ad-b652-4364-9d5e-1d433f28c676.jpg",
+    "display_name": "Biostar H610MH (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "Biostar-H610MH-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 177351,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1830000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/9/5473a204-e082-41f8-b5f5-6ad270ab173c.jpg",
+    "display_name": "ASRock B660M Phantom Gaming 4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B660M-Phantom-Gaming-4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 177422,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2290000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/9/36f018ff-2373-42b6-882e-cb774d7620ae.jpg",
+    "display_name": "ASRock B660M Steel Legend (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B660M-Steel-Legend-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 177423,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4040000,
+    "image": null,
+    "display_name": "ASRock Z690 Taichi Razer Edition (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+    "name": "ASRock-Z690-Taichi-Razer-Edition-LGA1700-Z690-DDR5-USB32-SATA3",
+    "code": 177424,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1269000,
+    "image": null,
+    "display_name": "MSI H610M Bomber DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "MSI-H610M-Bomber-DDR4-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 178518,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2090000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/6/ded44f4c-cb5a-4b7f-b8ef-4de0f8aa7177.jpg",
+    "display_name": "ASRock B660M Pro RS/AX (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B660M-Pro-RSAX-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 178762,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3095000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/10/bc809d0b-f412-498f-812a-de48efb22c43.jpg",
+    "display_name": "NZXT N5 Z690 WIFI - Matte White (LGA1700, Z690, DDR4, USB3.2, SATA3) - Promo Limited!!!",
+    "name": "NZXT-N5-Z690-WIFI-Matte-White-LGA1700-Z690-DDR4-USB32-SATA3-Promo-Limited",
+    "code": 178889,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3095000,
+    "image": null,
+    "display_name": "NZXT N5 Z690 WIFI - Matte Black (LGA1700, Z690, DDR4, USB3.2, SATA3) - Promo Limited!!!",
+    "name": "NZXT-N5-Z690-WIFI-Matte-Black-LGA1700-Z690-DDR4-USB32-SATA3-Promo-Limited",
+    "code": 178890,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4500000,
+    "image": null,
+    "display_name": "NZXT N7 Z690 WIFI - Matte Black (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "NZXT-N7-Z690-WIFI-Matte-Black-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 178891,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4500000,
+    "image": null,
+    "display_name": "NZXT N7 Z690 WIFI - Matte White (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "NZXT-N7-Z690-WIFI-Matte-White-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 178893,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1280000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/8/dedab8a6-445a-4ad0-8399-5a46793cda39.jpg",
+    "display_name": "ASRock H610M-HDV/M.2 R2.0 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-H610M-HDVM2-R20-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 179343,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1202000,
+    "image": null,
+    "display_name": "Biostar H610MHP (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "Biostar-H610MHP-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 179624,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3247000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/6/1b013835-5695-4a6b-b8ce-6b4344e7eba4.jpg",
+    "display_name": "Gigabyte B660M Aorus PRO AX (LGA1700, B660, DDR5, USB3.2, SATA3)",
+    "name": "Gigabyte-B660M-Aorus-PRO-AX-LGA1700-B660-DDR5-USB32-SATA3",
+    "code": 179821,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3039000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/7/4d3c8dca-4152-4d59-9e09-abdcb6673d44.jpg",
+    "display_name": "Gigabyte B660M Aorus PRO (LGA1700, B660, DDR5, USB3.2, SATA3)",
+    "name": "Gigabyte-B660M-Aorus-PRO-LGA1700-B660-DDR5-USB32-SATA3",
+    "code": 179822,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1560000,
+    "image": null,
+    "display_name": "MSI PRO B660M-E DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-B660M-E-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 179988,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1250000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/2/7e7b6652-fc94-42a2-b6e0-62e766441b61.jpg",
+    "display_name": "MSI PRO H610M-E DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-H610M-E-DDR4-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 179989,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1210000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/19/6611b68e-c040-44ba-a597-eec7305d57e0.jpg",
+    "display_name": "ASRock H610M-HVS/M.2 R2.0 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-H610M-HVSM2-R20-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 180021,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4840000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/9/20564f5f-7272-44f0-bfff-3c04eb447514.jpg",
+    "display_name": "ASRock Z790 PG Sonic (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-Z790-PG-Sonic-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180539,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3730000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/25/fe27d019-019f-4838-af0b-c29b61eb401b.jpg",
+    "display_name": "ASRock Z790 Pro RS (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-Z790-Pro-RS-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180540,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 7350000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/20/56a47dce-0dde-41b5-9ed5-0bb3aab6481d.jpg",
+    "display_name": "Asus ROG STRIX Z790-F Gaming WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-Z790-F-Gaming-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180542,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4790000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/20/1b622d38-a512-4b5d-a66d-a5920674b8a6.jpg",
+    "display_name": "Asus PRIME Z790-P WIFI-CSM (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-PRIME-Z790-P-WIFI-CSM-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180543,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 16950000,
+    "image": null,
+    "display_name": "Gigabyte Z690 Aorus Xtreme (LGA1700, Z690, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z690-Aorus-Xtreme-LGA1700-Z690-DDR5-USB32-Type-C-SATA3",
+    "code": 180631,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 6649000,
+    "image": null,
+    "display_name": "Gigabyte Z690 Aorus Ultra (LGA1700, Z690, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z690-Aorus-Ultra-LGA1700-Z690-DDR5-USB32-Type-C-SATA3",
+    "code": 180653,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4940000,
+    "image": null,
+    "display_name": "Gigabyte Z690 Aorus Elite AX DDR4 V2 (LGA1700, Z690, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z690-Aorus-Elite-AX-DDR4-V2-LGA1700-Z690-DDR4-USB32-Type-C-SATA3",
+    "code": 180654,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3084000,
+    "image": null,
+    "display_name": "Gigabyte Z690M DS3H DDR4 (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-Z690M-DS3H-DDR4-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 180655,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4020000,
+    "image": null,
+    "display_name": "Gigabyte B660 Aorus Elite AX DDR4 (LGA1700, B660, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B660-Aorus-Elite-AX-DDR4-LGA1700-B660-DDR4-USB32-Type-C-SATA3",
+    "code": 180656,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3690000,
+    "image": null,
+    "display_name": "Gigabyte B660 Aorus Master DDR4 (LGA1700, B660, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B660-Aorus-Master-DDR4-LGA1700-B660-DDR4-USB32-Type-C-SATA3",
+    "code": 180657,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3280000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/28/2679d3f6-54a0-4ecb-b9fc-aa4e7db285ec.jpg",
+    "display_name": "MSI MAG B660M Mortar MAX WIFI DDR4 (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MAG-B660M-Mortar-MAX-WIFI-DDR4-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 180735,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3470000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/28/d2a6d45c-319c-4fe3-ab51-840bee520214.jpg",
+    "display_name": "MSI MAG B660 Tomahawk Wifi (LGA1700, B660, DDR5, USB3.2, SATA3)",
+    "name": "MSI-MAG-B660-Tomahawk-Wifi-LGA1700-B660-DDR5-USB32-SATA3",
+    "code": 180736,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 12400000,
+    "image": null,
+    "display_name": "MSI MEG Z790 ACE (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MEG-Z790-ACE-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180779,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 7925000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/1/578aa3b1-516d-4214-8e9b-2de4f6c82732.jpg",
+    "display_name": "MSI MPG Z790 CARBON WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MPG-Z790-CARBON-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180780,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 6942000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/10/ef57154b-a1e5-4fdb-8381-128c316bb853.jpg",
+    "display_name": "MSI MPG Z790I EDGE WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MPG-Z790I-EDGE-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180781,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 6995000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/18/a3ddd249-f575-48ac-bd65-a719fdb9d589.jpg",
+    "display_name": "MSI MPG Z790 EDGE WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MPG-Z790-EDGE-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180782,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 6725000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/3/94df0b4e-c544-46ea-a328-9c5865582a27.jpg",
+    "display_name": "MSI MPG Z790 EDGE WIFI DDR4 (LGA1700, Z790, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MPG-Z790-EDGE-WIFI-DDR4-LGA1700-Z790-DDR4-USB32-Type-C-SATA3",
+    "code": 180783,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 5790000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/18/06e4f0ad-752a-46f2-89f6-96595d29c4af.jpg",
+    "display_name": "MSI MAG Z790 TOMAHAWK WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MAG-Z790-TOMAHAWK-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180784,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 5500000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/25/a87ff171-5cb1-49a3-a6e1-632227588e76.jpg",
+    "display_name": "MSI MAG Z790 TOMAHAWK WIFI DDR4 (LGA1700, Z790, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MAG-Z790-TOMAHAWK-WIFI-DDR4-LGA1700-Z790-DDR4-USB32-Type-C-SATA3",
+    "code": 180785,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4435000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/25/20e8533d-dbab-4f60-903b-92e50e64c08a.jpg",
+    "display_name": "MSI PRO Z790-P WIFI DDR4 (LGA1700, Z790, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "MSI-PRO-Z790-P-WIFI-DDR4-LGA1700-Z790-DDR4-USB32-Type-C-SATA3",
+    "code": 180787,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 12750000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/28/fb377611-b9f9-4baa-8cdb-ee1640e900e7.jpg",
+    "display_name": "Asus ROG MAXIMUS Z790 APEX (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-MAXIMUS-Z790-APEX-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180811,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 11445000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/1/7a36dbbc-c096-45a9-ba12-fa8937ab5f3c.jpg",
+    "display_name": "Asus ROG MAXIMUS Z790 HERO (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-MAXIMUS-Z790-HERO-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180812,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 7250000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/26/eb8ea218-28dc-4de1-89f3-09111e1a19b5.jpg",
+    "display_name": "Asus ROG STRIX Z790-I Gaming WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-Z790-I-Gaming-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180813,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 8640000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/12/4d470204-48d4-4d81-8f6f-b45b759f230a.jpg",
+    "display_name": "Asus ROG STRIX Z790-E Gaming WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-Z790-E-Gaming-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180874,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 6260000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/10/4a486518-120a-4263-a28d-f9a35d1253b3.jpg",
+    "display_name": "Gigabyte Z790 AERO G (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z790-AERO-G-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 180955,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4183000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/3/8e7b5ad7-10ae-4e53-95ae-cef237aac7cc.jpg",
+    "display_name": "MSI PRO Z790-P DDR4 (LGA1700, Z790, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "MSI-PRO-Z790-P-DDR4-LGA1700-Z790-DDR4-USB32-Type-C-SATA3",
+    "code": 181245,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 5535000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/24/33ad3297-8f2a-4ea4-bbcf-b492459ac0ec.jpg",
+    "display_name": "Asrock Z790 Steel Legend WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asrock-Z790-Steel-Legend-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 181312,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4290000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/24/83d8ea18-e930-438c-abd4-2f53e2338d87.jpg",
+    "display_name": "ASRock Z790 PG Riptide (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-Z790-PG-Riptide-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 181313,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 5280000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/24/9a141189-377d-4063-a081-2e2d1b17bfe1.jpg",
+    "display_name": "ASRock Z790 LiveMixer (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-Z790-LiveMixer-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 181314,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4525000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/16/8ec850a7-a7fa-4207-90f8-accb056c0357.jpg",
+    "display_name": "MSI PRO Z790-P WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-PRO-Z790-P-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 181408,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4820000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/28/e281bd21-3ad0-41f5-9813-cbb70f795a4b.jpg",
+    "display_name": "Asus PRIME Z790-A WIFI-CSM (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-PRIME-Z790-A-WIFI-CSM-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 181451,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3160000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/15/074c262c-aeaa-4b8f-a327-6574b294ad22.jpg",
+    "display_name": "ASRock Z690 Steel Legend WIFI 6E (LGA1700, Z690, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-Z690-Steel-Legend-WIFI-6E-LGA1700-Z690-DDR4-USB32-SATA3",
+    "code": 182192,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 10319000,
+    "image": null,
+    "display_name": "Gigabyte Z790 Aorus Master (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z790-Aorus-Master-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 182202,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2210000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/9/c934ce4f-72c7-4855-93aa-c2904f4c8e8a.jpg",
+    "display_name": "ASRock B660M PG Riptide (LGA1700, B660, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B660M-PG-Riptide-LGA1700-B660-DDR4-USB32-SATA3",
+    "code": 182204,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4190000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/31/d1b14f0e-f4ae-411d-b9e4-97d7ccaba8ef.jpg",
+    "display_name": "Asus ROG STRIX B760-A Gaming WIFI D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-B760-A-Gaming-WIFI-D4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 182467,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3000000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/35e6c9ec-2230-4ffa-95af-cf8eb2a522c5.jpg",
+    "display_name": "Asus TUF Gaming B760-PLUS WIFI D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-Gaming-B760-PLUS-WIFI-D4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 182468,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1945000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/31/21098c6e-ce52-47bc-835b-896b8a3fcb29.jpg",
+    "display_name": "Asus PRIME B760M-A D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Asus-PRIME-B760M-A-D4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 182469,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1663000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/f38c4eaf-e060-4ae0-a011-dc0ee8e8e45f.jpg",
+    "display_name": "Asus PRIME B760M-K D4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-B760M-K-D4-LGA1700-B760-DDR4-USB32-SATA3",
+    "code": 182470,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 4590000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/fb4212e5-dbbe-458f-9bf2-4f6b503c0b38.jpg",
+    "display_name": "Asus ROG STRIX B760-F Gaming WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-B760-F-Gaming-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 182473,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2880000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/3/048d2ecd-d466-4650-ac9d-51503b8f706f.jpg",
+    "display_name": "Asus TUF Gaming B760M-PLUS WIFI D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-Gaming-B760M-PLUS-WIFI-D4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 182474,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 2329000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/ef6803c1-5130-471e-929c-5f51969311da.jpg",
+    "display_name": "Asus PRIME B760M-A WIFI D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Asus-PRIME-B760M-A-WIFI-D4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 182475,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 3069000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/9b450043-1919-4fee-9a42-bf7b253eca96.jpg",
+    "display_name": "ASRock B760M PG Sonic WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B760M-PG-Sonic-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 182595,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 1650000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/4/1efaeb2d-ddf5-4dd8-870b-21b898b602bb.jpg",
+    "display_name": "ASRock B760M-HDV/M.2 D4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B760M-HDVM2-D4-LGA1700-B760-DDR4-USB32-SATA3",
+    "code": 182596,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2670000,
+    "image": null,
+    "display_name": "ASRock B760 Pro RS (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B760-Pro-RS-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 182675,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1915000,
+    "image": null,
+    "display_name": "ASRock B760M Pro RS/D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B760M-Pro-RSD4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 182676,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4510000,
+    "image": null,
+    "display_name": "Asus ROG STRIX B760-I Gaming WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-B760-I-Gaming-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 182718,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4455000,
+    "image": null,
+    "display_name": "MSI MPG B760I EDGE WIFI DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MPG-B760I-EDGE-WIFI-DDR4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 182719,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4030000,
+    "image": null,
+    "display_name": "MSI MAG B760 Tomahawk WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MAG-B760-Tomahawk-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 182720,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3695000,
+    "image": null,
+    "display_name": "MSI MAG B760M Mortar WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MAG-B760M-Mortar-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 182721,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2310000,
+    "image": null,
+    "display_name": "MSI PRO B760M-A WIFI DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "MSI-PRO-B760M-A-WIFI-DDR4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 182722,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1721000,
+    "image": null,
+    "display_name": "MSI PRO B760M-P DDR4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-B760M-P-DDR4-LGA1700-B760-DDR4-USB32-SATA3",
+    "code": 182723,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 5530000,
+    "image": null,
+    "display_name": "Gigabyte Z790 Aorus Elite AX (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z790-Aorus-Elite-AX-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 182972,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4050000,
+    "image": null,
+    "display_name": "Gigabyte Z790 UD AX (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z790-UD-AX-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 182973,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3850000,
+    "image": null,
+    "display_name": "Gigabyte Z790 UD (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z790-UD-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 182974,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4770000,
+    "image": null,
+    "display_name": "Gigabyte Z790M Aorus Elite AX (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z790M-Aorus-Elite-AX-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 182975,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4950000,
+    "image": null,
+    "display_name": "Gigabyte Z790 Aorus Elite AX DDR4 (LGA1700, Z790, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z790-Aorus-Elite-AX-DDR4-LGA1700-Z790-DDR4-USB32-Type-C-SATA3",
+    "code": 182976,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4925000,
+    "image": null,
+    "display_name": "NZXT N7 Z790 WIFI - Matte White (LGA1700, Z690, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "NZXT-N7-Z790-WIFI-Matte-White-LGA1700-Z690-DDR5-USB32-Type-C-SATA3",
+    "code": 182978,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4925000,
+    "image": null,
+    "display_name": "NZXT N7 Z790 WIFI - Matte Black (LGA1700, Z690, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "NZXT-N7-Z790-WIFI-Matte-Black-LGA1700-Z690-DDR5-USB32-Type-C-SATA3",
+    "code": 182980,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4389000,
+    "image": null,
+    "display_name": "Gigabyte B760 Aorus Master DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760-Aorus-Master-DDR4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 183003,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2820000,
+    "image": null,
+    "display_name": "Gigabyte B760M Gaming X AX DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760M-Gaming-X-AX-DDR4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 183004,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2528000,
+    "image": null,
+    "display_name": "Gigabyte B760M Gaming X DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760M-Gaming-X-DDR4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 183005,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2285000,
+    "image": null,
+    "display_name": "Gigabyte B760M DS3H AX DDR4 (LGA1700, B760, DDR4, USB3.2 , SATA3)",
+    "name": "Gigabyte-B760M-DS3H-AX-DDR4-LGA1700-B760-DDR4-USB32-SATA3",
+    "code": 183006,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1969000,
+    "image": null,
+    "display_name": "Gigabyte B760M DS3H DDR4 (LGA1700, B760, DDR4, USB3.2 , SATA3)",
+    "name": "Gigabyte-B760M-DS3H-DDR4-LGA1700-B760-DDR4-USB32-SATA3",
+    "code": 183007,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4310000,
+    "image": null,
+    "display_name": "Gigabyte Z790 Gaming X (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-Z790-Gaming-X-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 183008,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2950000,
+    "image": null,
+    "display_name": "ASRock Z690 Pro RS (LGA1700, Z690, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-Z690-Pro-RS-LGA1700-Z690-DDR4-USB32-Type-C-SATA3",
+    "code": 183024,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2280000,
+    "image": null,
+    "display_name": "ASRock B760M Pro RS (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B760M-Pro-RS-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183025,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2410000,
+    "image": null,
+    "display_name": "ASRock B760M Pro RS/D4 WIFI (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B760M-Pro-RSD4-WIFI-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 183026,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2339000,
+    "image": null,
+    "display_name": "ASRock B760 Pro RS/D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B760-Pro-RSD4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 183027,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 5820000,
+    "image": null,
+    "display_name": "Asus TUF Gaming Z790-PLUS WIFI D4 (LGA1700, Z790, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-Gaming-Z790-PLUS-WIFI-D4-LGA1700-Z790-DDR4-USB32-Type-C-SATA3",
+    "code": 183100,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3835000,
+    "image": null,
+    "display_name": "MSI MAG B760M Mortar MAX WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-MAG-B760M-Mortar-MAX-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183120,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 5890000,
+    "image": null,
+    "display_name": "ASRock Z790 PG-ITX/TB4 (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-Z790-PG-ITXTB4-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 183121,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2900000,
+    "image": null,
+    "display_name": "ASRock B760M Steel Legend WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B760M-Steel-Legend-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183122,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2510000,
+    "image": null,
+    "display_name": "ASRock B760M-ITX/D4 WIFI (LGA1700, B760, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B760M-ITXD4-WIFI-LGA1700-B760-DDR4-USB32-SATA3",
+    "code": 183123,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3427000,
+    "image": null,
+    "display_name": "Gigabyte B760M Aorus PRO AX (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760M-Aorus-PRO-AX-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183156,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3120000,
+    "image": null,
+    "display_name": "Gigabyte B760M Aorus Elite AX (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760M-Aorus-Elite-AX-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183157,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2870000,
+    "image": null,
+    "display_name": "Gigabyte B760M Aorus Elite (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760M-Aorus-Elite-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183158,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2385000,
+    "image": null,
+    "display_name": "Gigabyte B760M DS3H (LGA1700, B760, DDR5, USB3.2, SATA3)",
+    "name": "Gigabyte-B760M-DS3H-LGA1700-B760-DDR5-USB32-SATA3",
+    "code": 183159,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4227000,
+    "image": null,
+    "display_name": "Gigabyte B760I Aorus PRO DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760I-Aorus-PRO-DDR4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 183160,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 6490000,
+    "image": null,
+    "display_name": "Biostar Z790 Valkyrie (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Biostar-Z790-Valkyrie-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 183190,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3665000,
+    "image": null,
+    "display_name": "Biostar Z790A-Silver (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Biostar-Z790A-Silver-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 183191,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2492000,
+    "image": null,
+    "display_name": "Biostar B760M-Silver (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Biostar-B760M-Silver-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183192,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1374000,
+    "image": null,
+    "display_name": "Biostar B760MX2-E D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Biostar-B760MX2-E-D4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 183193,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2659000,
+    "image": null,
+    "display_name": "Gigabyte B760M DS3H AX (LGA1700, B760, DDR5, USB3.2, SATA3)",
+    "name": "Gigabyte-B760M-DS3H-AX-LGA1700-B760-DDR5-USB32-SATA3",
+    "code": 183233,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 6010000,
+    "image": null,
+    "display_name": "Asus TUF Gaming Z790-PLUS WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-Gaming-Z790-PLUS-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 183473,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3790000,
+    "image": null,
+    "display_name": "Asus TUF Gaming B760-PLUS WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-Gaming-B760-PLUS-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183482,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2595000,
+    "image": null,
+    "display_name": "ASRock B760M PG Riptide (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "ASRock-B760M-PG-Riptide-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183514,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3449000,
+    "image": null,
+    "display_name": "Gigabyte B760 DS3H AX (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760-DS3H-AX-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183546,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3770000,
+    "image": null,
+    "display_name": "Gigabyte B760 Gaming X AX (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760-Gaming-X-AX-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183547,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3990000,
+    "image": null,
+    "display_name": "Gigabyte B760 Aorus Elite AX DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760-Aorus-Elite-AX-DDR4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 183548,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3280000,
+    "image": null,
+    "display_name": "Gigabyte B760M Aorus PRO AX DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Gigabyte-B760M-Aorus-PRO-AX-DDR4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 183549,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2780000,
+    "image": null,
+    "display_name": "MSI PRO B760M-A WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "MSI-PRO-B760M-A-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 183565,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 8470000,
+    "image": null,
+    "display_name": "Asus ProArt Z790-CREATOR WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ProArt-Z790-CREATOR-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 183592,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 6850000,
+    "image": null,
+    "display_name": "Asus ROG STRIX Z790-A Gaming WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-Z790-A-Gaming-WIFI-LGA1700-Z790-DDR5-USB32-Type-C-SATA3",
+    "code": 184005,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 4550000,
+    "image": null,
+    "display_name": "Asus ROG STRIX B760-A Gaming WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-ROG-STRIX-B760-A-Gaming-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 184006,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2695000,
+    "image": null,
+    "display_name": "Asus PRIME B760M-A (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-PRIME-B760M-A-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 184007,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1279000,
+    "image": null,
+    "display_name": "Gigabyte H610M H V2 DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-H610M-H-V2-DDR4-LGA1700-H610-DDR4-USB32-SATA3",
+    "code": 184058,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1598000,
+    "image": null,
+    "display_name": "Biostar B760MX2-E (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Biostar-B760MX2-E-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 184063,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2855000,
+    "image": null,
+    "display_name": "Asus PRIME B760M-A WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-PRIME-B760M-A-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 184104,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3684000,
+    "image": null,
+    "display_name": "Asus TUF GAMING B760M-BTF WIFI D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-GAMING-B760M-BTF-WIFI-D4-LGA1700-B760-DDR4-USB32-Type-C-SATA3",
+    "code": 184105,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 3190000,
+    "image": null,
+    "display_name": "Asus TUF Gaming B760M-PLUS WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+    "name": "Asus-TUF-Gaming-B760M-PLUS-WIFI-LGA1700-B760-DDR5-USB32-Type-C-SATA3",
+    "code": 184106,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 2240000,
+    "image": null,
+    "display_name": "MSI PRO B760M-P (LGA1700, B760, DDR5, USB3.2, SATA3)",
+    "name": "MSI-PRO-B760M-P-LGA1700-B760-DDR5-USB32-SATA3",
+    "code": 184127,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1790000,
+    "image": null,
+    "display_name": "ASRock B760M-HDVP (LGA1700, B760, DDR5, USB3.2, SATA3)",
+    "name": "ASRock-B760M-HDVP-LGA1700-B760-DDR5-USB32-SATA3",
+    "code": 184181,
+    "socket": "LGA-1700"
+  },
+  {
+
+    "price": 1649000,
+    "image": null,
+    "display_name": "MSI PRO B760M-E DDR4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-B760M-E-DDR4-LGA1700-B760-DDR4-USB32-SATA3",
+    "code": 184273,
+    "socket": "LGA-1700"
+  },
+  {
+    "price": 950000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/0bcd8010-2a0b-4708-8712-f6bd0ef6e4bb.jpg",
+    "display_name": "Asus PRIME H410M-E (LGA1200, H410, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-H410M-E-LGA1200-H410-DDR4-USB32-SATA3",
+    "code": 165851,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 890000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/18/9651507/9651507_3315da72-222d-4315-8243-b9e72cca8d73_700_700",
+    "display_name": "ASRock H410M-HVS R2.0 (LGA1200, H410, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-H410M-HVS-R20-LGA1200-H410-DDR4-USB32-SATA3",
+    "code": 166077,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1105000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/9/1/9651507/9651507_c66d96af-2c2c-41aa-9743-b1d7cde98b6a_700_700",
+    "display_name": "Asus PRIME H410M-D (LGA1200, H410, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-H410M-D-LGA1200-H410-DDR4-USB32-SATA3",
+    "code": 167072,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 898000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/4/9651507/9651507_d5a3a2af-dcb3-403c-88a8-4d470bfc6b1c_700_700",
+    "display_name": "GALAX H410M-ELITE (LGA1200, H410, DDR4, USB3.2, SATA3)",
+    "name": "GALAX-H410M-ELITE-LGA1200-H410-DDR4-USB32-SATA3",
+    "code": 167103,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1131000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/27/9651507/9651507_a2f9380a-9b79-49c0-8e78-444c8fc628e7_700_700",
+    "display_name": "GALAX B460M (LGA1200, B460, DDR4, M.2 PCIe 32Gbps, USB3.2, SATA3)",
+    "name": "GALAX-B460M-LGA1200-B460-DDR4-M2-PCIe-32Gbps-USB32-SATA3",
+    "code": 167388,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1504000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/2/15/01f761c2-6759-4209-820d-2ad8603f1a77.png",
+    "display_name": "GALAX B460M EX (LGA1200, B460, DDR4, M.2 PCIe 32Gbps, USB3.2, SATA3)",
+    "name": "GALAX-B460M-EX-LGA1200-B460-DDR4-M2-PCIe-32Gbps-USB32-SATA3",
+    "code": 170331,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 3565000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/a505040f-10c5-48df-aef7-25ea199890c4.jpg",
+    "display_name": "MSI MPG Z590 Gaming Force (LGA1200, Z590, DDR4, USB3.2, SATA3) (By WPG)",
+    "name": "MSI-MPG-Z590-Gaming-Force-LGA1200-Z590-DDR4-USB32-SATA3-By-WPG",
+    "code": 170570,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 930000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/5/e351b3e7-94bd-4cd9-8b32-dc0a43823f5b.png",
+    "display_name": "Gigabyte H410M-H V2 (LGA1200, H470, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-H410M-H-V2-LGA1200-H470-DDR4-USB32-SATA3",
+    "code": 170577,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 2250000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/8c8f37a3-59b6-42fc-85bf-0fde69968e8d.jpg",
+    "display_name": "Asus TUF B560M-PLUS Gaming (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-B560M-PLUS-Gaming-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 170586,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 3379000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/4/c34481a7-7c8b-463d-bde4-72c0a8e8351b.png",
+    "display_name": "ASRock Z590 PG Velocita (LGA1200, Z590, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-Z590-PG-Velocita-LGA1200-Z590-DDR4-USB32-SATA3",
+    "code": 170614,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 2109000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/2a100310-9f48-4d5e-9b5b-1250ac1b5ab5.jpg",
+    "display_name": "ASRock Z590 Extreme (LGA1200, Z590, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-Z590-Extreme-LGA1200-Z590-DDR4-USB32-SATA3",
+    "code": 170615,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 2230000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/51b16c2e-1de6-4a61-b4e2-552e03e89fb0.jpg",
+    "display_name": "ASRock B560 Steel Legend (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B560-Steel-Legend-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 170794,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1610000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/fd6efdac-d153-4976-9add-10c0d55074eb.jpg",
+    "display_name": "ASRock B560M Pro4 (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B560M-Pro4-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 170796,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1650000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/4e5c9b2a-93e6-4566-9535-2fb4b294032f.jpg",
+    "display_name": "ASRock B560M-ITX/ac (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B560M-ITXac-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 170797,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1100000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/a43c76ee-943f-435e-9158-67e717e5ba9b.jpg",
+    "display_name": "ASRock H510M-HDV/M.2 (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-H510M-HDVM2-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 170798,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1240000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/24/0943b710-6070-43a0-8bc6-fdcca041bf75.jpg",
+    "display_name": "Gigabyte H510M S2H (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-H510M-S2H-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 170840,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1110000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/24/f2802539-e601-4756-a78d-407dc6ef68e8.jpg",
+    "display_name": "Gigabyte H510M H (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-H510M-H-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 170841,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1175000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/19ddbc5a-4ebf-4f2e-a85d-6e17faf92aa5.jpg",
+    "display_name": "Gigabyte H510M S2 (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-H510M-S2-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 170842,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 2930000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/30/8ec38158-83d4-4f80-a433-812832b6bd7f.png",
+    "display_name": "ASRock Z590 Steel Legend (LGA1200, Z590, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-Z590-Steel-Legend-LGA1200-Z590-DDR4-USB32-SATA3",
+    "code": 170900,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1820000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/30/298679fc-b243-46d2-bf91-c15404d78a9a.png",
+    "display_name": "ASRock B560 Pro4 (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B560-Pro4-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 170901,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1935000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/30/e62f1661-2566-4dd1-93dd-fc672c22ceb4.png",
+    "display_name": "ASRock B560M Steel Legend (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B560M-Steel-Legend-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 170902,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 3090000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/9415de73-1ddf-4cb1-963f-8aed1652769a.jpg",
+    "display_name": "Asus ROG STRIX B560-G Gaming WIFI (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B560-G-Gaming-WIFI-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 170945,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 3990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/11/ef06a0ec-317a-4d93-ad2b-ce8720d27ea4.jpg",
+    "display_name": "Asus TUF Gaming Z590-PLUS WIFI (LGA1200, Z590, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-Gaming-Z590-PLUS-WIFI-LGA1200-Z590-DDR4-USB32-SATA3",
+    "code": 171011,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1140000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/6dc62260-f6b0-4bb7-8507-c4de8c1bde3b.jpg",
+    "display_name": "Asus PRIME H510M-E (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-H510M-E-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 171109,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1110000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/03cc6cea-eb2b-4959-9c6d-7c6d2e41f207.jpg",
+    "display_name": "Asus PRIME H510M-K (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-H510M-K-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 171110,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1765000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/4025cc45-d4e5-42e7-9465-c0d8b5856890.jpg",
+    "display_name": "Asus PRIME B560M-K (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-B560M-K-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 171112,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1880000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/5007704e-d129-4eda-8324-d85a19fef54b.jpg",
+    "display_name": "Asus PRIME B560M-A (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-B560M-A-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 171113,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 3050000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/a9efd18b-2b7f-484a-8dba-3dcda21132df.jpg",
+    "display_name": "Asus ROG STRIX B560-I Gaming WIFI (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-B560-I-Gaming-WIFI-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 171122,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 2690000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/885f55ae-3c57-44bd-9a44-ac6a5c222b22.jpg",
+    "display_name": "Asus TUF B560-PLUS Gaming WIFI (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-B560-PLUS-Gaming-WIFI-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 171123,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 2490000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/962fa912-4585-4613-ba96-d7bea12586eb.jpg",
+    "display_name": "Asus TUF B560M-PLUS Gaming WIFI (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Asus-TUF-B560M-PLUS-Gaming-WIFI-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 171124,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 2565000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/5735bd86-82ad-4840-9546-71099edfeb91.jpg",
+    "display_name": "MSI MAG B560 Torpedo (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "MSI-MAG-B560-Torpedo-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 171127,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 3565000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/bd4cabc1-a568-48c5-a57c-6e4f035774b2.png",
+    "display_name": "MSI MPG Z590 Gaming EDGE Wifi (LGA1200, Z590, DDR4, USB3.2, SATA3) (By WPG)",
+    "name": "MSI-MPG-Z590-Gaming-EDGE-Wifi-LGA1200-Z590-DDR4-USB32-SATA3-By-WPG",
+    "code": 171260,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 3420000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/24/b6b5e651-a48c-450d-852a-8fd1cf242506.png",
+    "display_name": "MSI MPG Z590 Gaming Plus (LGA1200, Z590, DDR4, USB3.2, SATA3) (By WPG)",
+    "name": "MSI-MPG-Z590-Gaming-Plus-LGA1200-Z590-DDR4-USB32-SATA3-By-WPG",
+    "code": 171264,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 3125000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/1d08d5d0-e7f7-4140-addf-e3db32d2d4c9.jpg",
+    "display_name": "MSI MAG Z590 Tomahawk Wifi (LGA1200, Z590, DDR4, USB3.2, SATA3)(By WPG)",
+    "name": "MSI-MAG-Z590-Tomahawk-Wifi-LGA1200-Z590-DDR4-USB32-SATA3By-WPG",
+    "code": 171265,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 2920000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/23/1ef2f010-8533-4bd7-9456-26cff63954a5.jpg",
+    "display_name": "MSI MAG Z590 Torpedo (LGA1200, Z590, DDR4, USB3.2, SATA3)(By WPG)",
+    "name": "MSI-MAG-Z590-Torpedo-LGA1200-Z590-DDR4-USB32-SATA3By-WPG",
+    "code": 171266,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 2190000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/8bb03289-1c90-4060-84d9-b4c010a06c84.jpg",
+    "display_name": "MSI MAG B560M Bazooka (LGA1200, B560, DDR4, USB3.2, SATA3) (By WPG)",
+    "name": "MSI-MAG-B560M-Bazooka-LGA1200-B560-DDR4-USB32-SATA3-By-WPG",
+    "code": 171272,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1525000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/b9ee145e-6be7-4d3e-9ec4-68ea54e027dc.jpg",
+    "display_name": "Gigabyte B560M Gaming HD (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B560M-Gaming-HD-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 171566,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1210000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/7f148ebd-bfe4-410f-8252-4ca494abc787.jpg",
+    "display_name": "MSI H510M-A PRO (LGA1200, H510, DDR4, USB3.2, SATA3)(By WPG)",
+    "name": "MSI-H510M-A-PRO-LGA1200-H510-DDR4-USB32-SATA3By-WPG",
+    "code": 171809,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1887000,
+    "image": null,
+    "display_name": "Biostar B560M Silver (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Biostar-B560M-Silver-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 171811,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/18/8b38d1ca-e2e2-43bf-8107-57a2b72e832c.png",
+    "display_name": "GALAX H510M (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "GALAX-H510M-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 172036,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 3477000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/7/808a3b8a-ec9f-4820-a696-0a1ae63c46eb.jpg",
+    "display_name": "NZXT N7 Z590 Gaming WIFI - Matte White (LGA1200, Z590, DDR4, USB3.2, SATA3) - Promo Limited!!!",
+    "name": "NZXT-N7-Z590-Gaming-WIFI-Matte-White-LGA1200-Z590-DDR4-USB32-SATA3-Promo-Limited",
+    "code": 172978,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 3477000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/11/be75dfe0-6bde-43fd-9fde-dafd993de372.jpg",
+    "display_name": "NZXT N7 Z590 Gaming WIFI - Matte Black (LGA1200, Z590, DDR4, USB3.2, SATA3) - Promo Limited!!!",
+    "name": "NZXT-N7-Z590-Gaming-WIFI-Matte-Black-LGA1200-Z590-DDR4-USB32-SATA3-Promo-Limited",
+    "code": 172979,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1675000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/27/4b73c95a-4a92-4fe9-883b-70e2fa9c5313.jpg",
+    "display_name": "Gigabyte B560M DS3H V2 (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-B560M-DS3H-V2-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 173112,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1050000,
+    "image": null,
+    "display_name": "ECS H410H6-M7 (LGA1200, Intel H410, DDR4)",
+    "name": "ECS-H410H6-M7-LGA1200-Intel-H410-DDR4",
+    "code": 173330,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1075000,
+    "image": null,
+    "display_name": "ECS B460H6-M22 (LGA1200, Intel B460, DDR4)",
+    "name": "ECS-B460H6-M22-LGA1200-Intel-B460-DDR4",
+    "code": 173331,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 920000,
+    "image": null,
+    "display_name": "ECS H410H6-M2 (LGA1200, Intel H410, DDR4)",
+    "name": "ECS-H410H6-M2-LGA1200-Intel-H410-DDR4",
+    "code": 175254,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1045000,
+    "image": null,
+    "display_name": "ECS H510H6-M2 (LGA1200, Intel H510, DDR4)",
+    "name": "ECS-H510H6-M2-LGA1200-Intel-H510-DDR4",
+    "code": 175255,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 985000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/2/bc2a55ca-17f1-4bda-a16a-49a07740e71c.jpg",
+    "display_name": "MSI PRO H410M-B (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-H410M-B-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 176150,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 2429000,
+    "image": null,
+    "display_name": "Biostar TZ590-BTC DUO (LGA1200, Z590, DDR4, USB3.2, SATA3)",
+    "name": "Biostar-TZ590-BTC-DUO-LGA1200-Z590-DDR4-USB32-SATA3",
+    "code": 176764,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 964000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/13/16a0d704-1e6c-4a12-8dfd-4f22d8b3c62c.jpg",
+    "display_name": "Biostar H510MHP (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "Biostar-H510MHP-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 177170,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1020000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/9/f75faf21-2782-450d-8b68-f58be3c01e87.jpg",
+    "display_name": "ASRock H510M-HVS R2.0 (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-H510M-HVS-R20-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 177421,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 965000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/25/e33cd3a9-5987-4459-9265-aa28c50a4b25.jpg",
+    "display_name": "ASRock H470M-HDV/M.2 (LGA1200, H470, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-H470M-HDVM2-LGA1200-H470-DDR4-USB32-SATA3",
+    "code": 177951,
+    "socket": "LGA-1200"
+  },
+  {
+    "price": 1090000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/22/d746551e-db44-404f-b5eb-4f941a414adf.jpg",
+    "display_name": "MSI H510M PRO-E (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "MSI-H510M-PRO-E-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 179990,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1250000,
+    "image": null,
+    "display_name": "ASRock H510M/ac (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-H510Mac-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 182238,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1427000,
+    "image": null,
+    "display_name": "MSI B560M PRO-E (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "MSI-B560M-PRO-E-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 183178,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1017000,
+    "image": null,
+    "display_name": "Biostar B560MHP (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Biostar-B560MHP-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 183194,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1120000,
+    "image": null,
+    "display_name": "MSI PRO H510M-B (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-H510M-B-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 183566,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1190000,
+    "image": null,
+    "display_name": "ASRock B560M-HDV/M.2 (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "ASRock-B560M-HDVM2-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 183728,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1145000,
+    "image": null,
+    "display_name": "MSI PRO H510M-PLUS V3 (LGA1200, H510, DDR4, USB3.2, SATA3)",
+    "name": "MSI-PRO-H510M-PLUS-V3-LGA1200-H510-DDR4-USB32-SATA3",
+    "code": 184033,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1110000,
+    "image": null,
+    "display_name": "Asus PRIME H510M-K R2.0 (LGA1200, H470, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-H510M-K-R20-LGA1200-H470-DDR4-USB32-SATA3",
+    "code": 184124,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 1140000,
+    "image": null,
+    "display_name": "Gigabyte H510M H Rev1.7 (LGA1200, B560, DDR4, USB3.2, SATA3)",
+    "name": "Gigabyte-H510M-H-Rev17-LGA1200-B560-DDR4-USB32-SATA3",
+    "code": 184328,
+    "socket": "LGA-1200"
+  },
+  {
+
+    "price": 8350000,
+    "image": null,
+    "display_name": "Asus PRIME X299 Deluxe II (LGA2066, X299, DDR4)",
+    "name": "Asus-PRIME-X299-Deluxe-II-LGA2066-X299-DDR4",
+    "code": 159569,
+    "socket": "LGA-2066"
+  },
+  {
+    "price": 6990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/19/9651507/9651507_a49d37e4-6952-4159-81b2-c3f803df6b7d_700_700",
+    "display_name": "Asus PRIME X299-A II (LGA 2066, X299, DDR4)",
+    "name": "Asus-PRIME-X299-A-II-LGA-2066-X299-DDR4",
+    "code": 162765,
+    "socket": "LGA-2066"
+  },
+  {
+
+    "price": 10300000,
+    "image": null,
+    "display_name": "Asus PRIME X299 Edition 30 (LGA2066, X299, DDR4, USB3.2, SATA3)",
+    "name": "Asus-PRIME-X299-Edition-30-LGA2066-X299-DDR4-USB32-SATA3",
+    "code": 164462,
+    "socket": "LGA-2066"
+  },
+  {
+    "price": 7150000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/9/22/9651507/9651507_3d6863df-b9e1-48fc-aecf-55ae5516ac9b_700_700",
+    "display_name": "Asus ROG STRIX X299-E Gaming II (LGA2066, X299, DDR4, USB3.2, SATA3)",
+    "name": "Asus-ROG-STRIX-X299-E-Gaming-II-LGA2066-X299-DDR4-USB32-SATA3",
+    "code": 164463,
+    "socket": "LGA-2066"
+  },
+  {
+
+    "price": 5790000,
+    "image": null,
+    "display_name": "MSI X299 Pro (LGA2066, X299, DDR4, USB3.2, SATA3)",
+    "name": "MSI-X299-Pro-LGA2066-X299-DDR4-USB32-SATA3",
+    "code": 172098,
+    "socket": "LGA-2066"
+  },
+  {
+    "price": 895000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2016/10/6/9561560/9561560_598ac6fd-694f-4566-b416-5cc91e140ef1.jpg",
+    "display_name": "ECS H110M4-C2H (LGA1151, Intel H110, DDR4)",
+    "name": "ECS-H110M4-C2H-LGA1151-Intel-H110-DDR4",
+    "code": 10744,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 1135000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/5/15/9651507/9651507_b84426e1-2580-4157-afa1-e3919db98a54_1668_1668",
+    "display_name": "Gigabyte GA-H110M-DS2 (LGA1151, H110, DDR4)",
+    "name": "Gigabyte-GA-H110M-DS2-LGA1151-H110-DDR4",
+    "code": 10796,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 915000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/9/17/9651507/9651507_d9653e5c-5a0e-4c58-ae77-889c95c85a46_700_700",
+    "display_name": "MSI H110M-Pro VH Plus (LGA1151, H110, DDR4) (By WPG)",
+    "name": "MSI-H110M-Pro-VH-Plus-LGA1151-H110-DDR4-By-WPG",
+    "code": 10917,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 930000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/5/15/9651507/9651507_0f972ff4-1469-460c-bc28-e146f2e02dfb_1667_1667",
+    "display_name": "MAXSUN (By SOYO) MS-B250MD4 Turbo (LGA1151, B250, DDR4, 2 Slot VGA PCI-E, M.2)",
+    "name": "MAXSUN-By-SOYO-MS-B250MD4-Turbo-LGA1151-B250-DDR4-2-Slot-VGA-PCI-E-M2",
+    "code": 152082,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 1100000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/3b63718b-7e93-49e7-9e12-9eae675a3828.jpg",
+    "display_name": "Asus H110M-K (LGA1151,H110,DDR4)",
+    "name": "Asus-H110M-K-LGA1151H110DDR4",
+    "code": 153676,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 790000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/5/14/9651507/9651507_81c29cf5-99b1-49c3-8769-65766ea31c6a_1667_1667",
+    "display_name": "MAXSUN (By SOYO) MS-B250D4L (LGA1151, B250, DDR4, M.2, VGA+DVI)",
+    "name": "MAXSUN-By-SOYO-MS-B250D4L-LGA1151-B250-DDR4-M2-VGADVI",
+    "code": 153800,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 690000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/5/14/9651507/9651507_c1401389-1fa3-450c-82dc-e4a7f2f14c42_1667_1667",
+    "display_name": "MAXSUN (By SOYO) MS-H110D4 Turbo M.2 (LGA1151, H110, DDR4, USB3, VGA+DVI+HDMI, Gigabit Gaming Network card)",
+    "name": "MAXSUN-By-SOYO-MS-H110D4-Turbo-M2-LGA1151-H110-DDR4-USB3-VGADVIHDMI-Gigabit-Gaming-Network-card",
+    "code": 155282,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 2450000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2018/12/22/9561560/9561560_1f056175-c748-40cc-8d8c-29b31ee25fe0_800_600.png",
+    "display_name": "MAXSUN (By SOYO) MS-iCraft Z370 Gaming (LGA1151V2, Z370, DDR4, USB3.1, SATA3)",
+    "name": "MAXSUN-By-SOYO-MS-iCraft-Z370-Gaming-LGA1151V2-Z370-DDR4-USB31-SATA3",
+    "code": 155284,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 940000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/488ab34c-bd31-4b45-a567-79a3e6c46322.jpg",
+    "display_name": "MSI H310M Pro-VDH (LGA1151V2, H310, DDR4, USB3.1, SATA3) (By WPG)",
+    "name": "MSI-H310M-Pro-VDH-LGA1151V2-H310-DDR4-USB31-SATA3-By-WPG",
+    "code": 156192,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 1020000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/7/10/9651507/9651507_4ccaab19-18cf-4b37-a50c-960f8d0cef61_1668_1668",
+    "display_name": "Asus PRIME H310M-E (LGA1151V2, H310, DDR4, USB3.1, SATA3)",
+    "name": "Asus-PRIME-H310M-E-LGA1151V2-H310-DDR4-USB31-SATA3",
+    "code": 156285,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 885000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/0d05e50d-7861-46dc-94cc-3f9308fafb2f.jpg",
+    "display_name": "Asus PRIME H310M-K R2.0 (LGA1151V2, H310, DDR4, USB3.1, SATA3)",
+    "name": "Asus-PRIME-H310M-K-R20-LGA1151V2-H310-DDR4-USB31-SATA3",
+    "code": 156286,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 975000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/7ac3ea02-6252-48a7-8b9f-90e3d8d45227.jpg",
+    "display_name": "Gigabyte H310M-DS2 (LGA1151V2, H310, DDR4, USB3.1, SATA3)",
+    "name": "Gigabyte-H310M-DS2-LGA1151V2-H310-DDR4-USB31-SATA3",
+    "code": 156304,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 979000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/4/2/1157156/1157156_8013b48a-7d91-4bdc-8da6-3503a7b53b35.png",
+    "display_name": "Biostar B360MHD Pro (LGA1151V2, Intel B360, USB3.1, DDR4)",
+    "name": "Biostar-B360MHD-Pro-LGA1151V2-Intel-B360-USB31-DDR4",
+    "code": 156439,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 895000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/21/9651507/9651507_01774b25-95aa-43bb-b099-38cdfb80348a_700_700",
+    "display_name": "MAXSUN (By SOYO) MS-H310M-VH Challenger Series (LGA1151V2, H310, DDR4, USB3, VGA+HDMI, Gigabit 1000 Mbps Gaming Network card)",
+    "name": "MAXSUN-By-SOYO-MS-H310M-VH-Challenger-Series-LGA1151V2-H310-DDR4-USB3-VGAHDMI-Gigabit-1000-Mbps-Gaming-Network-card",
+    "code": 157431,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/6/10/9651507/9651507_b37b186d-ffb8-4cf8-98a8-e4c004ceeaf1_1667_1667",
+    "display_name": "MAXSUN (By SOYO) MS-B360M Challenger Series (LGA1151V2, B360, DDR4, USB3, VGA+HDMI, 2xM.2, Gigabit 1000 Mbps Gaming Network card)",
+    "name": "MAXSUN-By-SOYO-MS-B360M-Challenger-Series-LGA1151V2-B360-DDR4-USB3-VGAHDMI-2xM2-Gigabit-1000-Mbps-Gaming-Network-card",
+    "code": 157432,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 830000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/28/4765282c-ffc6-42ba-8f62-58e6c5356224.jpg",
+    "display_name": "Biostar H310MHD3 (LGA1151V2, H310, DDR3, USB3.1, SATA3)",
+    "name": "Biostar-H310MHD3-LGA1151V2-H310-DDR3-USB31-SATA3",
+    "code": 160746,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 830000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/28/65a0ae16-b4e0-4249-ab54-071342c995c8.jpg",
+    "display_name": "Biostar H310MHP (LGA1151V2, Intel H310, USB3.1, DDR4)",
+    "name": "Biostar-H310MHP-LGA1151V2-Intel-H310-USB31-DDR4",
+    "code": 162213,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 979000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/28/104f3746-4d3a-4d95-9098-1ad61528df0d.jpg",
+    "display_name": "Biostar B365MHC (LGA1151V2, Intel B365, USB3.1, DDR4)",
+    "name": "Biostar-B365MHC-LGA1151V2-Intel-B365-USB31-DDR4",
+    "code": 162321,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 518000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/15/6593f61b-9673-48a7-9308-a15dc918be99.jpg",
+    "display_name": "VenomRX Intel H110 (LGA1151, Intel H110, DDR4)",
+    "name": "VenomRX-Intel-H110-LGA1151-Intel-H110-DDR4",
+    "code": 164032,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 1999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/1/21/83419695/83419695_8ad2759b-6559-4f22-bba4-42a472c28e92_801_801",
+    "display_name": "GALAX Z390 GAMER (LGA1151V2, RGB, Z390, DDR4, USB3.1, SATA3)",
+    "name": "GALAX-Z390-GAMER-LGA1151V2-RGB-Z390-DDR4-USB31-SATA3",
+    "code": 164107,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 1110000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/1/21/83419695/83419695_ad7a617d-be2a-4c51-941c-fe99632e7d89_801_801",
+    "display_name": "GALAX B365M (LGA1151V2, B365, DDR4, USB3.1, SATA3)",
+    "name": "GALAX-B365M-LGA1151V2-B365-DDR4-USB31-SATA3",
+    "code": 164108,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 797000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/1/21/83419695/83419695_83da153a-aebe-4818-b67c-376dfd5e3cc7_801_801",
+    "display_name": "GALAX H310M PLUS+ (LGA1151V2, H310, DDR4, M.2 PCIe, USB3.1, SATA3)",
+    "name": "GALAX-H310M-PLUS-LGA1151V2-H310-DDR4-M2-PCIe-USB31-SATA3",
+    "code": 164110,
+    "socket": "LGA-1151"
+  },
+  {
+
+    "price": 975000,
+    "image": null,
+    "display_name": "ECS H310CH5-M7 (LGA1151V2, Intel H310, DDR4)",
+    "name": "ECS-H310CH5-M7-LGA1151V2-Intel-H310-DDR4",
+    "code": 167022,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 895000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/9/9d6e606e-c473-42a4-82d4-c9b722340683.jpg",
+    "display_name": "ECS H310CH5-M2 (LGA1151V2, Intel H310, DDR4)",
+    "name": "ECS-H310CH5-M2-LGA1151V2-Intel-H310-DDR4",
+    "code": 167023,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 860000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/24/ad8318ec-f6ef-4832-a7f9-f6e9d17faf2b.png",
+    "display_name": "ECS H110I-C4P (LGA1151, Intel H110, DDR4)",
+    "name": "ECS-H110I-C4P-LGA1151-Intel-H110-DDR4",
+    "code": 170638,
+    "socket": "LGA-1151"
+  },
+  {
+
+    "price": 800000,
+    "image": null,
+    "display_name": "ECS H110M-SI02 (LGA1151, Intel H110, DDR3L)",
+    "name": "ECS-H110M-SI02-LGA1151-Intel-H110-DDR3L",
+    "code": 170640,
+    "socket": "LGA-1151"
+  },
+  {
+
+    "price": 2623000,
+    "image": null,
+    "display_name": "Biostar TB360-BTC PRO (LGA1151V2, B360, DDR4, SATA3)",
+    "name": "Biostar-TB360-BTC-PRO-LGA1151V2-B360-DDR4-SATA3",
+    "code": 171215,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 957000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/22/efd50a96-7efd-4600-82ca-681fdb0f398d.jpg",
+    "display_name": "Gigabyte H310M-H 1.0 (LGA1151V2, H310, DDR4, USB3.1, SATA3)",
+    "name": "Gigabyte-H310M-H-10-LGA1151V2-H310-DDR4-USB31-SATA3",
+    "code": 173481,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 570000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/17/5dee33d9-2920-4685-a41a-bca3d2fa6349.jpg",
+    "display_name": "Amptron Intel H110 (LGA1151, H110, DDR4)",
+    "name": "Amptron-Intel-H110-LGA1151-H110-DDR4",
+    "code": 174425,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 565000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/7/2d71f8ca-0332-4d3c-95cc-c13d9567cbb8.jpg",
+    "display_name": "Varro Intel H110 (LGA1151, Intel H110, DDR4)",
+    "name": "Varro-Intel-H110-LGA1151-Intel-H110-DDR4",
+    "code": 174835,
+    "socket": "LGA-1151"
+  },
+  {
+
+    "price": 1200000,
+    "image": null,
+    "display_name": "ECS H310CH5-TI2 (LGA1151V2, Intel H310, DDR4)",
+    "name": "ECS-H310CH5-TI2-LGA1151V2-Intel-H310-DDR4",
+    "code": 175252,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 1050000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/16/de4385c0-9ea7-4393-940f-76255c4224fc.jpg",
+    "display_name": "ECS B365H5-M22 (LGA1151V2, Intel B365, DDR4)",
+    "name": "ECS-B365H5-M22-LGA1151V2-Intel-B365-DDR4",
+    "code": 175253,
+    "socket": "LGA-1151"
+  },
+  {
+
+    "price": 576000,
+    "image": null,
+    "display_name": "Qwerty H110 (LGA1151, H110, DDR4)",
+    "name": "Qwerty-H110-LGA1151-H110-DDR4",
+    "code": 183328,
+    "socket": "LGA-1151"
+  },
+  {
+
+    "price": 558000,
+    "image": null,
+    "display_name": "VenomRX Intel H110 M.2 (LGA1151, Intel H110, DDR4)",
+    "name": "VenomRX-Intel-H110-M2-LGA1151-Intel-H110-DDR4",
+    "code": 183813,
+    "socket": "LGA-1151"
+  },
+  {
+
+    "price": 665000,
+    "image": null,
+    "display_name": "Asus H110M-K (LGA1151,H110,DDR4) - Garansi Distributor",
+    "name": "Asus-H110M-K-LGA1151H110DDR4-Garansi-Distributor",
+    "code": 184430,
+    "socket": "LGA-1151"
+  },
+  {
+    "price": 795000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/7/8/9651507/9651507_1b588b65-0796-4630-9072-e281570d7f0b_1667_1667",
+    "display_name": "ASRock H81M-VG4 R4.0 (LGA1150, H81, DDR3)",
+    "name": "ASRock-H81M-VG4-R40-LGA1150-H81-DDR3",
+    "code": 10559,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 555000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2016/6/8/9650944/9650944_84a5afa7-0ea2-4832-bfd9-a2ca2ce07732.jpg",
+    "display_name": "Asus H81M-E (LGA1150, Intel H81, DDR3) - Garansi Distributor",
+    "name": "Asus-H81M-E-LGA1150-Intel-H81-DDR3-Garansi-Distributor",
+    "code": 10665,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 970000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/fcb9f1b7-94d6-4e66-b4f2-6f213d9546e4.jpg",
+    "display_name": "Asus H81M-K (LGA1150, Intel H81, DDR3)",
+    "name": "Asus-H81M-K-LGA1150-Intel-H81-DDR3",
+    "code": 10666,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 889000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/1/9651507/9651507_ba8bc8ac-fa3c-4529-938d-3257077484d5_700_700",
+    "display_name": "Biostar H81MHV3 (LGA1150, Intel H81, DDR3)",
+    "name": "Biostar-H81MHV3-LGA1150-Intel-H81-DDR3",
+    "code": 10695,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 930000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/21/9651507/9651507_dbc944a8-ec00-4e15-8e3f-3b9419f09a53_700_700",
+    "display_name": "Gigabyte GA-H81M-S2PH (LGA1150, H81, DDR3, SATA3, USB3)",
+    "name": "Gigabyte-GA-H81M-S2PH-LGA1150-H81-DDR3-SATA3-USB3",
+    "code": 10824,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 945000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/22/9651507/9651507_6b71aed9-3691-4da7-af40-58d6cff35f4f_700_700",
+    "display_name": "Gigabyte GA-H81M-DS2 (LGA1150, H81, DDR3, SATA3, USB3)",
+    "name": "Gigabyte-GA-H81M-DS2-LGA1150-H81-DDR3-SATA3-USB3",
+    "code": 10825,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/7/10/9651507/9651507_c6c7a515-676f-4bdb-86f3-436ceba1676d_800_800",
+    "display_name": "MSI H81M-E33 (LGA1150, H81, DDR3) (By WPG)",
+    "name": "MSI-H81M-E33-LGA1150-H81-DDR3-By-WPG",
+    "code": 10934,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 1200000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2017/7/13/194206875/194206875_170c790e-28b3-49f6-b76d-57f6278fb04d_1280_960.jpg",
+    "display_name": "MAXSUN (By SOYO) MS-B85-BTC (LGA 1150, B85, DDR3, 3xPCI-E Slot + 3xPCI-E X1) - NO BOX PACKAGING",
+    "name": "MAXSUN-By-SOYO-MS-B85-BTC-LGA-1150-B85-DDR3-3xPCI-E-Slot-3xPCI-E-X1-NO-BOX-PACKAGING",
+    "code": 152396,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 670000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2017/7/13/194208758/194208758_854859c7-9312-4cbd-9d68-2466cd3125da_700_700.jpg",
+    "display_name": "MAXSUN (By SOYO) MS-H81M (LGA1150, H81, DDR3, VGA+DVI)",
+    "name": "MAXSUN-By-SOYO-MS-H81M-LGA1150-H81-DDR3-VGADVI",
+    "code": 152399,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 490000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/11/f9392d76-ed82-4f62-8425-8c3160e13ad4.png",
+    "display_name": "Amptron Intel H81 (LGA1150, Intel H81, DDR3)",
+    "name": "Amptron-Intel-H81-LGA1150-Intel-H81-DDR3",
+    "code": 165768,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 480000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/24/f1acb9c5-0323-4f84-ab34-fec5c8c3ed82.jpg",
+    "display_name": "Varro Intel H81 (LGA1150, Intel H81, DDR3)",
+    "name": "Varro-Intel-H81-LGA1150-Intel-H81-DDR3",
+    "code": 170511,
+    "socket": "LGA-1150"
+  },
+  {
+
+    "price": 498000,
+    "image": null,
+    "display_name": "VenomRX Intel H81 M.2 (LGA1150, Intel H81, DDR3)",
+    "name": "VenomRX-Intel-H81-M2-LGA1150-Intel-H81-DDR3",
+    "code": 182947,
+    "socket": "LGA-1150"
+  },
+  {
+
+    "price": 457000,
+    "image": null,
+    "display_name": "Qwerty H81 (LGA1150, H81, DDR3)",
+    "name": "Qwerty-H81-LGA1150-H81-DDR3",
+    "code": 183329,
+    "socket": "LGA-1150"
+  },
+  {
+
+    "price": 575000,
+    "image": null,
+    "display_name": "Asus H81M-K (LGA1150, Intel H81, DDR3) - Garansi Distributor",
+    "name": "Asus-H81M-K-LGA1150-Intel-H81-DDR3-Garansi-Distributor",
+    "code": 183643,
+    "socket": "LGA-1150"
+  },
+  {
+    "price": 680000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/10/30/1157156/1157156_83a2576c-4e83-4c51-8a0c-044807bc5e32.jpg",
+    "display_name": "Asus H61M-E (LGA1155, Intel H61, DDR3)",
+    "name": "Asus-H61M-E-LGA1155-Intel-H61-DDR3",
+    "code": 10622,
+    "socket": "LGA-1155"
+  },
+  {
+    "price": 545000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/8/b9c4237f-4138-4a51-9a4b-679f1ae485ca.jpg",
+    "display_name": "Gigabyte GA-H61M-DS2 (LGA1155, H61, DDR3)",
+    "name": "Gigabyte-GA-H61M-DS2-LGA1155-H61-DDR3",
+    "code": 10830,
+    "socket": "LGA-1155"
+  },
+  {
+    "price": 1170000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/9/2942cc84-af22-4e38-beaf-772abe4b29b8.jpg",
+    "display_name": "Asus H61M-K (LGA1155, Intel H61, DDR3)",
+    "name": "Asus-H61M-K-LGA1155-Intel-H61-DDR3",
+    "code": 150984,
+    "socket": "LGA-1155"
+  },
+  {
+    "price": 400000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/6/508d3d58-9f39-4b2c-a609-6cef059e0e2a.jpg",
+    "display_name": "Amptron Intel H61 (LGA1155, Intel H61, DDR3)",
+    "name": "Amptron-Intel-H61-LGA1155-Intel-H61-DDR3",
+    "code": 158724,
+    "socket": "LGA-1155"
+  },
+  {
+
+    "price": 353000,
+    "image": null,
+    "display_name": "Qwerty H61 (LGA1155, Intel H61, DDR3)",
+    "name": "Qwerty-H61-LGA1155-Intel-H61-DDR3",
+    "code": 161610,
+    "socket": "LGA-1155"
+  },
+  {
+    "price": 859000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/28/b5304cfa-4b87-47ec-b4a9-90fcede479bc.jpg",
+    "display_name": "Biostar H61MHV3 (LGA1155, Intel H61, DDR3)",
+    "name": "Biostar-H61MHV3-LGA1155-Intel-H61-DDR3",
+    "code": 177101,
+    "socket": "LGA-1155"
+  },
+  {
+    "price": 410000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/a14a2b62-00b4-4d72-9aa7-6ca97d7359fe.jpg",
+    "display_name": "Digital Alliance H61 (LGA1155, Intel H61, DDR3)",
+    "name": "Digital-Alliance-H61-LGA1155-Intel-H61-DDR3",
+    "code": 177743,
+    "socket": "LGA-1155"
+  },
+  {
+
+    "price": 400000,
+    "image": null,
+    "display_name": "VenomRX Intel H61 M.2 (LGA1155, Intel H61, DDR3)",
+    "name": "VenomRX-Intel-H61-M2-LGA1155-Intel-H61-DDR3",
+    "code": 182946,
+    "socket": "LGA-1155"
+  },
+  {
+
+    "price": 560000,
+    "image": null,
+    "display_name": "Asus H61M-K (LGA1155, Intel H61, DDR3) - Garansi Distributor",
+    "name": "Asus-H61M-K-LGA1155-Intel-H61-DDR3-Garansi-Distributor",
+    "code": 183189,
+    "socket": "LGA-1155"
+  },
+  {
+    "price": 495000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/14/9651507/9651507_93393099-0424-4145-b51a-c6160f64a517_700_700",
+    "display_name": "Xtreme G41 (LGA775, G41, DDR3)",
+    "name": "Xtreme-G41-LGA775-G41-DDR3",
+    "code": 10961,
+    "socket": "LGA-775"
+  },
+  {
+    "price": 375000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/1/9651507/9651507_3ec628ff-12ab-436b-a7af-487f575bf548_700_700",
+    "display_name": "Amptron Intel G41 (LGA775, Intel G41, DDR3)",
+    "name": "Amptron-Intel-G41-LGA775-Intel-G41-DDR3",
+    "code": 155299,
+    "socket": "LGA-775"
+  },
+  {
+
+    "price": 485000,
+    "image": null,
+    "display_name": "Varro Intel G41 (LGA775, Intel G41, DDR3)",
+    "name": "Varro-Intel-G41-LGA775-Intel-G41-DDR3",
+    "code": 170367,
+    "socket": "LGA-775"
+  }
+]

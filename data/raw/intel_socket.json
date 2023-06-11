@@ -15,7 +15,7 @@
             "PDTLS": "Socket Release: November 2021. Type: PC Desktop. CPU families: 12th Gen.",
             "PBEST": 0,
             "PLINK": "LGA-1700",
-            "RTYPE": ""
+            "RTYPE": "DDR5"
         },
         {
             "BNAME": "intel",
@@ -27,19 +27,7 @@
             "PDTLS": "Socket Release: March 2020. Type: PC Desktop. CPU families: 11th Gen, 10th Gen.",
             "PBEST": 0,
             "PLINK": "LGA-1200",
-            "RTYPE": ""
-        },
-        {
-            "BNAME": "intel",
-            "PCODE": 18,
-            "PNAME": "LGA 1151v2",
-            "PPRCZ": null,
-            "PIMGZ": null,
-            "PSTTS": 0,
-            "PDTLS": "Socket Release: April 2018. Type: PC Desktop. CPU families: 9th Gen, 8th Gen.",
-            "PBEST": 0,
-            "PLINK": "LGA-1151v2",
-            "RTYPE": ""
+            "RTYPE": "DDR4"
         },
         {
             "BNAME": "intel",
@@ -51,7 +39,7 @@
             "PDTLS": "Socket Release: June 2017. Type: PC Desktop\/Server. CPU families: 7th Gen.",
             "PBEST": 0,
             "PLINK": "LGA-2066",
-            "RTYPE": ""
+            "RTYPE": "DDR4"
         },
         {
             "BNAME": "intel",
@@ -63,7 +51,7 @@
             "PDTLS": "Socket Release: September 2016. Type: PC Server. CPU families:  Intel Xeon.",
             "PBEST": 0,
             "PLINK": "LGA-3647",
-            "RTYPE": ""
+            "RTYPE": "DDR4"
         },
         {
             "BNAME": "intel",
@@ -75,19 +63,7 @@
             "PDTLS": "Socket Release: September 2015. Type: PC Desktop. CPU families: 7th Gen, 6th Gen.",
             "PBEST": 0,
             "PLINK": "LGA-1151",
-            "RTYPE": ""
-        },
-        {
-            "BNAME": "intel",
-            "PCODE": 17,
-            "PNAME": "LGA 2011v3",
-            "PPRCZ": null,
-            "PIMGZ": null,
-            "PSTTS": 0,
-            "PDTLS": "Socket Release: August 2014. Type: PC Desktop\/Server. CPU families: 6th Gen, 5th Gen.",
-            "PBEST": 0,
-            "PLINK": "LGA-2011v3",
-            "RTYPE": ""
+            "RTYPE": "DDR4"
         },
         {
             "BNAME": "intel",
@@ -99,7 +75,7 @@
             "PDTLS": "Socket Release: June 2013. Type: PC Desktop. CPU families: 5th Gen, 4th Gen.",
             "PBEST": 0,
             "PLINK": "LGA-1150",
-            "RTYPE": ""
+            "RTYPE": "DDR3"
         },
         {
             "BNAME": "intel",
@@ -111,7 +87,7 @@
             "PDTLS": "Socket Release: November 2011. Type: PC Desktop\/Server. CPU families: 4th Gen, 3rd Gen.",
             "PBEST": 0,
             "PLINK": "LGA-2011",
-            "RTYPE": ""
+            "RTYPE": "DDR3"
         },
         {
             "BNAME": "intel",
@@ -123,7 +99,7 @@
             "PDTLS": "Socket Release: January 2011. Type: PC Desktop. CPU families: 3rd Gen, 2nd Gen.",
             "PBEST": 0,
             "PLINK": "LGA-1155",
-            "RTYPE": ""
+            "RTYPE": "DDR3"
         },
         {
             "BNAME": "intel",
@@ -135,7 +111,7 @@
             "PDTLS": "Socket Release: March 2004. Type: PC Desktop. CPU families: Core 2 Quad, Core 2 Duo, Pentium, Celeron.",
             "PBEST": 0,
             "PLINK": "LGA-775",
-            "RTYPE": ""
+            "RTYPE": "DDR3"
         }
     ]
 }

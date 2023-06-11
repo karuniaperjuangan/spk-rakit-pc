@@ -1,0 +1,3929 @@
+[
+  {
+    "price": 1080000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/7/9651507/9651507_1446edd7-0e4f-4542-9270-7687237e0d09_700_700",
+    "display_name": "ACER 19.5\" K202HQL LED Wide Screen",
+    "name": "ACER-195-K202HQL-LED-Wide-Screen",
+    "code": 124465
+  },
+  {
+    "price": 4900000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/758873e6-f95d-47b0-b673-1d85a5b80e0a.png",
+    "display_name": "DELL 24\" P2418HT LED Touch Screen",
+    "name": "DELL-24-P2418HT-LED-Touch-Screen",
+    "code": 124588
+  },
+  {
+    "price": 3200000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/7/9/9651507/9651507_9743d073-5214-4cee-9eff-64ed86a9ee6d_1000_1000",
+    "display_name": "LG 17\" LED 17MB15T (Touchscreen)",
+    "name": "LG-17-LED-17MB15T-Touchscreen",
+    "code": 124608
+  },
+  {
+    "price": 2530000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/7/9/9651507/9651507_4c878ce6-d29e-4e6d-8dad-016b421e9e48_1000_1000",
+    "display_name": "LG 25\" LED 25UM58-P IPS Panel",
+    "name": "LG-25-LED-25UM58-P-IPS-Panel",
+    "code": 124634
+  },
+  {
+    "price": 1420000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/135fe596-5134-4d62-af6f-4d69a0909d87.png",
+    "display_name": "SAMSUNG 23.5\" C24F390 FHD Curved Monitor with FreeSync",
+    "name": "SAMSUNG-235-C24F390-FHD-Curved-Monitor-with-FreeSync",
+    "code": 124677
+  },
+  {
+    "price": 165000,
+    "image": null,
+    "display_name": "Bracket Draco-4412 32\" - 50\"",
+    "name": "Bracket-Draco-4412-32-50",
+    "code": 124727
+  },
+  {
+    "price": 265000,
+    "image": null,
+    "display_name": "Bracket Draco-6432 32\" - 65\"",
+    "name": "Bracket-Draco-6432-32-65",
+    "code": 124728
+  },
+  {
+    "price": 60000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/f55d06d3-cc56-480f-96eb-30272d7fe443.jpg",
+    "display_name": "Oximus Bracket Lynx-1123 13\" - 27\"",
+    "name": "Oximus-Bracket-Lynx-1123-13-27",
+    "code": 124734
+  },
+  {
+    "price": 138000,
+    "image": null,
+    "display_name": "Oximus Bracket Lynx-Y1124 13\" - 27\"",
+    "name": "Oximus-Bracket-Lynx-Y1124-13-27",
+    "code": 124735
+  },
+  {
+    "price": 77000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/7/f1dfe4ca-ff41-4225-8610-412334a23fbd.jpg",
+    "display_name": "Oximus Bracket Lynx-1163 13\" - 27\"",
+    "name": "Oximus-Bracket-Lynx-1163-13-27",
+    "code": 124740
+  },
+  {
+    "price": 920000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/31945df3-12ee-49b5-b13b-dd9bf8e78b9b.png",
+    "display_name": "LG 19\" LED 19M38A-B (Analog)",
+    "name": "LG-19-LED-19M38A-B-Analog",
+    "code": 150331
+  },
+  {
+    "price": 1360000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/fb972e13-37a3-40d8-9a57-31d3325eafc5.png",
+    "display_name": "LG 23.8\" 24MK430H-B FHD IPS 75Hz with AMD FreeSync",
+    "name": "LG-238-24MK430H-B-FHD-IPS-75Hz-with-AMD-FreeSync",
+    "code": 155541
+  },
+  {
+    "price": 135000,
+    "image": null,
+    "display_name": "Adaptor LED Monitor LG 19v-2.1A",
+    "name": "Adaptor-LED-Monitor-LG-19v-21A",
+    "code": 156733
+  },
+  {
+    "price": 3100000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/5/9651507/9651507_82eb5b70-70a4-4b15-b519-6f9b4567c306_700_700",
+    "display_name": "ViewSonic 16\" TD1630-3 Touchscreen",
+    "name": "ViewSonic-16-TD1630-3-Touchscreen",
+    "code": 158251
+  },
+  {
+    "price": 1095000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/dd419662-779d-4852-923b-a460726f55fd.png",
+    "display_name": "LG 20\" LED 20MK400A (Analog)",
+    "name": "LG-20-LED-20MK400A-Analog",
+    "code": 159077
+  },
+  {
+    "price": 1115000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/066f4cc3-3f55-4de3-a63c-d8d9b0574d3e.png",
+    "display_name": "LG 20\" LED 20MK400H (HDMI)",
+    "name": "LG-20-LED-20MK400H-HDMI",
+    "code": 159085
+  },
+  {
+    "price": 5160000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/5/9651507/9651507_dc7cab70-7371-4a07-9d17-4c81ae809b36_700_700",
+    "display_name": "ViewSonic 31.5\" VX3211-4K-MHD UHD 4K Entertainment Monitor",
+    "name": "ViewSonic-315-VX3211-4K-MHD-UHD-4K-Entertainment-Monitor",
+    "code": 159194
+  },
+  {
+    "price": 1170000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/5/9651507/9651507_a2f2bb41-7f4b-4290-8807-ba41a9cc77ab_700_700",
+    "display_name": "ViewSonic 22\" VA2210-H FHD",
+    "name": "ViewSonic-22-VA2210-H-FHD",
+    "code": 159490
+  },
+  {
+    "price": 2410000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/a76f0682-ccd3-437c-b706-d0d3e2e8a9c3.png",
+    "display_name": "ASUS VP228HE 21.5\" FHD",
+    "name": "ASUS-VP228HE-215-FHD",
+    "code": 159704
+  },
+  {
+    "price": 1600000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/5/9651507/9651507_2924f8c6-78a4-47bc-9dc5-132b6d19dd57_700_700",
+    "display_name": "BenQ 23.8\" GW2480 FHD IPS Slim Bezel Design",
+    "name": "BenQ-238-GW2480-FHD-IPS-Slim-Bezel-Design",
+    "code": 160316
+  },
+  {
+    "price": 2750000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/cc4a0904-86ce-4cbb-b797-2e6d8025ac6d.jpg",
+    "display_name": "SAMSUNG 24\" C24RG50 CURVED Gaming LED",
+    "name": "SAMSUNG-24-C24RG50-CURVED-Gaming-LED",
+    "code": 160320
+  },
+  {
+    "price": 4575000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/5/9651507/9651507_b52ae29d-2ac4-42bd-8399-ff4a7f559c5d_700_700",
+    "display_name": "ASUS VT229H 21.5\" Touch Monitor FHD IPS Frameless Design",
+    "name": "ASUS-VT229H-215-Touch-Monitor-FHD-IPS-Frameless-Design",
+    "code": 160474
+  },
+  {
+    "price": 1625000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/23/1173f593-db45-4974-b13d-feb048512186.png",
+    "display_name": "ACER 23.8\" Nitro VG240Y Gaming Monitor",
+    "name": "ACER-238-Nitro-VG240Y-Gaming-Monitor",
+    "code": 160537
+  },
+  {
+    "price": 2000000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/ab1edcde-ad54-4068-9b57-387ef3135e34.png",
+    "display_name": "SAMSUNG 27\" LC27R500 CURVED LED Wide Screen",
+    "name": "SAMSUNG-27-LC27R500-CURVED-LED-Wide-Screen",
+    "code": 160634
+  },
+  {
+    "price": 7590000,
+    "image": null,
+    "display_name": "BenQ 24\" SW240 WUXGA IPS Photo Editing Monitor",
+    "name": "BenQ-24-SW240-WUXGA-IPS-Photo-Editing-Monitor",
+    "code": 161195
+  },
+  {
+    "price": 2035000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/14/9651507/9651507_677424a2-df51-49fb-bead-a9e0d840d861_700_700",
+    "display_name": "MSI Optix G241VC 24\" Curved Gaming Monitor",
+    "name": "MSI-Optix-G241VC-24-Curved-Gaming-Monitor",
+    "code": 161639
+  },
+  {
+    "price": 17450000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/a01420f7-33e5-4661-9a6a-57ad1712c7cb.jpg",
+    "display_name": "MSI Optix MPG341CQR 34\" WQHD Curved Gaming Monitor With RGB",
+    "name": "MSI-Optix-MPG341CQR-34-WQHD-Curved-Gaming-Monitor-With-RGB",
+    "code": 161641
+  },
+  {
+    "price": 9150000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/d84ec6e4-61a3-4ba1-8574-d67b1d1ec95d.jpg",
+    "display_name": "MSI Optix MAG321CURV 32\" 4K Curved Gaming Monitor With RGB",
+    "name": "MSI-Optix-MAG321CURV-32-4K-Curved-Gaming-Monitor-With-RGB",
+    "code": 161642
+  },
+  {
+    "price": 18190000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/14/9651507/9651507_0176ac81-4873-4e35-b490-8ff7003286b0_700_700",
+    "display_name": "ASUS ROG Strix XG49VQ 49\" Curved Gaming Monitor 144Hz",
+    "name": "ASUS-ROG-Strix-XG49VQ-49-Curved-Gaming-Monitor-144Hz",
+    "code": 161720
+  },
+  {
+    "price": 1815000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/8ae16de7-ca6a-4056-84bc-a90c9cbf98db.png",
+    "display_name": "LG 32\" 32LM550 TV",
+    "name": "LG-32-32LM550-TV",
+    "code": 162057
+  },
+  {
+    "price": 2910000,
+    "image": null,
+    "display_name": "ViewSonic 24\" VP2458",
+    "name": "ViewSonic-24-VP2458",
+    "code": 162093
+  },
+  {
+    "price": 1010000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/5/9651507/9651507_5ae81053-a79a-4009-bfb9-d24b6e28a25c_700_700",
+    "display_name": "Lenovo D19-10 18.5\" LED",
+    "name": "Lenovo-D19-10-185-LED",
+    "code": 162334
+  },
+  {
+    "price": 16300000,
+    "image": null,
+    "display_name": "LG 49\" 49WL95C-W UltraWide-DQHD IPS Curved Monitor",
+    "name": "LG-49-49WL95C-W-UltraWide-DQHD-IPS-Curved-Monitor",
+    "code": 163131
+  },
+  {
+    "price": 1410000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/5/9651507/9651507_565e1441-3cc9-4b48-96e4-b5a969ebe35e_700_700",
+    "display_name": "BenQ 21.5\" GW2283 FHD IPS Slim Bezel Design",
+    "name": "BenQ-215-GW2283-FHD-IPS-Slim-Bezel-Design",
+    "code": 163621
+  },
+  {
+    "price": 7090000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/4714142a-eea4-490b-bb49-6be6b20cd00a.jpg",
+    "display_name": "ASUS TUF Gaming VG27AQ 27\" WQHD IPS Gaming Monitor 165Hz",
+    "name": "ASUS-TUF-Gaming-VG27AQ-27-WQHD-IPS-Gaming-Monitor-165Hz",
+    "code": 163973
+  },
+  {
+    "price": 3300000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/15/9651507/9651507_7cb302fe-c689-42d7-8baa-c669e5fe38fd_700_700",
+    "display_name": "LG 43\" 43LM5500 - Full HD TV",
+    "name": "LG-43-43LM5500-Full-HD-TV",
+    "code": 164005
+  },
+  {
+    "price": 135000,
+    "image": null,
+    "display_name": "Adaptor LED Monitor 19v-0,84A",
+    "name": "Adaptor-LED-Monitor-19v-084A",
+    "code": 164205
+  },
+  {
+    "price": 2825000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/4/6953d489-a2cd-486d-b506-8627a24f57fb.png",
+    "display_name": "ViewSonic 23.8\" XG2405 144Hz FHD IPS Gaming Monitor",
+    "name": "ViewSonic-238-XG2405-144Hz-FHD-IPS-Gaming-Monitor",
+    "code": 164545
+  },
+  {
+    "price": 1540000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/7d8a7fcd-c37a-4b41-a554-ef7d3d6bf422.png",
+    "display_name": "ASUS VA229HR 21.5\" FHD IPS Frameless 75Hz",
+    "name": "ASUS-VA229HR-215-FHD-IPS-Frameless-75Hz",
+    "code": 164577
+  },
+  {
+    "price": 3010000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/e11cbdf5-2cf6-4f93-9554-dd6475bee20a.png",
+    "display_name": "ASUS VA24EHE 23.8\" FHD IPS Frameless 75Hz",
+    "name": "ASUS-VA24EHE-238-FHD-IPS-Frameless-75Hz",
+    "code": 164578
+  },
+  {
+    "price": 4820000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/2933d7d4-b58a-4be6-9534-e231af2a1ac4.jpg",
+    "display_name": "ASUS TUF Gaming VG279QM 27\" Fast IPS Gaming Monitor 280Hz",
+    "name": "ASUS-TUF-Gaming-VG279QM-27-Fast-IPS-Gaming-Monitor-280Hz",
+    "code": 164581
+  },
+  {
+    "price": 2460000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/4cba7576-98a1-4fc7-abda-36c0b825b509.jpg",
+    "display_name": "MSI Optix G24C4 23.6\" FHD Curved Gaming Monitor 144Hz",
+    "name": "MSI-Optix-G24C4-236-FHD-Curved-Gaming-Monitor-144Hz",
+    "code": 164735
+  },
+  {
+    "price": 5450000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/11/3/9651507/9651507_944be1fc-c57b-466c-9445-d788b78d449e_700_700",
+    "display_name": "BenQ ZOWIE 27\" XL2731 FHD Gaming Monitor 144Hz",
+    "name": "BenQ-ZOWIE-27-XL2731-FHD-Gaming-Monitor-144Hz",
+    "code": 165180
+  },
+  {
+    "price": 235000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/25/ac7f63a8-60ac-4c8d-89b2-2a5fd24a0647.jpg",
+    "display_name": "North Bayou NB-F80 Bracket Monitor 17-27 Inch",
+    "name": "North-Bayou-NB-F80-Bracket-Monitor-17-27-Inch",
+    "code": 165198
+  },
+  {
+    "price": 5990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/3/cb4724e4-6403-44b2-864b-42539df3b689.png",
+    "display_name": "ASUS ZenScreen Touch MB16AMT 15.6\" Portable USB Type-C FHD IPS Monitor",
+    "name": "ASUS-ZenScreen-Touch-MB16AMT-156-Portable-USB-Type-C-FHD-IPS-Monitor",
+    "code": 165292
+  },
+  {
+    "price": 4350000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/5d7f23bc-1cc4-4aa2-99ff-182dfe7fea65.jpg",
+    "display_name": "ASUS TUF Gaming VG259QM 24.5\" Fast IPS Gaming Monitor 280Hz",
+    "name": "ASUS-TUF-Gaming-VG259QM-245-Fast-IPS-Gaming-Monitor-280Hz",
+    "code": 165293
+  },
+  {
+    "price": 2790000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/58de428f-6b70-45b0-8d2d-d1f55457af12.jpg",
+    "display_name": "ASUS TUF Gaming VG249Q 23.8\" IPS Gaming Monitor 144Hz",
+    "name": "ASUS-TUF-Gaming-VG249Q-238-IPS-Gaming-Monitor-144Hz",
+    "code": 165298
+  },
+  {
+    "price": 3295000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/f806202b-987b-48ba-98d9-2244ed5315eb.jpg",
+    "display_name": "MSI Optix G27C4 27\" Curved Gaming Monitor",
+    "name": "MSI-Optix-G27C4-27-Curved-Gaming-Monitor",
+    "code": 165334
+  },
+  {
+    "price": 4095000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/b41d1a58-a352-4366-9550-148fa6f103bd.jpg",
+    "display_name": "MSI Optix G271 27\" Gaming Monitor",
+    "name": "MSI-Optix-G271-27-Gaming-Monitor",
+    "code": 165410
+  },
+  {
+    "price": 2815000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/80ae9f9d-0419-459d-91eb-d1686e7ef3f3.jpg",
+    "display_name": "MSI Optix G241 24\" Gaming Monitor",
+    "name": "MSI-Optix-G241-24-Gaming-Monitor",
+    "code": 165411
+  },
+  {
+    "price": 9690000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/1/630475fb-4aba-4858-8a1e-2feccd17452c.jpg",
+    "display_name": "ASUS ROG Strix XG17AHPE 17.3\" Portable USB Type-C IPS Gaming Monitor 240Hz",
+    "name": "ASUS-ROG-Strix-XG17AHPE-173-Portable-USB-Type-C-IPS-Gaming-Monitor-240Hz",
+    "code": 165543
+  },
+  {
+    "price": 8515000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/14/9651507/9651507_5448643e-1a34-4f1f-a3e8-c65c567ff1d3_700_700",
+    "display_name": "ViewSonic Elite 27\" XG270QG 165Hz QHD IPS Gaming Monitor",
+    "name": "ViewSonic-Elite-27-XG270QG-165Hz-QHD-IPS-Gaming-Monitor",
+    "code": 166285
+  },
+  {
+    "price": 6279000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/371c6025-f11b-4dc0-bac5-a59c4425b157.jpg",
+    "display_name": "MSI Optix G27CQ4 27\" Curved Gaming Monitor",
+    "name": "MSI-Optix-G27CQ4-27-Curved-Gaming-Monitor",
+    "code": 166433
+  },
+  {
+    "price": 138000,
+    "image": null,
+    "display_name": "Bracket Oximus EV-02",
+    "name": "Bracket-Oximus-EV-02",
+    "code": 166437
+  },
+  {
+    "price": 14815000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/0b78c061-48e5-4cfc-abc7-ccbc3fe7777e.jpg",
+    "display_name": "ASUS ROG Strix XG27UQ 27\" 4K IPS Gaming Monitor 144Hz",
+    "name": "ASUS-ROG-Strix-XG27UQ-27-4K-IPS-Gaming-Monitor-144Hz",
+    "code": 166845
+  },
+  {
+    "price": 11290000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/4/21/b1556a72-b7fd-4573-905c-e94dff161238.png",
+    "display_name": "ASUS ROG Strix XG279Q 27\" WQHD Fast IPS Gaming Monitor 170Hz",
+    "name": "ASUS-ROG-Strix-XG279Q-27-WQHD-Fast-IPS-Gaming-Monitor-170Hz",
+    "code": 166846
+  },
+  {
+    "price": 5200000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/633921be-223f-4839-b8a2-26e4c079809a.png",
+    "display_name": "ASUS ProArt PA278QV 27\" WQHD IPS Professional Monitor",
+    "name": "ASUS-ProArt-PA278QV-27-WQHD-IPS-Professional-Monitor",
+    "code": 166849
+  },
+  {
+    "price": 4870000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/c1c5bb96-87a7-4d72-a102-a7b53e09d381.png",
+    "display_name": "ASUS ProArt PA248QV 24.1\" WUXGA IPS Professional Monitor",
+    "name": "ASUS-ProArt-PA248QV-241-WUXGA-IPS-Professional-Monitor",
+    "code": 166850
+  },
+  {
+    "price": 7690000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/22/daa87196-b086-441f-ae99-ad295641f348.png",
+    "display_name": "BenQ 27\" EX2780Q QHD 2K Gaming Monitor 144Hz",
+    "name": "BenQ-27-EX2780Q-QHD-2K-Gaming-Monitor-144Hz",
+    "code": 166946
+  },
+  {
+    "price": 140000,
+    "image": null,
+    "display_name": "Adaptor LED Monitor LG 19v-1.2A",
+    "name": "Adaptor-LED-Monitor-LG-19v-12A",
+    "code": 167154
+  },
+  {
+    "price": 8750000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/aaeb725c-0ab6-46dd-95ca-3725fc974ced.png",
+    "display_name": "LG 35\" 35WN75C-B UltraWide QHD HDR Curved Monitor 100Hz",
+    "name": "LG-35-35WN75C-B-UltraWide-QHD-HDR-Curved-Monitor-100Hz",
+    "code": 167167
+  },
+  {
+    "price": 15845000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/c8a76220-7865-473b-bd51-b30d92f67f9b.jpg",
+    "display_name": "LG 38\" 38GN950-B UltraGear WQHD+ Nano IPS Gaming Monitor 144Hz",
+    "name": "LG-38-38GN950-B-UltraGear-WQHD-Nano-IPS-Gaming-Monitor-144Hz",
+    "code": 167168
+  },
+  {
+    "price": 2590000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/0912ac01-8b8b-462c-9236-d04f584c9a01.jpg",
+    "display_name": "ASUS VP249QGR 23.8\" IPS Frameless Gaming Monitor",
+    "name": "ASUS-VP249QGR-238-IPS-Frameless-Gaming-Monitor",
+    "code": 167178
+  },
+  {
+    "price": 5720000,
+    "image": null,
+    "display_name": "ViewSonic 24\" TD2455 Touchscreen",
+    "name": "ViewSonic-24-TD2455-Touchscreen",
+    "code": 167189
+  },
+  {
+    "price": 36000,
+    "image": null,
+    "display_name": "Oximus Bracket Aquila-2204 14\" - 42\"",
+    "name": "Oximus-Bracket-Aquila-2204-14-42",
+    "code": 167193
+  },
+  {
+    "price": 55000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/686b0491-6ee4-4e0e-9e77-e2e7687b64d8.jpg",
+    "display_name": "Oximus Bracket Aquila-2227 14\" - 42\"",
+    "name": "Oximus-Bracket-Aquila-2227-14-42",
+    "code": 167194
+  },
+  {
+    "price": 81000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/4dab2396-c29a-4fe2-9ed3-69d4aa6a00d7.jpg",
+    "display_name": "Oximus Bracket Aquila-4450 23\" - 55\"",
+    "name": "Oximus-Bracket-Aquila-4450-23-55",
+    "code": 167195
+  },
+  {
+    "price": 2350000,
+    "image": null,
+    "display_name": "BenQ 24\" GW2480T IPS",
+    "name": "BenQ-24-GW2480T-IPS",
+    "code": 167254
+  },
+  {
+    "price": 3695000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/9/22/9651507/9651507_85adc849-931e-48f1-95d7-672211db7a31_700_700",
+    "display_name": "Lenovo D32q-20 31.5\" LED",
+    "name": "Lenovo-D32q-20-315-LED",
+    "code": 167257
+  },
+  {
+    "price": 1615000,
+    "image": null,
+    "display_name": "DELL 19.5\" P2018H LED",
+    "name": "DELL-195-P2018H-LED",
+    "code": 167258
+  },
+  {
+    "price": 3289000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/26/f1c634d4-7ffd-4b50-9dae-5580f8229a61.jpg",
+    "display_name": "Gigabyte G27F 2\u200e7\" FHD IPS Gaming Monitor 144Hz",
+    "name": "Gigabyte-G27F-27-FHD-IPS-Gaming-Monitor-144Hz",
+    "code": 167374
+  },
+  {
+    "price": 18465000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/3/14b340f1-bc53-427b-8b84-ee1bbe03beb6.jpg",
+    "display_name": "SAMSUNG 49\" C49G95 Odyssey G9 Curved Gaming Monitor",
+    "name": "SAMSUNG-49-C49G95-Odyssey-G9-Curved-Gaming-Monitor",
+    "code": 167400
+  },
+  {
+    "price": 1525000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/b5f1b484-8186-4113-b0be-5056cb49ab89.png",
+    "display_name": "SAMSUNG 24\" S24R350 FHD IPS Bezel-less Design 75Hz",
+    "name": "SAMSUNG-24-S24R350-FHD-IPS-Bezel-less-Design-75Hz",
+    "code": 167401
+  },
+  {
+    "price": 460000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/4d0e0389-0464-4acb-8298-3367dd9762f4.jpg",
+    "display_name": "Oximus Bracket Hydra-ZDP1128 13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZDP1128-13-27",
+    "code": 167452
+  },
+  {
+    "price": 2415000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/8/6/d9f4ac42-69f4-4749-8d27-579cca3d620f.jpg",
+    "display_name": "Lenovo Q24i-1L 23.8\" FHD IPS Ultra-slim Design 75Hz",
+    "name": "Lenovo-Q24i-1L-238-FHD-IPS-Ultra-slim-Design-75Hz",
+    "code": 167487
+  },
+  {
+    "price": 2690000,
+    "image": null,
+    "display_name": "BenQ 27\" EW2780 FHD HDR IPS Multimedia Monitor",
+    "name": "BenQ-27-EW2780-FHD-HDR-IPS-Multimedia-Monitor",
+    "code": 167533
+  },
+  {
+    "price": 13950000,
+    "image": null,
+    "display_name": "BenQ 27\" SW270C LED",
+    "name": "BenQ-27-SW270C-LED",
+    "code": 167534
+  },
+  {
+    "price": 3535000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/30/9bacaf16-4f80-477b-8c9f-3cae2e929748.png",
+    "display_name": "ASUS TUF Gaming VG279QL1A 27\" IPS Gaming Monitor 165Hz",
+    "name": "ASUS-TUF-Gaming-VG279QL1A-27-IPS-Gaming-Monitor-165Hz",
+    "code": 167536
+  },
+  {
+    "price": 3350000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/15012b3d-ff88-4819-ba89-1b1405ecd6fc.png",
+    "display_name": "ASUS VA27EHE 27\" FHD IPS Frameless 75Hz",
+    "name": "ASUS-VA27EHE-27-FHD-IPS-Frameless-75Hz",
+    "code": 167539
+  },
+  {
+    "price": 7110000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/a0efb89d-95b1-4b4c-9df5-8082c038f53e.png",
+    "display_name": "ASUS TUF Gaming VG27AQL1A 27\" WQHD IPS Gaming Monitor 170Hz",
+    "name": "ASUS-TUF-Gaming-VG27AQL1A-27-WQHD-IPS-Gaming-Monitor-170Hz",
+    "code": 167574
+  },
+  {
+    "price": 8150000,
+    "image": "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/9/22/9651507/9651507_e5599240-e676-4f89-9e68-5287298f9b29_700_700",
+    "display_name": "LG 31.5\" 32UN880-B UltraFine UHD 4K IPS with AMD FreeSync",
+    "name": "LG-315-32UN880-B-UltraFine-UHD-4K-IPS-with-AMD-FreeSync",
+    "code": 167589
+  },
+  {
+    "price": 8800000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/7/bae80077-4813-476d-ba2c-6fc453fa5bce.png",
+    "display_name": "LG 34\" LED 34WN80C - UltraWide WQHD IPS Curved",
+    "name": "LG-34-LED-34WN80C-UltraWide-WQHD-IPS-Curved",
+    "code": 167623
+  },
+  {
+    "price": 135000,
+    "image": null,
+    "display_name": "Adaptor LED Monitor Samsung 14V-1.07A",
+    "name": "Adaptor-LED-Monitor-Samsung-14V-107A",
+    "code": 167977
+  },
+  {
+    "price": 6750000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/7ebe9038-62bd-4e33-9c9a-798860e8b13f.jpg",
+    "display_name": "LG 27\" 27GN880-B UltraGear QHD Nano IPS Gaming Monitor 144Hz",
+    "name": "LG-27-27GN880-B-UltraGear-QHD-Nano-IPS-Gaming-Monitor-144Hz",
+    "code": 168119
+  },
+  {
+    "price": 1495000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/caf48050-391a-4267-a727-3dedaac315a8.jpg",
+    "display_name": "North Bayou AVA 1800-70-1P Bracket Standing Monitor 55-80 Inch",
+    "name": "North-Bayou-AVA-1800-70-1P-Bracket-Standing-Monitor-55-80-Inch",
+    "code": 168176
+  },
+  {
+    "price": 7480000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/5988b696-00b0-40d2-8231-6beb7dab1101.jpg",
+    "display_name": "MSI Optix MAG274QRF 27\" Gaming Monitor",
+    "name": "MSI-Optix-MAG274QRF-27-Gaming-Monitor",
+    "code": 168761
+  },
+  {
+    "price": 7650000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/13/d0aaff25-e6da-463b-8199-565d3e9be817.png",
+    "display_name": "LG 27\" LED 27UN880 4K UHD",
+    "name": "LG-27-LED-27UN880-4K-UHD",
+    "code": 168776
+  },
+  {
+    "price": 3040000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/26/cdcf0e60-7680-469d-8c87-7aec51af692c.png",
+    "display_name": "BenQ ZOWIE 24\" XL2411K FHD Gaming Monitor 144Hz",
+    "name": "BenQ-ZOWIE-24-XL2411K-FHD-Gaming-Monitor-144Hz",
+    "code": 168939
+  },
+  {
+    "price": 8790000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/26/d5540deb-85d3-4d43-ae8a-87ae341f07d9.png",
+    "display_name": "BenQ ZOWIE 24.5\" XL2546K FHD Gaming Monitor 240Hz",
+    "name": "BenQ-ZOWIE-245-XL2546K-FHD-Gaming-Monitor-240Hz",
+    "code": 168940
+  },
+  {
+    "price": 8320000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/90cf471d-c21d-48eb-a9e6-7617cb67bebd.jpg",
+    "display_name": "MSI Optix MAG274QRF-QD 27\" Gaming Monitor",
+    "name": "MSI-Optix-MAG274QRF-QD-27-Gaming-Monitor",
+    "code": 168992
+  },
+  {
+    "price": 8590000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/3/a87ccafb-2c6b-4802-8352-3fec9c6d0984.png",
+    "display_name": "BenQ 24\" SW240 WUXGA IPS Photo Editing Monitor with Shield",
+    "name": "BenQ-24-SW240-WUXGA-IPS-Photo-Editing-Monitor-with-Shield",
+    "code": 169004
+  },
+  {
+    "price": 6190000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/6f3b89dd-8c0b-4fe3-9251-0127fcc51e6a.png",
+    "display_name": "LG 31.5\" 32UN500-W UHD 4K with AMD FreeSync",
+    "name": "LG-315-32UN500-W-UHD-4K-with-AMD-FreeSync",
+    "code": 169005
+  },
+  {
+    "price": 4350000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/10/d80ba448-f483-462e-8e23-1434e60c4298.png",
+    "display_name": "ViewSonic 16\" TD1655 Portable LED",
+    "name": "ViewSonic-16-TD1655-Portable-LED",
+    "code": 169136
+  },
+  {
+    "price": 2095000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/1f5f2096-f4ba-4e59-a455-9a414210720a.jpg",
+    "display_name": "AOC 23.8\" 24G2E Gaming LED",
+    "name": "AOC-238-24G2E-Gaming-LED",
+    "code": 169198
+  },
+  {
+    "price": 22890000,
+    "image": null,
+    "display_name": "BenQ 31.5\" PD3220U 4K Design LED",
+    "name": "BenQ-315-PD3220U-4K-Design-LED",
+    "code": 169560
+  },
+  {
+    "price": 4815000,
+    "image": null,
+    "display_name": "Lenovo ThinkVision M14T 14\" USB-C Touch Screen",
+    "name": "Lenovo-ThinkVision-M14T-14-USB-C-Touch-Screen",
+    "code": 169616
+  },
+  {
+    "price": 1885000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/1/14/0feac03c-9cec-4d5c-8cf0-17dad44c18f2.png",
+    "display_name": "MSI Pro MP242 23.8\" FHD 75Hz IPS Monitor",
+    "name": "MSI-Pro-MP242-238-FHD-75Hz-IPS-Monitor",
+    "code": 169678
+  },
+  {
+    "price": 2740000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/627bd9d6-bd6e-4e0d-a183-2ec4d91b5923.png",
+    "display_name": "SAMSUNG 32\" C32R500 Curved LED Wide Screen",
+    "name": "SAMSUNG-32-C32R500-Curved-LED-Wide-Screen",
+    "code": 169853
+  },
+  {
+    "price": 2240000,
+    "image": null,
+    "display_name": "SAMSUNG 27\" F27T450F LED Wide Screen",
+    "name": "SAMSUNG-27-F27T450F-LED-Wide-Screen",
+    "code": 169854
+  },
+  {
+    "price": 2010000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/11011a96-576c-439a-b0ce-5abd5b3877b0.png",
+    "display_name": "AOC 27\" 27B2H Frameless FHD IPS",
+    "name": "AOC-27-27B2H-Frameless-FHD-IPS",
+    "code": 169895
+  },
+  {
+    "price": 240000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/9923fe0a-122e-405f-8c3c-6b0215e20869.jpg",
+    "display_name": "Oximus Bracket Hydra-ZDP1118  13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZDP1118-13-27",
+    "code": 170082
+  },
+  {
+    "price": 2260000,
+    "image": null,
+    "display_name": "BenQ 24\" EW2480 LED",
+    "name": "BenQ-24-EW2480-LED",
+    "code": 170345
+  },
+  {
+    "price": 2950000,
+    "image": null,
+    "display_name": "BenQ 27\" GW2780T FHD IPS",
+    "name": "BenQ-27-GW2780T-FHD-IPS",
+    "code": 170347
+  },
+  {
+    "price": 2210000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/4/f26ce973-9a07-46ca-a48e-3924d3af0a00.jpg",
+    "display_name": "BenQ 27\" GW2780 FHD IPS Slim Bezel Design",
+    "name": "BenQ-27-GW2780-FHD-IPS-Slim-Bezel-Design",
+    "code": 170348
+  },
+  {
+    "price": 3860000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/3/7ef34e88-c82c-495e-aeb5-2ae6026e307c.png",
+    "display_name": "ViewSonic 27\" XG2705-2K 144Hz QHD IPS Gaming Monitor",
+    "name": "ViewSonic-27-XG2705-2K-144Hz-QHD-IPS-Gaming-Monitor",
+    "code": 170352
+  },
+  {
+    "price": 3165000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/2/18/5fbfe637-b575-4ee8-9267-d3b12e6531b5.png",
+    "display_name": "Lenovo G27-20 27\" 144Hz Gaming LED",
+    "name": "Lenovo-G27-20-27-144Hz-Gaming-LED",
+    "code": 170353
+  },
+  {
+    "price": 1390000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/a82dcb7a-5c48-44eb-96a7-9a78e2c8a217.png",
+    "display_name": "Lenovo D24-20 23.8\" FHD Edgeless Design",
+    "name": "Lenovo-D24-20-238-FHD-Edgeless-Design",
+    "code": 170395
+  },
+  {
+    "price": 108000,
+    "image": null,
+    "display_name": "Bracket Oximus Lynx 2232",
+    "name": "Bracket-Oximus-Lynx-2232",
+    "code": 170602
+  },
+  {
+    "price": 3140000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/b8aae019-35d7-432f-9449-d6029ee0b6c2.png",
+    "display_name": "ViewSonic 16\" VG1655 Portable LED",
+    "name": "ViewSonic-16-VG1655-Portable-LED",
+    "code": 170633
+  },
+  {
+    "price": 5919000,
+    "image": null,
+    "display_name": "Lenovo G34w-10 34\" Curved Gaming Monitor",
+    "name": "Lenovo-G34w-10-34-Curved-Gaming-Monitor",
+    "code": 170686
+  },
+  {
+    "price": 3830000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/29/8c754227-0702-4228-8b96-4719c81d7c73.png",
+    "display_name": "AOC 27\" CQ27G2 Curved Gaming Monitor 144Hz",
+    "name": "AOC-27-CQ27G2-Curved-Gaming-Monitor-144Hz",
+    "code": 170727
+  },
+  {
+    "price": 4390000,
+    "image": null,
+    "display_name": "AOC AGON III 27\" AG273FXR Premium Gaming Monitor 144Hz IPS",
+    "name": "AOC-AGON-III-27-AG273FXR-Premium-Gaming-Monitor-144Hz-IPS",
+    "code": 170729
+  },
+  {
+    "price": 3120000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/3/16/f0f55a2d-2d15-42ce-9aef-b0d2d4210641.png",
+    "display_name": "AOC 24\" Q24P2C QHD 75Hz IPS",
+    "name": "AOC-24-Q24P2C-QHD-75Hz-IPS",
+    "code": 170731
+  },
+  {
+    "price": 16030000,
+    "image": null,
+    "display_name": "SAMSUNG 49\" C49RG90 Curved QLED Gaming Monitor",
+    "name": "SAMSUNG-49-C49RG90-Curved-QLED-Gaming-Monitor",
+    "code": 170870
+  },
+  {
+    "price": 970000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/5/3/694829d5-8727-4ab8-b6a7-896aa41bd885.png",
+    "display_name": "SAMSUNG 18,5\" S19A330 LED - HDMI",
+    "name": "SAMSUNG-185-S19A330-LED-HDMI",
+    "code": 170872
+  },
+  {
+    "price": 235000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/5/dd61c496-2755-4f87-acef-bf6e34ba80a3.jpg",
+    "display_name": "Bracket North Bayou H80 17\" - 27\"",
+    "name": "Bracket-North-Bayou-H80-17-27",
+    "code": 170898
+  },
+  {
+    "price": 1755000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/4/6/0fe5917e-7458-455c-847e-425c0841068f.png",
+    "display_name": "ACER 23.8\" KA242Y Frameless Gaming Monitor",
+    "name": "ACER-238-KA242Y-Frameless-Gaming-Monitor",
+    "code": 170994
+  },
+  {
+    "price": 3720000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/4/6/fdeafa19-aa38-4dad-86d8-653dde4cdbb4.png",
+    "display_name": "ViewSonic 24\" TD2423 Touchscreen",
+    "name": "ViewSonic-24-TD2423-Touchscreen",
+    "code": 171006
+  },
+  {
+    "price": 3150000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/28/839b58fd-eb0b-4e30-acd0-bb5479db4ebc.png",
+    "display_name": "ViewSonic 31.5\" VX3218-PC-MHD 165Hz FHD Curved Gaming Monitor",
+    "name": "ViewSonic-315-VX3218-PC-MHD-165Hz-FHD-Curved-Gaming-Monitor",
+    "code": 171007
+  },
+  {
+    "price": 4450000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/7/12/973494e2-9a93-4582-9244-805564f5e882.jpg",
+    "display_name": "ViewSonic 31.5\" VX3268-2KPC-MHD 144Hz QHD Curved Gaming Monitor",
+    "name": "ViewSonic-315-VX3268-2KPC-MHD-144Hz-QHD-Curved-Gaming-Monitor",
+    "code": 171008
+  },
+  {
+    "price": 7630000,
+    "image": null,
+    "display_name": "HP P34HC G4 WQHD USB-C Curved Monitor",
+    "name": "HP-P34HC-G4-WQHD-USB-C-Curved-Monitor",
+    "code": 171024
+  },
+  {
+    "price": 10550000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/5d276d29-ad61-4859-b927-f2d8833a726b.jpg",
+    "display_name": "ASUS ROG Strix XG32VC 31.5\" WQHD Gaming Monitor 170Hz",
+    "name": "ASUS-ROG-Strix-XG32VC-315-WQHD-Gaming-Monitor-170Hz",
+    "code": 171048
+  },
+  {
+    "price": 11090000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/967085aa-d8ef-4eeb-9ebc-41ffd97c8e2d.jpg",
+    "display_name": "ASUS ROG Strix XG17AHP 17.3\" Portable USB Type-C IPS Gaming Monitor 240Hz",
+    "name": "ASUS-ROG-Strix-XG17AHP-173-Portable-USB-Type-C-IPS-Gaming-Monitor-240Hz",
+    "code": 171049
+  },
+  {
+    "price": 3190000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/2ffc9e74-6911-4809-b704-168c0f96828f.jpg",
+    "display_name": "ASUS TUF Gaming VG259QR 24.5\" IPS Gaming Monitor 165Hz",
+    "name": "ASUS-TUF-Gaming-VG259QR-245-IPS-Gaming-Monitor-165Hz",
+    "code": 171051
+  },
+  {
+    "price": 2365000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/b22bce96-b43d-45ae-9332-7256679d862b.jpg",
+    "display_name": "ASUS TUF Gaming VG249Q1A 23.8\" IPS Gaming Monitor 165Hz",
+    "name": "ASUS-TUF-Gaming-VG249Q1A-238-IPS-Gaming-Monitor-165Hz",
+    "code": 171052
+  },
+  {
+    "price": 2230000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/033d5e3b-0e1d-49ef-93a5-6b9db5ababab.png",
+    "display_name": "ASUS VP229HE 21.5\" FHD IPS Frameless 75Hz",
+    "name": "ASUS-VP229HE-215-FHD-IPS-Frameless-75Hz",
+    "code": 171056
+  },
+  {
+    "price": 1750000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/4/14/e6d2bcc3-7d35-4c29-ac3c-171c76119ad6.png",
+    "display_name": "ASUS VY249HE 23.8\" FHD IPS 75Hz",
+    "name": "ASUS-VY249HE-238-FHD-IPS-75Hz",
+    "code": 171057
+  },
+  {
+    "price": 3050000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/4/21/65f9ba17-92cf-4caa-b5d5-7595a9992df4.png",
+    "display_name": "ASUS VY279HE 27\" FHD IPS 75Hz",
+    "name": "ASUS-VY279HE-27-FHD-IPS-75Hz",
+    "code": 171058
+  },
+  {
+    "price": 2990000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/4/3c7b9f4c-e65d-46e5-9084-747d3aacc6c6.png",
+    "display_name": "LG 29\" LED 29WP60G - UltraWide IPS Gaming Monitor With AMD FreeSync",
+    "name": "LG-29-LED-29WP60G-UltraWide-IPS-Gaming-Monitor-With-AMD-FreeSync",
+    "code": 171060
+  },
+  {
+    "price": 3060000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/3/370e39b8-280c-41c9-b607-cfbb92535503.png",
+    "display_name": "Gigabyte G27FC A 2\u200e7\" FHD Curved Gaming Monitor 165Hz",
+    "name": "Gigabyte-G27FC-A-27-FHD-Curved-Gaming-Monitor-165Hz",
+    "code": 171100
+  },
+  {
+    "price": 11240000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/26/0a51fb6f-836b-450c-a382-bb5fc84f0906.jpg",
+    "display_name": "Gigabyte Aorus FI32Q 3\u200e1.5\" Gaming Monitor",
+    "name": "Gigabyte-Aorus-FI32Q-315-Gaming-Monitor",
+    "code": 171102
+  },
+  {
+    "price": 10305000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/26/3217c752-4550-4132-8cf8-227678318330.jpg",
+    "display_name": "Gigabyte Aorus FI27Q-X 2\u200e7\" Gaming Monitor",
+    "name": "Gigabyte-Aorus-FI27Q-X-27-Gaming-Monitor",
+    "code": 171103
+  },
+  {
+    "price": 17460000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/26/a08d8ec3-e5f7-4558-bac7-a1141f3e269e.jpg",
+    "display_name": "Gigabyte Aorus FV43U 43.4\" Gaming Monitor",
+    "name": "Gigabyte-Aorus-FV43U-434-Gaming-Monitor",
+    "code": 171104
+  },
+  {
+    "price": 279000,
+    "image": null,
+    "display_name": "Oximus Bracket Hydra-ZL1102 13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZL1102-13-27",
+    "code": 171137
+  },
+  {
+    "price": 2180000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/7/aa729aac-38a2-45fc-a976-e0229c5c9a2c.png",
+    "display_name": "LG 27\" LED 27MP500 Gaming Monitor",
+    "name": "LG-27-LED-27MP500-Gaming-Monitor",
+    "code": 171230
+  },
+  {
+    "price": 4590000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/14/2d98a537-bc0b-4268-b289-e7633dd3d228.jpg",
+    "display_name": "MSI Optix G32C4 31.5\" Curved Gaming Monitor",
+    "name": "MSI-Optix-G32C4-315-Curved-Gaming-Monitor",
+    "code": 171286
+  },
+  {
+    "price": 9839000,
+    "image": null,
+    "display_name": "MSI Creator PS321QR 32\" WQHD LED",
+    "name": "MSI-Creator-PS321QR-32-WQHD-LED",
+    "code": 171287
+  },
+  {
+    "price": 3275000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/5/3/704b1c61-4e2a-4883-b9cd-441dedc01af9.png",
+    "display_name": "ViewSonic 22\" TD2223 Touchscreen",
+    "name": "ViewSonic-22-TD2223-Touchscreen",
+    "code": 171294
+  },
+  {
+    "price": 2655000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/5/18/861f3a98-982f-45c4-bbf3-c540843f806c.png",
+    "display_name": "LG 29\" LED 29WP500B - UltraWide IPS Gaming Monitor With AMD FreeSync",
+    "name": "LG-29-LED-29WP500B-UltraWide-IPS-Gaming-Monitor-With-AMD-FreeSync",
+    "code": 171523
+  },
+  {
+    "price": 4699000,
+    "image": null,
+    "display_name": "MSI Optix G273QF 27\" Gaming Monitor 165Hz",
+    "name": "MSI-Optix-G273QF-27-Gaming-Monitor-165Hz",
+    "code": 171683
+  },
+  {
+    "price": 2355000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/3/988b6b6e-4c46-4928-87f1-4af5b2a5d6e8.png",
+    "display_name": "ViewSonic 24\" VX2418-P-MHD Gaming 165Hz",
+    "name": "ViewSonic-24-VX2418-P-MHD-Gaming-165Hz",
+    "code": 171719
+  },
+  {
+    "price": 5550000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/26/a480d3eb-f503-43e1-a486-3984be033a9c.jpg",
+    "display_name": "Gigabyte G32QC A 3\u200e1.5\" Curved Gaming Monitor",
+    "name": "Gigabyte-G32QC-A-315-Curved-Gaming-Monitor",
+    "code": 171775
+  },
+  {
+    "price": 9880000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/26/461247b8-bab6-49c9-95d5-6fce262b4149.jpg",
+    "display_name": "Gigabyte M28U 28\" UHD IPS Gaming Monitor 144Hz",
+    "name": "Gigabyte-M28U-28-UHD-IPS-Gaming-Monitor-144Hz",
+    "code": 171776
+  },
+  {
+    "price": 2920000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/9/9384f6da-6e2a-4545-9f57-99a04772d995.png",
+    "display_name": "LG 23.8\" 24QP500-B QHD IPS 75Hz with AMD FreeSync",
+    "name": "LG-238-24QP500-B-QHD-IPS-75Hz-with-AMD-FreeSync",
+    "code": 171876
+  },
+  {
+    "price": 1560000,
+    "image": null,
+    "display_name": "LG 28\" LED 28TL430V - Built In TV Tuner",
+    "name": "LG-28-LED-28TL430V-Built-In-TV-Tuner",
+    "code": 171878
+  },
+  {
+    "price": 3690000,
+    "image": null,
+    "display_name": "LG 43\" 43LM5750 Smart TV",
+    "name": "LG-43-43LM5750-Smart-TV",
+    "code": 171879
+  },
+  {
+    "price": 310000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/1/279e080f-ea55-4fff-8dd7-4d2efc3ed601.jpg",
+    "display_name": "Oximus Bracket Hydra-ZD1124",
+    "name": "Oximus-Bracket-Hydra-ZD1124",
+    "code": 171926
+  },
+  {
+    "price": 4935000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/16/db066b69-21d6-48f9-af68-053dd0b84e8c.jpg",
+    "display_name": "LG 27\" LED 27UP600 UHD 4K IPS Panel",
+    "name": "LG-27-LED-27UP600-UHD-4K-IPS-Panel",
+    "code": 171927
+  },
+  {
+    "price": 6545000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/30/eed694fb-356e-4c83-9776-03298fa3959f.jpg",
+    "display_name": "LG 27\" LED 27GP850 QHD IPS - Response Time 1ms",
+    "name": "LG-27-LED-27GP850-QHD-IPS-Response-Time-1ms",
+    "code": 171977
+  },
+  {
+    "price": 4980000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/4c8075b3-6ae8-4913-86b0-0d63ccbc632f.jpg",
+    "display_name": "LG 34\" 34WP65G-B UltraWide FHD IPS 75Hz FreeSync Monitor with USB Type-C",
+    "name": "LG-34-34WP65G-B-UltraWide-FHD-IPS-75Hz-FreeSync-Monitor-with-USB-Type-C",
+    "code": 171983
+  },
+  {
+    "price": 3875000,
+    "image": null,
+    "display_name": "Acer 27\" Nitro VG272 LV Gaming Monitor 165Hz",
+    "name": "Acer-27-Nitro-VG272-LV-Gaming-Monitor-165Hz",
+    "code": 172032
+  },
+  {
+    "price": 5250000,
+    "image": null,
+    "display_name": "Acer 27\" Nitro XV272U P Gaming Monitor 144Hz",
+    "name": "Acer-27-Nitro-XV272U-P-Gaming-Monitor-144Hz",
+    "code": 172033
+  },
+  {
+    "price": 3420000,
+    "image": null,
+    "display_name": "AOC 15.6\" 16T2 Portable LED Touchscreen",
+    "name": "AOC-156-16T2-Portable-LED-Touchscreen",
+    "code": 172037
+  },
+  {
+    "price": 3490000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/c0c1057c-52a8-4750-9a03-02ee7e70e458.png",
+    "display_name": "AOC 27\" C27G2Z Curved Gaming Monitor 240Hz",
+    "name": "AOC-27-C27G2Z-Curved-Gaming-Monitor-240Hz",
+    "code": 172038
+  },
+  {
+    "price": 2780000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/a64a4718-e1fd-4c70-8e4c-6cd23fa0f26b.png",
+    "display_name": "AOC 27\" G2790VXA Gaming Monitor 144Hz",
+    "name": "AOC-27-G2790VXA-Gaming-Monitor-144Hz",
+    "code": 172039
+  },
+  {
+    "price": 13359000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/16/5b4e18cd-071d-49e4-9cfd-4b8c9a2a70e0.jpg",
+    "display_name": "ASUS ROG Swift PG259QNR 24.5\" Fast IPS Gaming Monitor 360Hz",
+    "name": "ASUS-ROG-Swift-PG259QNR-245-Fast-IPS-Gaming-Monitor-360Hz",
+    "code": 172089
+  },
+  {
+    "price": 11750000,
+    "image": null,
+    "display_name": "ASUS ProArt PA279CV 27\" 4K UHD IPS Professional Monitor",
+    "name": "ASUS-ProArt-PA279CV-27-4K-UHD-IPS-Professional-Monitor",
+    "code": 172091
+  },
+  {
+    "price": 1635000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/19/02ac2664-4c19-4e23-bc29-c68724d9acf0.png",
+    "display_name": "LG 24\" 24MP60G-B FHD IPS 75Hz with AMD FreeSync",
+    "name": "LG-24-24MP60G-B-FHD-IPS-75Hz-with-AMD-FreeSync",
+    "code": 172120
+  },
+  {
+    "price": 12679000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/b3263a85-c17c-45e1-968c-a4899bf21727.jpg",
+    "display_name": "ASUS ROG Swift PG259QN 24.5\" Fast IPS Gaming Monitor 360Hz",
+    "name": "ASUS-ROG-Swift-PG259QN-245-Fast-IPS-Gaming-Monitor-360Hz",
+    "code": 172276
+  },
+  {
+    "price": 22790000,
+    "image": null,
+    "display_name": "ASUS ROG Strix XG43UQ 43\" 4K UHD Gaming Monitor 144Hz",
+    "name": "ASUS-ROG-Strix-XG43UQ-43-4K-UHD-Gaming-Monitor-144Hz",
+    "code": 172277
+  },
+  {
+    "price": 3125000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/3/68a31995-8da5-4e0f-80e0-bdc6e3577f98.jpg",
+    "display_name": "LG 31.5\" 32MP60G-B FHD IPS 75Hz with AMD FreeSync",
+    "name": "LG-315-32MP60G-B-FHD-IPS-75Hz-with-AMD-FreeSync",
+    "code": 172304
+  },
+  {
+    "price": 1485000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/671bde65-a7e6-4523-ba78-6e28fa650ca1.png",
+    "display_name": "LG 23.8\" 24MP400-B FHD IPS 75Hz with AMD FreeSync",
+    "name": "LG-238-24MP400-B-FHD-IPS-75Hz-with-AMD-FreeSync",
+    "code": 172348
+  },
+  {
+    "price": 3490000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/25/4f70e0de-3f8c-4326-8bb7-b7471a938b3e.jpg",
+    "display_name": "ASUS TUF Gaming VG279QR 27\" IPS Gaming Monitor 165Hz",
+    "name": "ASUS-TUF-Gaming-VG279QR-27-IPS-Gaming-Monitor-165Hz",
+    "code": 172475
+  },
+  {
+    "price": 2280000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/7/7da01a04-9fe7-48a1-8f85-bafebcd75dd8.jpg",
+    "display_name": "MSI Modern MD241P 23.8\" FHD IPS 75hz",
+    "name": "MSI-Modern-MD241P-238-FHD-IPS-75hz",
+    "code": 172567
+  },
+  {
+    "price": 3729000,
+    "image": null,
+    "display_name": "MSI Modern MD271P 27\" FHD IPS 75hz",
+    "name": "MSI-Modern-MD271P-27-FHD-IPS-75hz",
+    "code": 172568
+  },
+  {
+    "price": 4245000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/24/59d0c4ea-1659-4046-af8e-960297c42e63.jpg",
+    "display_name": "ASUS ZenScreen Touch MB14AC 14\" Portable USB Type-C FHD IPS Monitor",
+    "name": "ASUS-ZenScreen-Touch-MB14AC-14-Portable-USB-Type-C-FHD-IPS-Monitor",
+    "code": 172658
+  },
+  {
+    "price": 6800000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/25/f6c8a0fe-8424-4c4a-8d7a-1a2bb1cd47d0.jpg",
+    "display_name": "LG 31.5\" 32GP850-B UltraGear QHD Nano IPS Gaming Monitor 165Hz",
+    "name": "LG-315-32GP850-B-UltraGear-QHD-Nano-IPS-Gaming-Monitor-165Hz",
+    "code": 172673
+  },
+  {
+    "price": 6565000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/18/b8b92edf-2afa-442a-a74d-47c17c77eb35.jpg",
+    "display_name": "SAMSUNG 34\" S34A650 Ultra WQHD Professional Curved Monitor with USB-C",
+    "name": "SAMSUNG-34-S34A650-Ultra-WQHD-Professional-Curved-Monitor-with-USB-C",
+    "code": 172677
+  },
+  {
+    "price": 5115000,
+    "image": null,
+    "display_name": "SAMSUNG 27\" S27A800 4K UHD Monitor",
+    "name": "SAMSUNG-27-S27A800-4K-UHD-Monitor",
+    "code": 172678
+  },
+  {
+    "price": 4655000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/7/12/a96c1b06-7cff-42e5-bd38-dcb5a1d3d781.jpg",
+    "display_name": "SAMSUNG 27\" S27A700 4K UHD Monitor",
+    "name": "SAMSUNG-27-S27A700-4K-UHD-Monitor",
+    "code": 172679
+  },
+  {
+    "price": 48790000,
+    "image": null,
+    "display_name": "ASUS ROG Swift PG32UQX 32\" 4K UHD IPS Gaming Monitor 144Hz",
+    "name": "ASUS-ROG-Swift-PG32UQX-32-4K-UHD-IPS-Gaming-Monitor-144Hz",
+    "code": 172748
+  },
+  {
+    "price": 12390000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/c9483474-26b0-4b94-945e-96d8ceb01a07.jpg",
+    "display_name": "ASUS TUF Gaming VG28UQL1A 28\" 4K UHD Fast IPS Gaming Monitor 144Hz",
+    "name": "ASUS-TUF-Gaming-VG28UQL1A-28-4K-UHD-Fast-IPS-Gaming-Monitor-144Hz",
+    "code": 172749
+  },
+  {
+    "price": 55900000,
+    "image": null,
+    "display_name": "ASUS ProArt PA32UCX-P 32\" 4K HDR IPS Mini Professional Monitor",
+    "name": "ASUS-ProArt-PA32UCX-P-32-4K-HDR-IPS-Mini-Professional-Monitor",
+    "code": 172750
+  },
+  {
+    "price": 17090000,
+    "image": null,
+    "display_name": "ASUS ProArt PA329CV 32\" 4K UHD IPS Professional Monitor",
+    "name": "ASUS-ProArt-PA329CV-32-4K-UHD-IPS-Professional-Monitor",
+    "code": 172751
+  },
+  {
+    "price": 40890000,
+    "image": null,
+    "display_name": "ASUS ProArt PA27UCX-K 4K HDR IPS Mini Professional Monitor",
+    "name": "ASUS-ProArt-PA27UCX-K-4K-HDR-IPS-Mini-Professional-Monitor",
+    "code": 172752
+  },
+  {
+    "price": 5270000,
+    "image": null,
+    "display_name": "ASUS ProArt PA247CV 23.8\" FHD IPS Professional Monitor",
+    "name": "ASUS-ProArt-PA247CV-238-FHD-IPS-Professional-Monitor",
+    "code": 172753
+  },
+  {
+    "price": 8590000,
+    "image": null,
+    "display_name": "ASUS ROG Strix XG16AHP-W 15.6\" Portable USB Type-C IPS Gaming Monitor 144Hz",
+    "name": "ASUS-ROG-Strix-XG16AHP-W-156-Portable-USB-Type-C-IPS-Gaming-Monitor-144Hz",
+    "code": 172786
+  },
+  {
+    "price": 7890000,
+    "image": null,
+    "display_name": "ASUS ROG Strix XG16AHPE-W 15.6\" Portable USB Type-C IPS Gaming Monitor 144Hz",
+    "name": "ASUS-ROG-Strix-XG16AHPE-W-156-Portable-USB-Type-C-IPS-Gaming-Monitor-144Hz",
+    "code": 172787
+  },
+  {
+    "price": 1550000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/8/24/dc6046a1-0a29-423c-8320-aabe0499f95a.png",
+    "display_name": "ASUS VZ24EHE 23.8\" FHD IPS Frameless 75Hz",
+    "name": "ASUS-VZ24EHE-238-FHD-IPS-Frameless-75Hz",
+    "code": 172788
+  },
+  {
+    "price": 3360000,
+    "image": null,
+    "display_name": "ASUS VZ27EHE 27\" FHD IPS Frameless 75Hz",
+    "name": "ASUS-VZ27EHE-27-FHD-IPS-Frameless-75Hz",
+    "code": 172789
+  },
+  {
+    "price": 13990000,
+    "image": null,
+    "display_name": "ASUS ROG Strix XG27AQM 27\" WQHD HDR Fast IPS Gaming Monitor 270Hz",
+    "name": "ASUS-ROG-Strix-XG27AQM-27-WQHD-HDR-Fast-IPS-Gaming-Monitor-270Hz",
+    "code": 172790
+  },
+  {
+    "price": 7290000,
+    "image": null,
+    "display_name": "ASUS TUF Gaming VG32VQ1B 31.5\" WQHD Curved Gaming Monitor 165Hz",
+    "name": "ASUS-TUF-Gaming-VG32VQ1B-315-WQHD-Curved-Gaming-Monitor-165Hz",
+    "code": 172791
+  },
+  {
+    "price": 3685000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/d8dbf829-7cea-4b04-af59-41b53f440a7c.jpg",
+    "display_name": "AOC 23.8\" 24G2Z Frameless Gaming Monitor 240Hz",
+    "name": "AOC-238-24G2Z-Frameless-Gaming-Monitor-240Hz",
+    "code": 172952
+  },
+  {
+    "price": 1870000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/9e5799b8-23b4-403f-a76c-ba78c96a717d.png",
+    "display_name": "HP 23.8\" M24fwa FHD IPS Monitor 75Hz",
+    "name": "HP-238-M24fwa-FHD-IPS-Monitor-75Hz",
+    "code": 172959
+  },
+  {
+    "price": 1559000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/e9d61803-4a10-4c0d-b1f7-d7b4e3ae8c80.jpg",
+    "display_name": "Lenovo L22e-30 21.5\" FHD Edgeless Design 75Hz",
+    "name": "Lenovo-L22e-30-215-FHD-Edgeless-Design-75Hz",
+    "code": 173137
+  },
+  {
+    "price": 3848000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/716116a7-a298-443d-a418-03d3cc04bcc0.jpg",
+    "display_name": "Acer 23.8\" Nitro VG241Y X Gaming Monitor 270Hz",
+    "name": "Acer-238-Nitro-VG241Y-X-Gaming-Monitor-270Hz",
+    "code": 173190
+  },
+  {
+    "price": 3840000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/e7324d16-0e12-452c-b29a-1273f0a388c9.png",
+    "display_name": "Acer 24.5\" Nitro VG252Q X Gaming Monitor 240Hz",
+    "name": "Acer-245-Nitro-VG252Q-X-Gaming-Monitor-240Hz",
+    "code": 173191
+  },
+  {
+    "price": 2030000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/30/5e5c307c-8e56-4229-9f40-406b3bc38642.jpg",
+    "display_name": "Philips 242E2FE 23.8\" FHD IPS 75Hz",
+    "name": "Philips-242E2FE-238-FHD-IPS-75Hz",
+    "code": 173202
+  },
+  {
+    "price": 3885000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/6/1c63628b-ed7d-4a0b-861b-b6ee8b583f8b.jpg",
+    "display_name": "DELL 27\" P2722H",
+    "name": "DELL-27-P2722H",
+    "code": 173259
+  },
+  {
+    "price": 2500000,
+    "image": null,
+    "display_name": "Philips 242E2FE93 23.8\" FHD IPS 75Hz",
+    "name": "Philips-242E2FE93-238-FHD-IPS-75Hz",
+    "code": 173274
+  },
+  {
+    "price": 2900000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/30/fb467400-d977-44b3-8e87-c78432e7bf0d.jpg",
+    "display_name": "Philips 275E2FE 27\" QHD IPS 75Hz",
+    "name": "Philips-275E2FE-27-QHD-IPS-75Hz",
+    "code": 173275
+  },
+  {
+    "price": 5515000,
+    "image": null,
+    "display_name": "ViewSonic 27\" VP2785-2K IPS WQHD Profesional Monitor",
+    "name": "ViewSonic-27-VP2785-2K-IPS-WQHD-Profesional-Monitor",
+    "code": 173287
+  },
+  {
+    "price": 2735000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/30/e7474d72-7fcb-4138-844b-d7ab8c66760c.jpg",
+    "display_name": "LG 27\" 27MP60G-B FHD IPS 75Hz with AMD FreeSync",
+    "name": "LG-27-27MP60G-B-FHD-IPS-75Hz-with-AMD-FreeSync",
+    "code": 173316
+  },
+  {
+    "price": 3050000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/942c089a-d625-4fc8-84ce-74e16c3f6a1e.png",
+    "display_name": "DELL 24\" P2422H LED",
+    "name": "DELL-24-P2422H-LED",
+    "code": 173419
+  },
+  {
+    "price": 3880000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/94c10a83-7b2c-492d-abfc-5d2c42b90ec9.png",
+    "display_name": "DELL 24\" U2422H UltraSharp",
+    "name": "DELL-24-U2422H-UltraSharp",
+    "code": 173420
+  },
+  {
+    "price": 1510000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/6de3af11-f470-4956-80cf-678e0d91c530.png",
+    "display_name": "ASUS VX207DE - 19.5\"",
+    "name": "ASUS-VX207DE-195",
+    "code": 173486
+  },
+  {
+    "price": 4350000,
+    "image": null,
+    "display_name": "ViewSonic 24\" XG2431 FHD IPS 240Hz Gaming Monitor",
+    "name": "ViewSonic-24-XG2431-FHD-IPS-240Hz-Gaming-Monitor",
+    "code": 173499
+  },
+  {
+    "price": 1510000,
+    "image": null,
+    "display_name": "Lenovo L24e-30 23.8\" LED",
+    "name": "Lenovo-L24e-30-238-LED",
+    "code": 173517
+  },
+  {
+    "price": 3890000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/26/a2b7bd0c-db4b-4045-81d9-0344535cc59e.jpg",
+    "display_name": "BenQ MOBIUZ 27\" EX2710S FHD IPS Gaming Monitor 165Hz",
+    "name": "BenQ-MOBIUZ-27-EX2710S-FHD-IPS-Gaming-Monitor-165Hz",
+    "code": 173571
+  },
+  {
+    "price": 20790000,
+    "image": null,
+    "display_name": "ASUS ROG Swift PG32UQ 32\" 4K UHD IPS Gaming Monitor 144Hz",
+    "name": "ASUS-ROG-Swift-PG32UQ-32-4K-UHD-IPS-Gaming-Monitor-144Hz",
+    "code": 173572
+  },
+  {
+    "price": 17290000,
+    "image": null,
+    "display_name": "ASUS ROG Swift PG279QM 27\" QHD Fast IPS Gaming Monitor 240Hz",
+    "name": "ASUS-ROG-Swift-PG279QM-27-QHD-Fast-IPS-Gaming-Monitor-240Hz",
+    "code": 173573
+  },
+  {
+    "price": 5390000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/7/12/0d34b6d3-5c99-4dbd-9c7d-c965aeeb35a2.jpg",
+    "display_name": "Xiaomi Mi 34\" WQHD Curved Gaming Monitor 144Hz",
+    "name": "Xiaomi-Mi-34-WQHD-Curved-Gaming-Monitor-144Hz",
+    "code": 173583
+  },
+  {
+    "price": 2650000,
+    "image": null,
+    "display_name": "DELL 21.5\" P2222H",
+    "name": "DELL-215-P2222H",
+    "code": 173659
+  },
+  {
+    "price": 1470000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/26/577cc039-a1ad-47d4-ba7e-6bcb441b5a3e.jpg",
+    "display_name": "Lenovo L24i-30 23.8\" FHD IPS Edgeless Design 75Hz",
+    "name": "Lenovo-L24i-30-238-FHD-IPS-Edgeless-Design-75Hz",
+    "code": 173662
+  },
+  {
+    "price": 7195000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/14/3a659a01-6f5a-45cc-8c67-cd4c0aaca15c.jpg",
+    "display_name": "LG 27\" LED 27UP850 UHD 4K IPS Panel",
+    "name": "LG-27-LED-27UP850-UHD-4K-IPS-Panel",
+    "code": 173702
+  },
+  {
+    "price": 2075000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/25/afd7b558-8a0a-40c3-a089-8b0cdc99e7d3.jpg",
+    "display_name": "LG 27\" 27MP400-B FHD IPS 75Hz with AMD FreeSync",
+    "name": "LG-27-27MP400-B-FHD-IPS-75Hz-with-AMD-FreeSync",
+    "code": 173898
+  },
+  {
+    "price": 2270000,
+    "image": null,
+    "display_name": "Acer 27\" KA272 Gaming Monitor",
+    "name": "Acer-27-KA272-Gaming-Monitor",
+    "code": 173915
+  },
+  {
+    "price": 6725000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/29/61d78c4e-2013-4aab-9bde-4dbc0785ca6d.jpg",
+    "display_name": "AOC 34\" CU34G3S WQHD 165Hz Curved Gaming Monitor",
+    "name": "AOC-34-CU34G3S-WQHD-165Hz-Curved-Gaming-Monitor",
+    "code": 173920
+  },
+  {
+    "price": 9150000,
+    "image": null,
+    "display_name": "Dell UltraSharp U2722DE 27\" QHD USB-C Hub Monitor",
+    "name": "Dell-UltraSharp-U2722DE-27-QHD-USB-C-Hub-Monitor",
+    "code": 174057
+  },
+  {
+    "price": 4715000,
+    "image": null,
+    "display_name": "Lenovo G27q-20 27\" QHD IPS 165Hz Gaming Monitor",
+    "name": "Lenovo-G27q-20-27-QHD-IPS-165Hz-Gaming-Monitor",
+    "code": 174091
+  },
+  {
+    "price": 2920000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/10/b9143c3c-25c9-48f8-a837-846d4cf9fed2.jpg",
+    "display_name": "Lenovo G24-20 23.8\" FHD IPS 144Hz Gaming Monitor",
+    "name": "Lenovo-G24-20-238-FHD-IPS-144Hz-Gaming-Monitor",
+    "code": 174092
+  },
+  {
+    "price": 4875000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/10/c30e2616-8499-4a12-a528-a5b59f54944d.jpg",
+    "display_name": "ASUS ZenScreen Touch MB16AH 15.6\" Portable USB Type-C FHD IPS Monitor",
+    "name": "ASUS-ZenScreen-Touch-MB16AH-156-Portable-USB-Type-C-FHD-IPS-Monitor",
+    "code": 174161
+  },
+  {
+    "price": 2395000,
+    "image": null,
+    "display_name": "SAMSUNG 24\" S24A400 FHD Professional Monitor with 2MP Webcam",
+    "name": "SAMSUNG-24-S24A400-FHD-Professional-Monitor-with-2MP-Webcam",
+    "code": 174373
+  },
+  {
+    "price": 2329000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/16/4f986080-8595-4003-bd38-c88171c1ac14.jpg",
+    "display_name": "MSI Optix G241V E2 23.8\" FHD IPS Gaming Monitor 75Hz",
+    "name": "MSI-Optix-G241V-E2-238-FHD-IPS-Gaming-Monitor-75Hz",
+    "code": 174387
+  },
+  {
+    "price": 6849000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/15/c350468f-9436-4e69-94e1-acb2069e2969.jpg",
+    "display_name": "MSI MAG ARTYMIS 274CP 27\" FHD Curved Gaming Monitor 165Hz",
+    "name": "MSI-MAG-ARTYMIS-274CP-27-FHD-Curved-Gaming-Monitor-165Hz",
+    "code": 174388
+  },
+  {
+    "price": 5999000,
+    "image": null,
+    "display_name": "MSI MPG ARTYMIS 273CQR 27\" WQHD Curved Gaming Monitor 165Hz",
+    "name": "MSI-MPG-ARTYMIS-273CQR-27-WQHD-Curved-Gaming-Monitor-165Hz",
+    "code": 174389
+  },
+  {
+    "price": 4569000,
+    "image": null,
+    "display_name": "MSI MAG ARTYMIS 324CP 31.5\" FHD Curved Gaming Monitor 165Hz",
+    "name": "MSI-MAG-ARTYMIS-324CP-315-FHD-Curved-Gaming-Monitor-165Hz",
+    "code": 174390
+  },
+  {
+    "price": 2910000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/19/b09425fb-6059-4969-b3e0-1f6c337c1865.jpg",
+    "display_name": "MSI MAG ARTYMIS 242C 23.6\" FHD Curved Gaming Monitor 165Hz",
+    "name": "MSI-MAG-ARTYMIS-242C-236-FHD-Curved-Gaming-Monitor-165Hz",
+    "code": 174421
+  },
+  {
+    "price": 12435000,
+    "image": null,
+    "display_name": "MSI MPG ARTYMIS 323CQR 31.5\" WQHD Curved Gaming Monitor 165Hz",
+    "name": "MSI-MPG-ARTYMIS-323CQR-315-WQHD-Curved-Gaming-Monitor-165Hz",
+    "code": 174422
+  },
+  {
+    "price": 12690000,
+    "image": null,
+    "display_name": "MSI MPG ARTYMIS 343CQR 34\" UWQHD Curved Gaming Monitor 165Hz",
+    "name": "MSI-MPG-ARTYMIS-343CQR-34-UWQHD-Curved-Gaming-Monitor-165Hz",
+    "code": 174423
+  },
+  {
+    "price": 179000,
+    "image": null,
+    "display_name": "Oximus Bracket CB-762 26\" - 55\"",
+    "name": "Oximus-Bracket-CB-762-26-55",
+    "code": 174481
+  },
+  {
+    "price": 1020000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/3/32c816b3-4b76-477a-820a-021207fbb118.jpg",
+    "display_name": "Philips 221V8 21.5\" LED",
+    "name": "Philips-221V8-215-LED",
+    "code": 174551
+  },
+  {
+    "price": 1150000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/23/10008f31-c78a-4ab8-a632-cf4cdd756afa.jpg",
+    "display_name": "ViewSonic 21.5\" VA2215-H 75Hz FHD",
+    "name": "ViewSonic-215-VA2215-H-75Hz-FHD",
+    "code": 174608
+  },
+  {
+    "price": 3850000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/14/932bbe18-c9cf-4825-8038-55122b03b686.jpg",
+    "display_name": "ViewSonic 31.5\" VX3276-2K-MHD-2 75Hz QHD IPS Entertainment Monitor",
+    "name": "ViewSonic-315-VX3276-2K-MHD-2-75Hz-QHD-IPS-Entertainment-Monitor",
+    "code": 174657
+  },
+  {
+    "price": 2085000,
+    "image": null,
+    "display_name": "Lenovo L27i-30 27\" FHD IPS Edgeless Design 75Hz",
+    "name": "Lenovo-L27i-30-27-FHD-IPS-Edgeless-Design-75Hz",
+    "code": 174658
+  },
+  {
+    "price": 4195000,
+    "image": null,
+    "display_name": "Lenovo Q27h-10 27\" QHD IPS Edgeless Design 75Hz",
+    "name": "Lenovo-Q27h-10-27-QHD-IPS-Edgeless-Design-75Hz",
+    "code": 174659
+  },
+  {
+    "price": 4550000,
+    "image": null,
+    "display_name": "LG 31.5\" 32GN650 UltraGear QHD Gaming Monitor 165Hz",
+    "name": "LG-315-32GN650-UltraGear-QHD-Gaming-Monitor-165Hz",
+    "code": 174873
+  },
+  {
+    "price": 4040000,
+    "image": null,
+    "display_name": "Philips 242B9T 23.8\" FHD IPS Touchscreen",
+    "name": "Philips-242B9T-238-FHD-IPS-Touchscreen",
+    "code": 174997
+  },
+  {
+    "price": 1430000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/7/4260c588-7b7d-4f0e-9fe7-c74812b30a22.jpg",
+    "display_name": "Xiaomi Mi 1C 23.8\" FHD IPS Bezel-less Design",
+    "name": "Xiaomi-Mi-1C-238-FHD-IPS-Bezel-less-Design",
+    "code": 174998
+  },
+  {
+    "price": 609000,
+    "image": null,
+    "display_name": "Oximus Bracket Hydra-ZL1123 13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZL1123-13-27",
+    "code": 175021
+  },
+  {
+    "price": 4969000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/28/e20949bc-8c4f-400e-9c71-7612dae6e75b.jpg",
+    "display_name": "MSI Optix MAG301CR2 29.5\" WFHD Curved Gaming Monitor 200Hz",
+    "name": "MSI-Optix-MAG301CR2-295-WFHD-Curved-Gaming-Monitor-200Hz",
+    "code": 175134
+  },
+  {
+    "price": 2999000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/9/afb01e91-eae2-4312-8cc5-4d5091e90653.jpg",
+    "display_name": "MSI Optix G243 23.8\" FHD Gaming Monitor 165Hz",
+    "name": "MSI-Optix-G243-238-FHD-Gaming-Monitor-165Hz",
+    "code": 175136
+  },
+  {
+    "price": 4995000,
+    "image": null,
+    "display_name": "MSI Modern MD271QP 27\" WQHD IPS 75hz",
+    "name": "MSI-Modern-MD271QP-27-WQHD-IPS-75hz",
+    "code": 175137
+  },
+  {
+    "price": 1160000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/6/f49c5b97-e771-460d-a8ff-32cb8eac809f.jpg",
+    "display_name": "DELL 19.5\" E2020H",
+    "name": "DELL-195-E2020H",
+    "code": 175148
+  },
+  {
+    "price": 1140000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/7/22/4a738b9e-c329-4ee2-8f7f-8de33df42df7.jpg",
+    "display_name": "DELL 18.5\" E1920H",
+    "name": "DELL-185-E1920H",
+    "code": 175149
+  },
+  {
+    "price": 2720000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/7/54458acd-2b94-4476-92ca-4d450bdd895d.jpg",
+    "display_name": "ViewSonic 16\" VA1655 Portable LED",
+    "name": "ViewSonic-16-VA1655-Portable-LED",
+    "code": 175150
+  },
+  {
+    "price": 2530000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/25/0d3dd854-4f3c-490c-a3d8-d676d27ef0aa.jpg",
+    "display_name": "ACER Nitro 23.8\" XV242YP Gaming Monitor 165Hz",
+    "name": "ACER-Nitro-238-XV242YP-Gaming-Monitor-165Hz",
+    "code": 175154
+  },
+  {
+    "price": 295000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/fc1d48ef-43f7-46d3-94c2-f7e170186344.jpg",
+    "display_name": "North Bayou NB-F150 Bracket Arm TV Monitor 17-35 Inch",
+    "name": "North-Bayou-NB-F150-Bracket-Arm-TV-Monitor-17-35-Inch",
+    "code": 175174
+  },
+  {
+    "price": 5850000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/de64b297-a646-47ef-87e4-93b6b32a0f17.jpg",
+    "display_name": "North Bayou AVT1800-65-2A Bracket Dual Standing Monitor 40-65 Inch",
+    "name": "North-Bayou-AVT1800-65-2A-Bracket-Dual-Standing-Monitor-40-65-Inch",
+    "code": 175176
+  },
+  {
+    "price": 1100000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/33fd8db2-1b7c-4e3c-a476-8a47c1b29abd.jpg",
+    "display_name": "North Bayou AVA1500-60-1P Bracket Standing Monitor 32-70 Inch",
+    "name": "North-Bayou-AVA1500-60-1P-Bracket-Standing-Monitor-32-70-Inch",
+    "code": 175177
+  },
+  {
+    "price": 1265000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/536ac24a-dbbf-4655-952b-8e5165898bdc.jpg",
+    "display_name": "North Bayou AVF1500-50-1P Bracket Standing Monitor 32-65 Inch",
+    "name": "North-Bayou-AVF1500-50-1P-Bracket-Standing-Monitor-32-65-Inch",
+    "code": 175178
+  },
+  {
+    "price": 135000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/5/b5ca8167-6acf-4925-8a35-4a8e2954334f.jpg",
+    "display_name": "North Bayou NB-P4 Bracket Monitor Wall Mount 32-55 Inch",
+    "name": "North-Bayou-NB-P4-Bracket-Monitor-Wall-Mount-32-55-Inch",
+    "code": 175179
+  },
+  {
+    "price": 270000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/baa03482-53d6-4416-ab81-b9539da91dde.jpg",
+    "display_name": "North Bayou NB-P5 Bracket Monitor Wall Mount 40-70 Inch",
+    "name": "North-Bayou-NB-P5-Bracket-Monitor-Wall-Mount-40-70-Inch",
+    "code": 175180
+  },
+  {
+    "price": 585000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/07f2dac8-b310-4ba4-a3c3-1c363ddf98ab.jpg",
+    "display_name": "North Bayou NB-F195A Bracket Dual Monitor 22-32 Inch",
+    "name": "North-Bayou-NB-F195A-Bracket-Dual-Monitor-22-32-Inch",
+    "code": 175181
+  },
+  {
+    "price": 130000,
+    "image": null,
+    "display_name": "North Bayou NB-C3F Bracket Monitor Wall Mount 40-65 Inch",
+    "name": "North-Bayou-NB-C3F-Bracket-Monitor-Wall-Mount-40-65-Inch",
+    "code": 175182
+  },
+  {
+    "price": 559000,
+    "image": null,
+    "display_name": "Oximus Bracket Hydra-ZD1123 13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZD1123-13-27",
+    "code": 175184
+  },
+  {
+    "price": 5955000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/26/7901a593-77ac-4d95-96c9-188468061b67.jpg",
+    "display_name": "Gigabyte G34WQC A 3\u200e4\" WQHD Curved Gaming Monitor 144Hz",
+    "name": "Gigabyte-G34WQC-A-34-WQHD-Curved-Gaming-Monitor-144Hz",
+    "code": 175206
+  },
+  {
+    "price": 6505000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/2b1be342-2362-4705-a20a-8ae885db6306.jpg",
+    "display_name": "Dell UltraSharp U2722D 27\" QHD USB-C IPS",
+    "name": "Dell-UltraSharp-U2722D-27-QHD-USB-C-IPS",
+    "code": 175250
+  },
+  {
+    "price": 1260000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/14/16922f72-dcff-490d-888e-c62a46d87bae.jpg",
+    "display_name": "Lenovo D22E-20 21.45\" FHD Edgeless Design 75Hz",
+    "name": "Lenovo-D22E-20-2145-FHD-Edgeless-Design-75Hz",
+    "code": 175260
+  },
+  {
+    "price": 2970000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/12/fdd872f2-eb4a-4139-a7bd-ff28c1149bf9.jpg",
+    "display_name": "Lenovo L29w-30 29\" WFHD IPS Edgeless Design 90Hz",
+    "name": "Lenovo-L29w-30-29-WFHD-IPS-Edgeless-Design-90Hz",
+    "code": 175262
+  },
+  {
+    "price": 3830000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/9/6f857b6a-e7b5-48e0-b1db-922e5322aa04.jpg",
+    "display_name": "AOC 27\" CQ27G3S QHD 165Hz Curved Gaming Monitor",
+    "name": "AOC-27-CQ27G3S-QHD-165Hz-Curved-Gaming-Monitor",
+    "code": 175271
+  },
+  {
+    "price": 3780000,
+    "image": null,
+    "display_name": "AOC 27\" Q27P2C Gaming LED",
+    "name": "AOC-27-Q27P2C-Gaming-LED",
+    "code": 175272
+  },
+  {
+    "price": 4025000,
+    "image": null,
+    "display_name": "AOC 31.5\" Q32P2C Gaming LED",
+    "name": "AOC-315-Q32P2C-Gaming-LED",
+    "code": 175273
+  },
+  {
+    "price": 4730000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/1/26/d9c66f25-41af-40dc-997c-656aa2f6e9db.jpg",
+    "display_name": "LG 34\" 34WP500-B UltraWide FHD HDR FreeSync",
+    "name": "LG-34-34WP500-B-UltraWide-FHD-HDR-FreeSync",
+    "code": 175801
+  },
+  {
+    "price": 7590000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/a80763f3-aadf-4310-b534-404ab6072885.jpg",
+    "display_name": "ASUS ROG Strix XG249CM 23.8\" Fast IPS Gaming Monitor 270Hz",
+    "name": "ASUS-ROG-Strix-XG249CM-238-Fast-IPS-Gaming-Monitor-270Hz",
+    "code": 175803
+  },
+  {
+    "price": 2850000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/25/8a394c36-9c35-4cb1-85ef-8785e7f2c93d.jpg",
+    "display_name": "ASUS VA329HE 31.5\" FHD IPS 75Hz",
+    "name": "ASUS-VA329HE-315-FHD-IPS-75Hz",
+    "code": 175804
+  },
+  {
+    "price": 2890000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/10/430fdf80-2c0e-4d1e-b475-b07f68423450.jpg",
+    "display_name": "ASUS VT168HR 15.6\" Touchscreen",
+    "name": "ASUS-VT168HR-156-Touchscreen",
+    "code": 175805
+  },
+  {
+    "price": 1840000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/79106bcd-7411-4a8e-ab11-dfdcc3297b21.jpg",
+    "display_name": "DELL 21.5\" E2222H LED",
+    "name": "DELL-215-E2222H-LED",
+    "code": 175844
+  },
+  {
+    "price": 60000,
+    "image": null,
+    "display_name": "Oximus Bracket Aquila-4401 22\" - 55\"",
+    "name": "Oximus-Bracket-Aquila-4401-22-55",
+    "code": 175990
+  },
+  {
+    "price": 909000,
+    "image": null,
+    "display_name": "Oximus Bracket TC-1700 32\u2033 \u2013 70\u2033",
+    "name": "Oximus-Bracket-TC-1700-32-70",
+    "code": 175992
+  },
+  {
+    "price": 309000,
+    "image": null,
+    "display_name": "Oximus Bracket Hydra-ZL1104 13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZL1104-13-27",
+    "code": 175999
+  },
+  {
+    "price": 409000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/17/ef589f6d-91ec-4366-853f-822812edd2d1.jpg",
+    "display_name": "Oximus Bracket Hydra-ZL1124 13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZL1124-13-27",
+    "code": 176000
+  },
+  {
+    "price": 809000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/8/0e5d99b8-a2ca-4b05-a80b-3c1696fb7f40.jpg",
+    "display_name": "Oximus Bracket Hydra-ZL1141 13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZL1141-13-27",
+    "code": 176001
+  },
+  {
+    "price": 3805000,
+    "image": null,
+    "display_name": "Lenovo Q27q-1L 27\" QHD IPS Monitor",
+    "name": "Lenovo-Q27q-1L-27-QHD-IPS-Monitor",
+    "code": 176012
+  },
+  {
+    "price": 11120000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/7/8/6506a832-2a05-4e25-8dbd-22cac9692811.jpg",
+    "display_name": "Gigabyte M32U 31.5\" UHD IPS Gaming Monitor 144Hz",
+    "name": "Gigabyte-M32U-315-UHD-IPS-Gaming-Monitor-144Hz",
+    "code": 176040
+  },
+  {
+    "price": 2345000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/16/cc73c5cb-885f-46a4-92bb-cc32f18ab725.jpg",
+    "display_name": "ViewSonic 23.8\" VX2480-SHDJ FHD IPS Entertainment Monitor",
+    "name": "ViewSonic-238-VX2480-SHDJ-FHD-IPS-Entertainment-Monitor",
+    "code": 176069
+  },
+  {
+    "price": 915000,
+    "image": null,
+    "display_name": "ViewSonic 18.5\" VA1903H-2 LED",
+    "name": "ViewSonic-185-VA1903H-2-LED",
+    "code": 176070
+  },
+  {
+    "price": 120000,
+    "image": null,
+    "display_name": "Adaptor LED Monitor LG 19v-0.8A",
+    "name": "Adaptor-LED-Monitor-LG-19v-08A",
+    "code": 176169
+  },
+  {
+    "price": 810000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/4/14999310-a3d0-4407-8909-8cd9b2537fbc.jpg",
+    "display_name": "SPC 19\" SM-19HD LED",
+    "name": "SPC-19-SM-19HD-LED",
+    "code": 176175
+  },
+  {
+    "price": 3340000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/22/5d973b8e-0899-45d5-9350-474a3ad26adf.jpg",
+    "display_name": "AOC 27\" C27G3 Curved Gaming Monitor 165Hz",
+    "name": "AOC-27-C27G3-Curved-Gaming-Monitor-165Hz",
+    "code": 176298
+  },
+  {
+    "price": 4790000,
+    "image": null,
+    "display_name": "ViewSonic 27\" VP2756-2K QHD IPS with 60W USB-C",
+    "name": "ViewSonic-27-VP2756-2K-QHD-IPS-with-60W-USB-C",
+    "code": 176307
+  },
+  {
+    "price": 3770000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/a604ed38-393e-4d77-97ec-4ca054654162.jpg",
+    "display_name": "ViewSonic 24\" VP2468a FHD IPS",
+    "name": "ViewSonic-24-VP2468a-FHD-IPS",
+    "code": 176308
+  },
+  {
+    "price": 3939000,
+    "image": null,
+    "display_name": "MSI Optix MAG273 27\" FHD IPS Gaming Monitor 144Hz",
+    "name": "MSI-Optix-MAG273-27-FHD-IPS-Gaming-Monitor-144Hz",
+    "code": 176368
+  },
+  {
+    "price": 22290000,
+    "image": null,
+    "display_name": "MSI Optix MPG321UR-QD 32\" UHD IPS Gaming Monitor 144Hz",
+    "name": "MSI-Optix-MPG321UR-QD-32-UHD-IPS-Gaming-Monitor-144Hz",
+    "code": 176480
+  },
+  {
+    "price": 33930000,
+    "image": null,
+    "display_name": "MSI Optix MEG381CQR Plus 37.5\" UWQHD+ Rapid IPS Gaming Monitor 175Hz",
+    "name": "MSI-Optix-MEG381CQR-Plus-375-UWQHD-Rapid-IPS-Gaming-Monitor-175Hz",
+    "code": 176481
+  },
+  {
+    "price": 89499000,
+    "image": null,
+    "display_name": "Apple Pro Display XDR 32\" 6K Standard Glass - MWPE2",
+    "name": "Apple-Pro-Display-XDR-32-6K-Standard-Glass-MWPE2",
+    "code": 176640
+  },
+  {
+    "price": 97999000,
+    "image": null,
+    "display_name": "Apple Pro Display XDR 32\" 6K Nano-texture Glass - MWPF2",
+    "name": "Apple-Pro-Display-XDR-32-6K-Nano-texture-Glass-MWPF2",
+    "code": 176641
+  },
+  {
+    "price": 17699000,
+    "image": null,
+    "display_name": "Apple Pro Stand for XDR Display - MWUG2",
+    "name": "Apple-Pro-Stand-for-XDR-Display-MWUG2",
+    "code": 176642
+  },
+  {
+    "price": 4120000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/1/5dd811c3-bf00-4ecf-a60d-baf895a90533.jpg",
+    "display_name": "AOC 28\" U28P2U IPS Gaming LED",
+    "name": "AOC-28-U28P2U-IPS-Gaming-LED",
+    "code": 176648
+  },
+  {
+    "price": 2450000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/7/85144c8b-9185-4c13-ace3-282aba163912.jpg",
+    "display_name": "SAMSUNG 24\" S24AG32 Odyssey G3 FHD Gaming Monitor 165Hz",
+    "name": "SAMSUNG-24-S24AG32-Odyssey-G3-FHD-Gaming-Monitor-165Hz",
+    "code": 176713
+  },
+  {
+    "price": 3020000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/7/42d98a13-3323-4241-a897-41f61e1c9732.jpg",
+    "display_name": "SAMSUNG 27\" S27AG32 Odyssey G3 FHD Gaming Monitor 165Hz",
+    "name": "SAMSUNG-27-S27AG32-Odyssey-G3-FHD-Gaming-Monitor-165Hz",
+    "code": 176714
+  },
+  {
+    "price": 4050000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/16/0498bc19-9424-4379-9bb9-c4fd973d90f6.jpg",
+    "display_name": "LG 27\" LED 27UL500 4K UHD IPS with HDR 10",
+    "name": "LG-27-LED-27UL500-4K-UHD-IPS-with-HDR-10",
+    "code": 176818
+  },
+  {
+    "price": 15420000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/26/09efbc04-b93a-46b7-a428-4eed66ff789e.jpg",
+    "display_name": "Gigabyte Aorus FI32Q X 32\" QHD IPS Gaming Monitor 270Hz",
+    "name": "Gigabyte-Aorus-FI32Q-X-32-QHD-IPS-Gaming-Monitor-270Hz",
+    "code": 176827
+  },
+  {
+    "price": 3720000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/b33db8d2-889f-45ed-9dd6-12fd859acae7.jpg",
+    "display_name": "AOC 27\" Q27G2S QHD Gaming Monitor",
+    "name": "AOC-27-Q27G2S-QHD-Gaming-Monitor",
+    "code": 176849
+  },
+  {
+    "price": 3889000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/10/cb2d0bc8-880a-4696-bf95-b334d9b5ac7b.jpg",
+    "display_name": "MSI Optix G273 27\" FHD 165Hz Gaming Monitor",
+    "name": "MSI-Optix-G273-27-FHD-165Hz-Gaming-Monitor",
+    "code": 176941
+  },
+  {
+    "price": 9999000,
+    "image": null,
+    "display_name": "MSI Optix MPG321QRF-QD 32\" WQHD 175Hz Gaming Monitor",
+    "name": "MSI-Optix-MPG321QRF-QD-32-WQHD-175Hz-Gaming-Monitor",
+    "code": 176942
+  },
+  {
+    "price": 4159000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/f329197c-3b7f-4c65-8113-03629e384539.jpg",
+    "display_name": "SAMSUNG 27\" S27AG550 Odyssey G5 QHD Curved Gaming Monitor 165Hz",
+    "name": "SAMSUNG-27-S27AG550-Odyssey-G5-QHD-Curved-Gaming-Monitor-165Hz",
+    "code": 176984
+  },
+  {
+    "price": 4690000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/b5437446-6a9c-4320-be1d-e3bda57c91d8.jpg",
+    "display_name": "SAMSUNG 32\" S32AG550 Odyssey G5 QHD Curved Gaming Monitor 165Hz",
+    "name": "SAMSUNG-32-S32AG550-Odyssey-G5-QHD-Curved-Gaming-Monitor-165Hz",
+    "code": 176985
+  },
+  {
+    "price": 1170000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/25/f1bde2b4-b150-4e58-8d2e-db2c105f61dc.jpg",
+    "display_name": "LG 21.45\" 22MP410-B FHD with AMD FreeSync",
+    "name": "LG-2145-22MP410-B-FHD-with-AMD-FreeSync",
+    "code": 176996
+  },
+  {
+    "price": 130000,
+    "image": null,
+    "display_name": "Adaptor LED Monitor LG 19v-1.3A",
+    "name": "Adaptor-LED-Monitor-LG-19v-13A",
+    "code": 177006
+  },
+  {
+    "price": 34590000,
+    "image": null,
+    "display_name": "BenQ 31.5\" SW321C 4K UHD IPS USB-C PhotoVue Monitor",
+    "name": "BenQ-315-SW321C-4K-UHD-IPS-USB-C-PhotoVue-Monitor",
+    "code": 177054
+  },
+  {
+    "price": 14290000,
+    "image": null,
+    "display_name": "BenQ 31.5\" PD3205U 4K UHD IPS USB-C DesignVue Monitor",
+    "name": "BenQ-315-PD3205U-4K-UHD-IPS-USB-C-DesignVue-Monitor",
+    "code": 177056
+  },
+  {
+    "price": 16090000,
+    "image": null,
+    "display_name": "BenQ 27\" PD2725U 4K UHD IPS Thunderbolt 3 DesignVue Monitor",
+    "name": "BenQ-27-PD2725U-4K-UHD-IPS-Thunderbolt-3-DesignVue-Monitor",
+    "code": 177057
+  },
+  {
+    "price": 10590000,
+    "image": null,
+    "display_name": "BenQ 27\" PD2705U 4K UHD IPS USB-C DesignVue Monitor",
+    "name": "BenQ-27-PD2705U-4K-UHD-IPS-USB-C-DesignVue-Monitor",
+    "code": 177058
+  },
+  {
+    "price": 7390000,
+    "image": null,
+    "display_name": "BenQ 27\" PD2705Q QHD IPS USB-C DesignVue Monitor",
+    "name": "BenQ-27-PD2705Q-QHD-IPS-USB-C-DesignVue-Monitor",
+    "code": 177059
+  },
+  {
+    "price": 16690000,
+    "image": null,
+    "display_name": "BenQ MOBIUZ 34\" EX3415R WQHD IPS 144Hz Ultrawide Curved Gaming Monitor",
+    "name": "BenQ-MOBIUZ-34-EX3415R-WQHD-IPS-144Hz-Ultrawide-Curved-Gaming-Monitor",
+    "code": 177060
+  },
+  {
+    "price": 10990000,
+    "image": null,
+    "display_name": "BenQ MOBIUZ 31.5\" EX3210R QHD 165Hz Curved Gaming Montior",
+    "name": "BenQ-MOBIUZ-315-EX3210R-QHD-165Hz-Curved-Gaming-Montior",
+    "code": 177061
+  },
+  {
+    "price": 8090000,
+    "image": null,
+    "display_name": "BenQ MOBIUZ 27\" EX2710R QHD 165Hz Curved Gaming Montior",
+    "name": "BenQ-MOBIUZ-27-EX2710R-QHD-165Hz-Curved-Gaming-Montior",
+    "code": 177062
+  },
+  {
+    "price": 7990000,
+    "image": null,
+    "display_name": "BenQ MOBIUZ 27\" EX2710Q QHD IPS 165Hz Gaming Monitor",
+    "name": "BenQ-MOBIUZ-27-EX2710Q-QHD-IPS-165Hz-Gaming-Monitor",
+    "code": 177063
+  },
+  {
+    "price": 10990000,
+    "image": null,
+    "display_name": "BenQ MOBIUZ 34\" EX3410R WQHD 144Hz Ultrawide Curved Gaming Monitor",
+    "name": "BenQ-MOBIUZ-34-EX3410R-WQHD-144Hz-Ultrawide-Curved-Gaming-Monitor",
+    "code": 177064
+  },
+  {
+    "price": 19890000,
+    "image": null,
+    "display_name": "BenQ MOBIUZ 32\" EX3210U 4K UHD IPS 144Hz Gaming Monitor",
+    "name": "BenQ-MOBIUZ-32-EX3210U-4K-UHD-IPS-144Hz-Gaming-Monitor",
+    "code": 177066
+  },
+  {
+    "price": 18790000,
+    "image": null,
+    "display_name": "BenQ 37.5\" EW3880R WQHD+ HDRi IPS Curved Ultrawide Monitor",
+    "name": "BenQ-375-EW3880R-WQHD-HDRi-IPS-Curved-Ultrawide-Monitor",
+    "code": 177068
+  },
+  {
+    "price": 4159000,
+    "image": null,
+    "display_name": "BenQ 27\" GW2785TC FHD Eye-Care IPS USB-C Monitor",
+    "name": "BenQ-27-GW2785TC-FHD-Eye-Care-IPS-USB-C-Monitor",
+    "code": 177070
+  },
+  {
+    "price": 7990000,
+    "image": null,
+    "display_name": "BenQ 28\" EW2880U 4K UHD HDRi IPS Entertainment Monitor",
+    "name": "BenQ-28-EW2880U-4K-UHD-HDRi-IPS-Entertainment-Monitor",
+    "code": 177071
+  },
+  {
+    "price": 3565000,
+    "image": null,
+    "display_name": "BenQ 23.8\" GW2485TC FHD Eye-Care IPS USB-C Monitor",
+    "name": "BenQ-238-GW2485TC-FHD-Eye-Care-IPS-USB-C-Monitor",
+    "code": 177072
+  },
+  {
+    "price": 3369000,
+    "image": null,
+    "display_name": "Philips 325E1C 31.5\" QHD UltraWide Curved Monitor",
+    "name": "Philips-325E1C-315-QHD-UltraWide-Curved-Monitor",
+    "code": 177086
+  },
+  {
+    "price": 5400000,
+    "image": null,
+    "display_name": "Philips 325M2CRZ 31.5\" QHD 165Hz Curved Gaming Monitor",
+    "name": "Philips-325M2CRZ-315-QHD-165Hz-Curved-Gaming-Monitor",
+    "code": 177087
+  },
+  {
+    "price": 1770000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/8/c01e9bfa-a6bd-4f17-981b-25d99f1b4903.jpg",
+    "display_name": "DELL 21.5\" SE2222H FHD Slim Bezel",
+    "name": "DELL-215-SE2222H-FHD-Slim-Bezel",
+    "code": 177113
+  },
+  {
+    "price": 8029000,
+    "image": null,
+    "display_name": "MSI Optix MAG342CQR 34\" UWQHD Curved Gaming Monitor 144Hz",
+    "name": "MSI-Optix-MAG342CQR-34-UWQHD-Curved-Gaming-Monitor-144Hz",
+    "code": 177119
+  },
+  {
+    "price": 8550000,
+    "image": null,
+    "display_name": "MSI Optix G271CQP 27\" WQHD 165Hz Curved Gaming Monitor",
+    "name": "MSI-Optix-G271CQP-27-WQHD-165Hz-Curved-Gaming-Monitor",
+    "code": 177192
+  },
+  {
+    "price": 1655000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/9/fb784d31-a116-4c76-bc74-f28dec975cec.jpg",
+    "display_name": "Xiaomi Mi 27\" FHD IPS Bezel-less Design",
+    "name": "Xiaomi-Mi-27-FHD-IPS-Bezel-less-Design",
+    "code": 177227
+  },
+  {
+    "price": 5085000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/6db111a5-805e-47a6-b5ec-7505c56a59e3.jpg",
+    "display_name": "AOC 34\" U34P2C WQHD Gaming Monitor",
+    "name": "AOC-34-U34P2C-WQHD-Gaming-Monitor",
+    "code": 177231
+  },
+  {
+    "price": 19999000,
+    "image": null,
+    "display_name": "MSI MPG ARTYMIS 273CQRX-QD 27\" WQHD 240Hz Curved Gaming Monitor",
+    "name": "MSI-MPG-ARTYMIS-273CQRX-QD-27-WQHD-240Hz-Curved-Gaming-Monitor",
+    "code": 177234
+  },
+  {
+    "price": 1510000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/13/81a062e0-b120-4e05-9c11-5e53c0f596d3.jpg",
+    "display_name": "MSI Pro MP241X 23.8\" LED",
+    "name": "MSI-Pro-MP241X-238-LED",
+    "code": 177258
+  },
+  {
+    "price": 320000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/9/8fcd1a8f-a46c-4ee3-9288-f12e593a6fd9.jpg",
+    "display_name": "Bracket North Bayou H100 22\" - 35\"",
+    "name": "Bracket-North-Bayou-H100-22-35",
+    "code": 177385
+  },
+  {
+    "price": 5186000,
+    "image": null,
+    "display_name": "Lenovo L32p-30 31.5\" UHD IPS Entertainment Monitor",
+    "name": "Lenovo-L32p-30-315-UHD-IPS-Entertainment-Monitor",
+    "code": 177387
+  },
+  {
+    "price": 4850000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/13/1d6027c1-7710-48a0-860a-b1b23e2431b4.jpg",
+    "display_name": "GALAX VIVANCE-01 27\" QHD IPS Gaming Monitor 165Hz with G-SYNC - Response Time 1ms",
+    "name": "GALAX-VIVANCE-01-27-QHD-IPS-Gaming-Monitor-165Hz-with-G-SYNC-Response-Time-1ms",
+    "code": 177399
+  },
+  {
+    "price": 2810000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/13/95ca9efb-e933-4202-a081-3fb0c5f39d51.jpg",
+    "display_name": "Lenovo L27m-30 27\" FHD USB Type C Monitor",
+    "name": "Lenovo-L27m-30-27-FHD-USB-Type-C-Monitor",
+    "code": 177414
+  },
+  {
+    "price": 210000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/55a18223-a37c-4688-b8f1-a3912a7912d5.jpg",
+    "display_name": "Oximus Bracket Hydra-ZD1102 13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZD1102-13-27",
+    "code": 177522
+  },
+  {
+    "price": 4750000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/a87e1b90-52a0-4ca7-9d65-68ba80ae8d96.jpg",
+    "display_name": "AOC 31.5\" CQ32G3SE QHD Gaming Monitor",
+    "name": "AOC-315-CQ32G3SE-QHD-Gaming-Monitor",
+    "code": 177744
+  },
+  {
+    "price": 2880000,
+    "image": null,
+    "display_name": "MSI Pro MP271C 27\" FHD 75Hz Curved Monitor",
+    "name": "MSI-Pro-MP271C-27-FHD-75Hz-Curved-Monitor",
+    "code": 177784
+  },
+  {
+    "price": 3680000,
+    "image": null,
+    "display_name": "SAMSUNG 27\" M5 S27BM500 FHD Smart Monitor & Streaming TV",
+    "name": "SAMSUNG-27-M5-S27BM500-FHD-Smart-Monitor-Streaming-TV",
+    "code": 177804
+  },
+  {
+    "price": 5090000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/8/11/e176a5fa-bfde-43bf-a19d-d30d17ea51e5.jpg",
+    "display_name": "SAMSUNG 32\" M7 S32BM700 UHD Smart Monitor & Streaming TV with Webcam Support",
+    "name": "SAMSUNG-32-M7-S32BM700-UHD-Smart-Monitor-Streaming-TV-with-Webcam-Support",
+    "code": 177805
+  },
+  {
+    "price": 4909000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/7/8/d30fc945-0920-4a3b-b893-9560a8e3597b.jpg",
+    "display_name": "MSI Optix G271C 27\" FHD 165Hz Curved Gaming Monitor",
+    "name": "MSI-Optix-G271C-27-FHD-165Hz-Curved-Gaming-Monitor",
+    "code": 177807
+  },
+  {
+    "price": 5999000,
+    "image": null,
+    "display_name": "MSI Optix G321CQP 31.5\" WQHD 165Hz Curved Gaming Monitor",
+    "name": "MSI-Optix-G321CQP-315-WQHD-165Hz-Curved-Gaming-Monitor",
+    "code": 177808
+  },
+  {
+    "price": 5739000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/7/22/c0864cda-0d33-4d2f-9e7e-68be7cb8367a.jpg",
+    "display_name": "MSI Optix G32CQ4 31.5\" WQHD 165Hz Curved Gaming Monitor",
+    "name": "MSI-Optix-G32CQ4-315-WQHD-165Hz-Curved-Gaming-Monitor",
+    "code": 177821
+  },
+  {
+    "price": 3040000,
+    "image": null,
+    "display_name": "ViewSonic 27\" VX2719-PC-MHD FHD 240Hz Curved Gaming Monitor",
+    "name": "ViewSonic-27-VX2719-PC-MHD-FHD-240Hz-Curved-Gaming-Monitor",
+    "code": 177822
+  },
+  {
+    "price": 2660000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/8/6/d60da730-1f26-4d6b-90a1-77c9b8957949.jpg",
+    "display_name": "ViewSonic 27\" VX2718-P-MHD FHD 165Hz Gaming Monitor",
+    "name": "ViewSonic-27-VX2718-P-MHD-FHD-165Hz-Gaming-Monitor",
+    "code": 177823
+  },
+  {
+    "price": 6750000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/25/62490e5c-74b6-41e9-8d91-e2e1f8ca454d.jpg",
+    "display_name": "ViewSonic 27\" VP2756-4K UHD IPS with 60W USB-C",
+    "name": "ViewSonic-27-VP2756-4K-UHD-IPS-with-60W-USB-C",
+    "code": 177824
+  },
+  {
+    "price": 4185000,
+    "image": null,
+    "display_name": "Lenovo Legion Y25-25 24.5\" FHD IPS 240Hz Gaming Monitor",
+    "name": "Lenovo-Legion-Y25-25-245-FHD-IPS-240Hz-Gaming-Monitor",
+    "code": 178043
+  },
+  {
+    "price": 2875000,
+    "image": null,
+    "display_name": "ViewSonic 32\" VX3276-MHD-3 FHD IPS Entertainment Monitor",
+    "name": "ViewSonic-32-VX3276-MHD-3-FHD-IPS-Entertainment-Monitor",
+    "code": 178218
+  },
+  {
+    "price": 7700000,
+    "image": null,
+    "display_name": "ViewSonic 27\" TD2760 FHD Touchscreen",
+    "name": "ViewSonic-27-TD2760-FHD-Touchscreen",
+    "code": 178219
+  },
+  {
+    "price": 29130000,
+    "image": null,
+    "display_name": "Apple 27\" Studio Display  Standard Glass - Tilt-adjustable stand - MK0U3",
+    "name": "Apple-27-Studio-Display-Standard-Glass-Tilt-adjustable-stand-MK0U3",
+    "code": 178259
+  },
+  {
+    "price": 4570000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/2f85d5ad-00eb-46b2-b2ac-077c04630dd2.jpg",
+    "display_name": "AOC 29.5\" CQ30G3Z WFHD Curved Gaming Monitor",
+    "name": "AOC-295-CQ30G3Z-WFHD-Curved-Gaming-Monitor",
+    "code": 178274
+  },
+  {
+    "price": 5240000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/8/87fd2f1b-29e5-4159-b0c7-39eab62cb59b.jpg",
+    "display_name": "AOC 31.5\" Q32G3S QHD 165Hz Gaming Monitor",
+    "name": "AOC-315-Q32G3S-QHD-165Hz-Gaming-Monitor",
+    "code": 178275
+  },
+  {
+    "price": 4640000,
+    "image": null,
+    "display_name": "SAMSUNG 27\" S27A600 QHD IPS Monitor with USB-C",
+    "name": "SAMSUNG-27-S27A600-QHD-IPS-Monitor-with-USB-C",
+    "code": 178287
+  },
+  {
+    "price": 1210000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/14/9ec65e93-3bd5-4b55-b6c2-dc4b2c7aac19.jpg",
+    "display_name": "SAMSUNG 22\" S22A336 FHD Monitor",
+    "name": "SAMSUNG-22-S22A336-FHD-Monitor",
+    "code": 178288
+  },
+  {
+    "price": 5135000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/59921f0d-dfa3-4380-8231-4e4becb96390.jpg",
+    "display_name": "Philips 328E1CA 31.5\" 4K UHD Curved Monitor",
+    "name": "Philips-328E1CA-315-4K-UHD-Curved-Monitor",
+    "code": 178298
+  },
+  {
+    "price": 5950000,
+    "image": null,
+    "display_name": "Philips 438P1 43\" 4K UHD IPS MultiView Business Monitor",
+    "name": "Philips-438P1-43-4K-UHD-IPS-MultiView-Business-Monitor",
+    "code": 178299
+  },
+  {
+    "price": 2180000,
+    "image": null,
+    "display_name": "LG 26\" 26WQ500 FHD IPS with AMD FreeSync",
+    "name": "LG-26-26WQ500-FHD-IPS-with-AMD-FreeSync",
+    "code": 178317
+  },
+  {
+    "price": 540000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/14/016ed4e2-32f5-45d5-8138-69b4599878dc.jpg",
+    "display_name": "North Bayou NB-F160 Bracket Dual Monitor 17-27 Inch",
+    "name": "North-Bayou-NB-F160-Bracket-Dual-Monitor-17-27-Inch",
+    "code": 178318
+  },
+  {
+    "price": 625000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/11/8b9c471a-ac8d-4483-86d4-224eaeb470b3.jpg",
+    "display_name": "North Bayou NBDF80-T Bracket Monitor 60-80 Inch",
+    "name": "North-Bayou-NBDF80-T-Bracket-Monitor-60-80-Inch",
+    "code": 178369
+  },
+  {
+    "price": 80000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/aab72085-a565-4690-8e75-76cadb9de409.jpg",
+    "display_name": "North Bayou NBC D2F Bracket Monitor 32-55 Inch",
+    "name": "North-Bayou-NBC-D2F-Bracket-Monitor-32-55-Inch",
+    "code": 178370
+  },
+  {
+    "price": 80000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/11/781e610b-e925-41aa-a629-fe806f6421c0.jpg",
+    "display_name": "North Bayou NBC 1F Bracket Monitor 17-37 Inch",
+    "name": "North-Bayou-NBC-1F-Bracket-Monitor-17-37-Inch",
+    "code": 178371
+  },
+  {
+    "price": 560000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/9f733e52-2d1d-496d-9b91-22a0aabddfc8.jpg",
+    "display_name": "North Bayou H180 Bracket Dual Monitor 22-32 Inch",
+    "name": "North-Bayou-H180-Bracket-Dual-Monitor-22-32-Inch",
+    "code": 178372
+  },
+  {
+    "price": 290000,
+    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/5af4b333-dbd9-43ce-b5a9-718baa8d8072.jpg",
+    "display_name": "North Bayou NB-P6 Bracket Monitor Wall Mount 45-75 Inch",
+    "name": "North-Bayou-NB-P6-Bracket-Monitor-Wall-Mount-45-75-Inch",
+    "code": 178373
+  },
+  {
+    "price": 3750000,
+    "image": null,
+    "display_name": "Lenovo L28u-30 28\" UHD Monitor",
+    "name": "Lenovo-L28u-30-28-UHD-Monitor",
+    "code": 178460
+  },
+  {
+    "price": 9130000,
+    "image": null,
+    "display_name": "Lenovo Qreator 27 27\" UHD Smart Crystal Sound Wireless Charging Monitor",
+    "name": "Lenovo-Qreator-27-27-UHD-Smart-Crystal-Sound-Wireless-Charging-Monitor",
+    "code": 178461
+  },
+  {
+    "price": 4025000,
+    "image": null,
+    "display_name": "Lenovo Legion Y25-30 24.5\" Gaming Monitor",
+    "name": "Lenovo-Legion-Y25-30-245-Gaming-Monitor",
+    "code": 178462
+  },
+  {
+    "price": 6975000,
+    "image": null,
+    "display_name": "Lenovo Legion Y25g-30 24.5\" NVIDIA G-SYNC Gaming Monitor",
+    "name": "Lenovo-Legion-Y25g-30-245-NVIDIA-G-SYNC-Gaming-Monitor",
+    "code": 178463
+  },
+  {
+    "price": 2230000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/22/6f00b10d-58ae-45e1-967d-ad073f2f04f3.jpg",
+    "display_name": "Philips 24M1N3200Z 23.8\" FHD IPS 165Hz Gaming Monitor",
+    "name": "Philips-24M1N3200Z-238-FHD-IPS-165Hz-Gaming-Monitor",
+    "code": 178708
+  },
+  {
+    "price": 3715000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/20/67aa0980-84de-419f-ab87-fcecae1a0079.jpg",
+    "display_name": "DELL 23.8\" P2423D LED",
+    "name": "DELL-238-P2423D-LED",
+    "code": 178709
+  },
+  {
+    "price": 3720000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/6/30/74810657-2dd7-4103-b2da-245a56c9d3e1.jpg",
+    "display_name": "SAMSUNG 25\" S25BG400 Odyssey G4 FHD IPS Gaming Monitor 240Hz",
+    "name": "SAMSUNG-25-S25BG400-Odyssey-G4-FHD-IPS-Gaming-Monitor-240Hz",
+    "code": 178720
+  },
+  {
+    "price": 4130000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/6/30/e0dc8ca4-0283-45d9-bb40-c0d6837319db.jpg",
+    "display_name": "SAMSUNG 27\" S27BG400 Odyssey G4 FHD IPS Gaming Monitor 240Hz",
+    "name": "SAMSUNG-27-S27BG400-Odyssey-G4-FHD-IPS-Gaming-Monitor-240Hz",
+    "code": 178721
+  },
+  {
+    "price": 1990000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/2/22581e37-bfe0-43ee-9f99-2b6fa7e70fb7.jpg",
+    "display_name": "ASUS VP248H 24\" FHD 75Hz - Response Time 1ms",
+    "name": "ASUS-VP248H-24-FHD-75Hz-Response-Time-1ms",
+    "code": 178751
+  },
+  {
+    "price": 1230000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/12/f4998880-2d61-43bf-8c37-064141e983e5.jpg",
+    "display_name": "AOC 21.5\" 22B2HM Frameless FHD",
+    "name": "AOC-215-22B2HM-Frameless-FHD",
+    "code": 178829
+  },
+  {
+    "price": 2330000,
+    "image": null,
+    "display_name": "ViewSonic 24\" VG2440V IPS Full HD Video Conferencing Monitor",
+    "name": "ViewSonic-24-VG2440V-IPS-Full-HD-Video-Conferencing-Monitor",
+    "code": 178832
+  },
+  {
+    "price": 1110000,
+    "image": null,
+    "display_name": "Oximus Bracket P300 Triple Arms 27\" or Above",
+    "name": "Oximus-Bracket-P300-Triple-Arms-27-or-Above",
+    "code": 179068
+  },
+  {
+    "price": 6535000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/30/d76ca026-6d5f-4413-86de-375cbff23523.jpg",
+    "display_name": "Dell 27\" P2723QE 4K USB-C Hub Monitor",
+    "name": "Dell-27-P2723QE-4K-USB-C-Hub-Monitor",
+    "code": 179078
+  },
+  {
+    "price": 2515000,
+    "image": null,
+    "display_name": "LG 32\" 32LQ630 Smart FHD TV",
+    "name": "LG-32-32LQ630-Smart-FHD-TV",
+    "code": 179145
+  },
+  {
+    "price": 4090000,
+    "image": null,
+    "display_name": "LG 43\" 43UQ7550 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-43-43UQ7550-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179146
+  },
+  {
+    "price": 5125000,
+    "image": null,
+    "display_name": "LG 43\" 43UQ8000 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-43-43UQ8000-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179147
+  },
+  {
+    "price": 5700000,
+    "image": null,
+    "display_name": "LG 50\" 50UQ7500 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-50-50UQ7500-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179148
+  },
+  {
+    "price": 6000000,
+    "image": null,
+    "display_name": "LG 50\" 50UQ7550 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-50-50UQ7550-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179149
+  },
+  {
+    "price": 6000000,
+    "image": null,
+    "display_name": "LG 50\" 50UQ8000 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-50-50UQ8000-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179150
+  },
+  {
+    "price": 6920000,
+    "image": null,
+    "display_name": "LG 55\" 55UQ7500 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-55-55UQ7500-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179151
+  },
+  {
+    "price": 7720000,
+    "image": null,
+    "display_name": "LG 55\" 55UQ7550 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-55-55UQ7550-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179152
+  },
+  {
+    "price": 9480000,
+    "image": null,
+    "display_name": "LG 60\" 60UQ8000 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-60-60UQ8000-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179154
+  },
+  {
+    "price": 10750000,
+    "image": null,
+    "display_name": "LG 60\" 60UQ9000 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-60-60UQ9000-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179155
+  },
+  {
+    "price": 10955000,
+    "image": null,
+    "display_name": "LG 65\" 65UQ8000 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-65-65UQ8000-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179157
+  },
+  {
+    "price": 33050000,
+    "image": null,
+    "display_name": "LG 86\" 86UQ8000 - Ultra HD 4K Smart TV AI ThinQ",
+    "name": "LG-86-86UQ8000-Ultra-HD-4K-Smart-TV-AI-ThinQ",
+    "code": 179159
+  },
+  {
+    "price": 30880000,
+    "image": null,
+    "display_name": "Apple 27\" Studio Display Nano-texture glass - Tilt-adjustable stand - MMYW3",
+    "name": "Apple-27-Studio-Display-Nano-texture-glass-Tilt-adjustable-stand-MMYW3",
+    "code": 179163
+  },
+  {
+    "price": 1160000,
+    "image": null,
+    "display_name": "Qwerty QM-215VH 21.5\" FHD IPS LED Monitor",
+    "name": "Qwerty-QM-215VH-215-FHD-IPS-LED-Monitor",
+    "code": 179180
+  },
+  {
+    "price": 3765000,
+    "image": null,
+    "display_name": "SAMSUNG 27\" M5 S27BM501 FHD White Flat Monitor with Smart TV Experience",
+    "name": "SAMSUNG-27-M5-S27BM501-FHD-White-Flat-Monitor-with-Smart-TV-Experience",
+    "code": 179227
+  },
+  {
+    "price": 1980000,
+    "image": null,
+    "display_name": "Vurrion Oriz 24MG500-F 24\" FHD 165Hz Gaming Monitor",
+    "name": "Vurrion-Oriz-24MG500-F-24-FHD-165Hz-Gaming-Monitor",
+    "code": 179249
+  },
+  {
+    "price": 2420000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/24/989bb457-6b11-4b5f-8db6-6efcca8a0393.jpg",
+    "display_name": "Vurrion Oriz 27MG500-C 27\" FHD 165Hz Curved Gaming Monitor",
+    "name": "Vurrion-Oriz-27MG500-C-27-FHD-165Hz-Curved-Gaming-Monitor",
+    "code": 179250
+  },
+  {
+    "price": 3040000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/25/b9f7c3fb-a627-47a5-b4bf-ff48f40e4049.jpg",
+    "display_name": "Vurrion Oriz 27MZ650C-PRO 27\" QHD 165Hz Curved Gaming Monitor",
+    "name": "Vurrion-Oriz-27MZ650C-PRO-27-QHD-165Hz-Curved-Gaming-Monitor",
+    "code": 179251
+  },
+  {
+    "price": 3060000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/29/f1a2c2eb-a220-42b4-afa1-8ed41b0e2fec.jpg",
+    "display_name": "AOC 27\" 27G2SPU FHD 165Hz Gaming Monitor",
+    "name": "AOC-27-27G2SPU-FHD-165Hz-Gaming-Monitor",
+    "code": 179338
+  },
+  {
+    "price": 480000,
+    "image": null,
+    "display_name": "Oximus Bracket P100 22\" - 34\" White",
+    "name": "Oximus-Bracket-P100-22-34-White",
+    "code": 179452
+  },
+  {
+    "price": 450000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/30/60da5b59-66df-4edf-8b65-352f538a41ca.jpg",
+    "display_name": "Oximus Bracket P100 22\" - 34\" Black",
+    "name": "Oximus-Bracket-P100-22-34-Black",
+    "code": 179453
+  },
+  {
+    "price": 9300000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/25/35c3aa6e-23ec-4776-817e-57d6c6f9c51a.jpg",
+    "display_name": "LG 27\" 27GP95R-B UltraGear UHD 4K IPS 144Hz (160Hz Overclock) Gaming Monitor",
+    "name": "LG-27-27GP95R-B-UltraGear-UHD-4K-IPS-144Hz-160Hz-Overclock-Gaming-Monitor",
+    "code": 179462
+  },
+  {
+    "price": 6650000,
+    "image": null,
+    "display_name": "Philips 345M2CRZ 34\" Curved WQHD UltraWide 165Hz Gaming Monitor",
+    "name": "Philips-345M2CRZ-34-Curved-WQHD-UltraWide-165Hz-Gaming-Monitor",
+    "code": 179607
+  },
+  {
+    "price": 1300000,
+    "image": null,
+    "display_name": "ViewSonic 24\" VA2406-H Full HD Monitor",
+    "name": "ViewSonic-24-VA2406-H-Full-HD-Monitor",
+    "code": 179613
+  },
+  {
+    "price": 3320000,
+    "image": null,
+    "display_name": "ViewSonic 27\" VA2715-2K-MHD 2K Monitor",
+    "name": "ViewSonic-27-VA2715-2K-MHD-2K-Monitor",
+    "code": 179615
+  },
+  {
+    "price": 16260000,
+    "image": null,
+    "display_name": "Asus ROG Strix XG27AQM-G EVA Edition 27\" WQHD Fast IPS 270Hz Gaming Monitor",
+    "name": "Asus-ROG-Strix-XG27AQM-G-EVA-Edition-27-WQHD-Fast-IPS-270Hz-Gaming-Monitor",
+    "code": 179620
+  },
+  {
+    "price": 1190000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/23/9d6f6745-948f-4421-a37f-a0914f76a7d7.jpg",
+    "display_name": "CUBE GAMING 21.45\" CG22B0W FHD Frameless Design 75Hz - Response Time 5ms",
+    "name": "CUBE-GAMING-2145-CG22B0W-FHD-Frameless-Design-75Hz-Response-Time-5ms",
+    "code": 179650
+  },
+  {
+    "price": 10150000,
+    "image": null,
+    "display_name": "BenQ ZOWIE 27\" XL2746K FHD Gaming Monitor 240Hz",
+    "name": "BenQ-ZOWIE-27-XL2746K-FHD-Gaming-Monitor-240Hz",
+    "code": 179659
+  },
+  {
+    "price": 2650000,
+    "image": null,
+    "display_name": "AOC 27\" 27G2SE FHD 165Hz AdaptiveSync Gaming Monitor",
+    "name": "AOC-27-27G2SE-FHD-165Hz-AdaptiveSync-Gaming-Monitor",
+    "code": 179685
+  },
+  {
+    "price": 2585000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/e07b33ef-06d2-425c-86c3-725573a9fb9d.jpg",
+    "display_name": "AOC 23.8\" 24G2SPU FHD 165Hz Gaming Monitor",
+    "name": "AOC-238-24G2SPU-FHD-165Hz-Gaming-Monitor",
+    "code": 179686
+  },
+  {
+    "price": 2390000,
+    "image": null,
+    "display_name": "AOC 27\" 27V5 FHD IPS Frameless Monitor",
+    "name": "AOC-27-27V5-FHD-IPS-Frameless-Monitor",
+    "code": 179687
+  },
+  {
+    "price": 2035000,
+    "image": null,
+    "display_name": "AOC 23.8\" 24V5 FHD IPS Frameless Monitor",
+    "name": "AOC-238-24V5-FHD-IPS-Frameless-Monitor",
+    "code": 179688
+  },
+  {
+    "price": 1590000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/9/bc461d49-7a46-4e7d-a492-2174527db7df.jpg",
+    "display_name": "MSI Pro MP242C 23.6\" FHD 75Hz Curved Monitor",
+    "name": "MSI-Pro-MP242C-236-FHD-75Hz-Curved-Monitor",
+    "code": 179809
+  },
+  {
+    "price": 3695000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/31ef790d-1793-453f-ab24-2e1c1ae16b0e.jpg",
+    "display_name": "ViewSonic 32\" VX3219-PC-MHD 240Hz Curved Gaming Monitor",
+    "name": "ViewSonic-32-VX3219-PC-MHD-240Hz-Curved-Gaming-Monitor",
+    "code": 179825
+  },
+  {
+    "price": 12999000,
+    "image": null,
+    "display_name": "MSI Optix MAG281URF 27.9\" UHD Rapid IPS Gaming Monitor 144Hz",
+    "name": "MSI-Optix-MAG281URF-279-UHD-Rapid-IPS-Gaming-Monitor-144Hz",
+    "code": 179882
+  },
+  {
+    "price": 300000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/8/1b59ee04-193c-4fb9-95e8-b8ea167d7cf0.jpg",
+    "display_name": "Oximus Bracket Hydra-ZDP1118 White 13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZDP1118-White-13-27",
+    "code": 179885
+  },
+  {
+    "price": 23059000,
+    "image": null,
+    "display_name": "DELL 40\" U4021QW UltraSharp Curved WUHD Monitor",
+    "name": "DELL-40-U4021QW-UltraSharp-Curved-WUHD-Monitor",
+    "code": 179892
+  },
+  {
+    "price": 760000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/64cb06c2-d666-431e-8721-cf97f5088cd2.jpg",
+    "display_name": "Oximus Bracket P200 22\" - 34\" Black",
+    "name": "Oximus-Bracket-P200-22-34-Black",
+    "code": 179920
+  },
+  {
+    "price": 2530000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/12/471ea707-fb04-4f91-91f2-48642c566b3f.jpg",
+    "display_name": "MSI Modern MD241PW 23.8\" FHD IPS 75hz",
+    "name": "MSI-Modern-MD241PW-238-FHD-IPS-75hz",
+    "code": 179928
+  },
+  {
+    "price": 120000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/5ae8f818-2cff-4dd6-8c6f-6d976c256f61.jpg",
+    "display_name": "Oximus Bracket T410 32\" - 55\" Black",
+    "name": "Oximus-Bracket-T410-32-55-Black",
+    "code": 179945
+  },
+  {
+    "price": 10170000,
+    "image": null,
+    "display_name": "MSI MPG ARTYMIS 273CQR-QD 27\" WQHD 165Hz Curved Gaming Monitor",
+    "name": "MSI-MPG-ARTYMIS-273CQR-QD-27-WQHD-165Hz-Curved-Gaming-Monitor",
+    "code": 179991
+  },
+  {
+    "price": 8260000,
+    "image": null,
+    "display_name": "LG 27.6\" 28MQ780-B SDQHD Nano IPS Display with Ergo Stand and USB Type-C",
+    "name": "LG-276-28MQ780-B-SDQHD-Nano-IPS-Display-with-Ergo-Stand-and-USB-Type-C",
+    "code": 180013
+  },
+  {
+    "price": 3445000,
+    "image": null,
+    "display_name": "Lenovo Q27q-20 27\" QHD IPS Monitor 75Hz",
+    "name": "Lenovo-Q27q-20-27-QHD-IPS-Monitor-75Hz",
+    "code": 180022
+  },
+  {
+    "price": 4175000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/13/efe200aa-6217-4058-a55a-d997bb87df3d.jpg",
+    "display_name": "Lenovo Q27h-20 27\" QHD IPS NearEdgeless Design 70Hz with USB Type-C",
+    "name": "Lenovo-Q27h-20-27-QHD-IPS-NearEdgeless-Design-70Hz-with-USB-Type-C",
+    "code": 180023
+  },
+  {
+    "price": 2705000,
+    "image": null,
+    "display_name": "Lenovo G27-30 27\" 165Hz FHD Gaming Monitor",
+    "name": "Lenovo-G27-30-27-165Hz-FHD-Gaming-Monitor",
+    "code": 180034
+  },
+  {
+    "price": 34590000,
+    "image": null,
+    "display_name": "ASUS ROG Swift OLED PG48UQ 47.5\" 4K Gaming Monitor 138Hz",
+    "name": "ASUS-ROG-Swift-OLED-PG48UQ-475-4K-Gaming-Monitor-138Hz",
+    "code": 180038
+  },
+  {
+    "price": 16390000,
+    "image": null,
+    "display_name": "ASUS ROG Strix XG32UQ 32\" 4K Fast IPS Gaming Monitor 160Hz",
+    "name": "ASUS-ROG-Strix-XG32UQ-32-4K-Fast-IPS-Gaming-Monitor-160Hz",
+    "code": 180039
+  },
+  {
+    "price": 2032000,
+    "image": null,
+    "display_name": "Xiaomi TV A2 32\" HD",
+    "name": "Xiaomi-TV-A2-32-HD",
+    "code": 180112
+  },
+  {
+    "price": 3830000,
+    "image": null,
+    "display_name": "Xiaomi TV A2 43\" UHD 4K",
+    "name": "Xiaomi-TV-A2-43-UHD-4K",
+    "code": 180113
+  },
+  {
+    "price": 2950000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/26/cf96cb61-4b4f-4a08-bca8-af6fe63f01d2.jpg",
+    "display_name": "GALAX VIVANCE-02 24\" FHD IPS Gaming Monitor 165Hz with G-SYNC - Response Time 1ms",
+    "name": "GALAX-VIVANCE-02-24-FHD-IPS-Gaming-Monitor-165Hz-with-G-SYNC-Response-Time-1ms",
+    "code": 180161
+  },
+  {
+    "price": 1480000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/26/65e37dc2-153f-47c5-9967-836798acd368.jpg",
+    "display_name": "GALAX PRISMA-01 24\" FHD Borderless Design 75Hz with G-SYNC - USB-C Supported",
+    "name": "GALAX-PRISMA-01-24-FHD-Borderless-Design-75Hz-with-G-SYNC-USB-C-Supported",
+    "code": 180162
+  },
+  {
+    "price": 2180000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/26/ec2d319a-bad6-4342-b4b3-c14cd9baaff0.jpg",
+    "display_name": "GALAX PRISMA-02 27\" FHD Borderless Design 75Hz with G-SYNC - USB-C Supported",
+    "name": "GALAX-PRISMA-02-27-FHD-Borderless-Design-75Hz-with-G-SYNC-USB-C-Supported",
+    "code": 180163
+  },
+  {
+    "price": 5815000,
+    "image": null,
+    "display_name": "Lenovo G34w-30 34\" WQHD Curved Gaming Monitor 170Hz",
+    "name": "Lenovo-G34w-30-34-WQHD-Curved-Gaming-Monitor-170Hz",
+    "code": 180164
+  },
+  {
+    "price": 4450000,
+    "image": null,
+    "display_name": "Lenovo G32qc-30 31.5\" QHD Curved Gaming Monitor 170Hz",
+    "name": "Lenovo-G32qc-30-315-QHD-Curved-Gaming-Monitor-170Hz",
+    "code": 180166
+  },
+  {
+    "price": 1020000,
+    "image": null,
+    "display_name": "Lenovo D20-30 19.5\" LED - HDMI",
+    "name": "Lenovo-D20-30-195-LED-HDMI",
+    "code": 180167
+  },
+  {
+    "price": 230000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/28/4f91841b-cf23-42fa-af23-ff8510f65399.jpg",
+    "display_name": "North Bayou NB-F120 Bracket Arm TV Monitor 17-27 Inch",
+    "name": "North-Bayou-NB-F120-Bracket-Arm-TV-Monitor-17-27-Inch",
+    "code": 180216
+  },
+  {
+    "price": 8245000,
+    "image": null,
+    "display_name": "SAMSUNG 32\" S32B800 ViewFinity 4K IPS with USB Type-C",
+    "name": "SAMSUNG-32-S32B800-ViewFinity-4K-IPS-with-USB-Type-C",
+    "code": 180254
+  },
+  {
+    "price": 6875000,
+    "image": null,
+    "display_name": "SAMSUNG 32\" S27B800 ViewFinity 4K IPS with USB Type-C",
+    "name": "SAMSUNG-32-S27B800-ViewFinity-4K-IPS-with-USB-Type-C",
+    "code": 180255
+  },
+  {
+    "price": 2510000,
+    "image": null,
+    "display_name": "SAMSUNG 32\"32T4500 HD Smart TV",
+    "name": "SAMSUNG-3232T4500-HD-Smart-TV",
+    "code": 180260
+  },
+  {
+    "price": 570000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/10/c3c80a50-22a7-4e9f-a389-03fe2a696ba0.jpg",
+    "display_name": "North Bayou H160 Bracket Dual Monitor 17-27Inch",
+    "name": "North-Bayou-H160-Bracket-Dual-Monitor-17-27Inch",
+    "code": 180261
+  },
+  {
+    "price": 825000,
+    "image": null,
+    "display_name": "North Bayou NB-SP2 SwiffeL Bracket TV  40-80 Inch",
+    "name": "North-Bayou-NB-SP2-SwiffeL-Bracket-TV-40-80-Inch",
+    "code": 180266
+  },
+  {
+    "price": 1235000,
+    "image": null,
+    "display_name": "North Bayou NB-SP5 Swivel Bracket TV 50-100 Inch",
+    "name": "North-Bayou-NB-SP5-Swivel-Bracket-TV-50-100-Inch",
+    "code": 180267
+  },
+  {
+    "price": 5550000,
+    "image": null,
+    "display_name": "North Bayou CF-100 Standing Bracket  TV 100 inch",
+    "name": "North-Bayou-CF-100-Standing-Bracket-TV-100-inch",
+    "code": 180268
+  },
+  {
+    "price": 157000,
+    "image": null,
+    "display_name": "Oximus Bracket T610 32\" - 65\" Black",
+    "name": "Oximus-Bracket-T610-32-65-Black",
+    "code": 180312
+  },
+  {
+    "price": 760000,
+    "image": null,
+    "display_name": "Oximus TC600 Standing Bracket TV 32\" - 65\"",
+    "name": "Oximus-TC600-Standing-Bracket-TV-32-65",
+    "code": 180316
+  },
+  {
+    "price": 409000,
+    "image": null,
+    "display_name": "Oximus P802 Ergonomic Stand Monitor",
+    "name": "Oximus-P802-Ergonomic-Stand-Monitor",
+    "code": 180321
+  },
+  {
+    "price": 560000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/10/1b339f2a-6066-424e-85be-b62b8023d7f4.jpg",
+    "display_name": "Oximus Bracket Hydra-ZDP1128 White 13\" - 27\"",
+    "name": "Oximus-Bracket-Hydra-ZDP1128-White-13-27",
+    "code": 180322
+  },
+  {
+    "price": 1240000,
+    "image": null,
+    "display_name": "Dahua LM24-A200 24'' FHD Monitor",
+    "name": "Dahua-LM24-A200-24-FHD-Monitor",
+    "code": 180594
+  },
+  {
+    "price": 1240000,
+    "image": null,
+    "display_name": "Dahua LM24-H200 23.8'' FHD Monitor Built in Speaker",
+    "name": "Dahua-LM24-H200-238-FHD-Monitor-Built-in-Speaker",
+    "code": 180595
+  },
+  {
+    "price": 2255000,
+    "image": null,
+    "display_name": "Acer 23.8\" RG241Y P FHD IPS 165Hz Gaming Monitor",
+    "name": "Acer-238-RG241Y-P-FHD-IPS-165Hz-Gaming-Monitor",
+    "code": 180660
+  },
+  {
+    "price": 1480000,
+    "image": null,
+    "display_name": "Acer 23.8\" K243Y FHD IPS 75Hz Monitor",
+    "name": "Acer-238-K243Y-FHD-IPS-75Hz-Monitor",
+    "code": 180661
+  },
+  {
+    "price": 1000000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/17/7a870101-a143-4cc0-bb50-d16cc04eb0bf.jpg",
+    "display_name": "CUBE GAMING 21.45\" CG22B0W FHD Frameless Design 75Hz - Response Time 5ms (SALE!! - Max 3 Dead Pixel)",
+    "name": "CUBE-GAMING-2145-CG22B0W-FHD-Frameless-Design-75Hz-Response-Time-5ms-SALE-Max-3-Dead-Pixel",
+    "code": 180730
+  },
+  {
+    "price": 6300000,
+    "image": null,
+    "display_name": "LG 31.5\" 32QP880-B QHD IPS 75Hz with Ergo Stand and USB Type-C",
+    "name": "LG-315-32QP880-B-QHD-IPS-75Hz-with-Ergo-Stand-and-USB-Type-C",
+    "code": 180789
+  },
+  {
+    "price": 3290000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/3/84fafb5d-0758-40da-a881-e178b54fcd0c.jpg",
+    "display_name": "BenQ MOBIUZ 23.8\" EX240 FHD IPS 165Hz Gaming Monitor",
+    "name": "BenQ-MOBIUZ-238-EX240-FHD-IPS-165Hz-Gaming-Monitor",
+    "code": 180946
+  },
+  {
+    "price": 235000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/10/4acb84b2-a9e1-4690-80c1-225263cbc50e.jpg",
+    "display_name": "Oximus Bracket Hydra-ZD1104",
+    "name": "Oximus-Bracket-Hydra-ZD1104",
+    "code": 180947
+  },
+  {
+    "price": 2355000,
+    "image": null,
+    "display_name": "SAMSUNG 24\" S24AG30 Odyssey G30A FHD Gaming Monitor 144Hz with Ergonomics Stand",
+    "name": "SAMSUNG-24-S24AG30-Odyssey-G30A-FHD-Gaming-Monitor-144Hz-with-Ergonomics-Stand",
+    "code": 181029
+  },
+  {
+    "price": 29290000,
+    "image": null,
+    "display_name": "ASUS ROG Swift OLED PG42UQ 41.5\" 4K Gaming Monitor 138Hz",
+    "name": "ASUS-ROG-Swift-OLED-PG42UQ-415-4K-Gaming-Monitor-138Hz",
+    "code": 181031
+  },
+  {
+    "price": 5190000,
+    "image": null,
+    "display_name": "ASUS ROG Strix XG256Q 24.5\" Fast IPS Gaming Monitor 180Hz",
+    "name": "ASUS-ROG-Strix-XG256Q-245-Fast-IPS-Gaming-Monitor-180Hz",
+    "code": 181032
+  },
+  {
+    "price": 3650000,
+    "image": null,
+    "display_name": "ASUS TUF Gaming VG249QM1A 23.8\" Fast IPS Gaming Monitor 270Hz",
+    "name": "ASUS-TUF-Gaming-VG249QM1A-238-Fast-IPS-Gaming-Monitor-270Hz",
+    "code": 181033
+  },
+  {
+    "price": 31050000,
+    "image": null,
+    "display_name": "ASUS ProArt PA32UCR-K 32\" 4K IPS Professional Monitor",
+    "name": "ASUS-ProArt-PA32UCR-K-32-4K-IPS-Professional-Monitor",
+    "code": 181045
+  },
+  {
+    "price": 66990000,
+    "image": null,
+    "display_name": "ASUS ProArt OLED PA32DC 31.5\" 4K Professional Monitor",
+    "name": "ASUS-ProArt-OLED-PA32DC-315-4K-Professional-Monitor",
+    "code": 181046
+  },
+  {
+    "price": 13790000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/18/9a4a8172-a6e1-489d-9438-bff59d3ed38e.jpg",
+    "display_name": "BenQ ZOWIE 24.5\" XL2566K FHD Gaming Monitor 360Hz DyAc",
+    "name": "BenQ-ZOWIE-245-XL2566K-FHD-Gaming-Monitor-360Hz-DyAc",
+    "code": 181131
+  },
+  {
+    "price": 4840000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/26/7250dab7-da51-485d-830b-b0b45b0410ce.jpg",
+    "display_name": "MSI G2712 27\" FHD IPS 170Hz Gaming Monitor",
+    "name": "MSI-G2712-27-FHD-IPS-170Hz-Gaming-Monitor",
+    "code": 181151
+  },
+  {
+    "price": 3360000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/26/32aeb236-5383-42e0-a757-7ac7637f3480.jpg",
+    "display_name": "MSI G2412 23.8\" FHD IPS 170Hz Gaming Monitor",
+    "name": "MSI-G2412-238-FHD-IPS-170Hz-Gaming-Monitor",
+    "code": 181152
+  },
+  {
+    "price": 4045000,
+    "image": null,
+    "display_name": "SAMSUNG 27\" S27R750 WQHD 144Hz Space Monitor",
+    "name": "SAMSUNG-27-S27R750-WQHD-144Hz-Space-Monitor",
+    "code": 181153
+  },
+  {
+    "price": 16390000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/10/d4d0e9b6-6cb8-4937-ac96-346a3e0e9af1.jpg",
+    "display_name": "SAMSUNG 32\" S32BG852 Odyssey Neo G8 UHD 240Hz MiniLED Curved Monitor",
+    "name": "SAMSUNG-32-S32BG852-Odyssey-Neo-G8-UHD-240Hz-MiniLED-Curved-Monitor",
+    "code": 181154
+  },
+  {
+    "price": 4070000,
+    "image": null,
+    "display_name": "Lenovo L28u-35 28\" UHD IPS Monitor",
+    "name": "Lenovo-L28u-35-28-UHD-IPS-Monitor",
+    "code": 181204
+  },
+  {
+    "price": 4050000,
+    "image": null,
+    "display_name": "Lenovo G27q-30 27\" QHD 165Hz Gaming Monitor",
+    "name": "Lenovo-G27q-30-27-QHD-165Hz-Gaming-Monitor",
+    "code": 181206
+  },
+  {
+    "price": 1310000,
+    "image": null,
+    "display_name": "ViewSonic 24\" VA2409-H FHD IPS Monitor",
+    "name": "ViewSonic-24-VA2409-H-FHD-IPS-Monitor",
+    "code": 181231
+  },
+  {
+    "price": 2330000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/10/e3da03c9-6d44-437d-ba8b-f3d438293904.jpg",
+    "display_name": "AOC 23.8\" 24G2SPE FHD IPS 165Hz Gaming Monitor",
+    "name": "AOC-238-24G2SPE-FHD-IPS-165Hz-Gaming-Monitor",
+    "code": 181364
+  },
+  {
+    "price": 3050000,
+    "image": null,
+    "display_name": "AOC 27\" 27G2SPE FHD IPS 165Hz Gaming Monitor",
+    "name": "AOC-27-27G2SPE-FHD-IPS-165Hz-Gaming-Monitor",
+    "code": 181365
+  },
+  {
+    "price": 1840000,
+    "image": null,
+    "display_name": "Lenovo D27-40 27\" FHD NearEdgeless Design 75Hz",
+    "name": "Lenovo-D27-40-27-FHD-NearEdgeless-Design-75Hz",
+    "code": 182164
+  },
+  {
+    "price": 1270000,
+    "image": null,
+    "display_name": "HyperX Armada Addon Gaming Mount",
+    "name": "HyperX-Armada-Addon-Gaming-Mount",
+    "code": 182301
+  },
+  {
+    "price": 1625000,
+    "image": null,
+    "display_name": "HyperX Armada Single Gaming Mount",
+    "name": "HyperX-Armada-Single-Gaming-Mount",
+    "code": 182302
+  },
+  {
+    "price": 7950000,
+    "image": null,
+    "display_name": "HyperX Armada 27 QHD IPS 165Hz Gaming Monitor",
+    "name": "HyperX-Armada-27-QHD-IPS-165Hz-Gaming-Monitor",
+    "code": 182303
+  },
+  {
+    "price": 7290000,
+    "image": null,
+    "display_name": "HyperX Armada 25 FHD IPS 240Hz Gaming Monitor",
+    "name": "HyperX-Armada-25-FHD-IPS-240Hz-Gaming-Monitor",
+    "code": 182304
+  },
+  {
+    "price": 2260000,
+    "image": null,
+    "display_name": "MSI Pro MP273 27\" FHD 75Hz IPS Monitor",
+    "name": "MSI-Pro-MP273-27-FHD-75Hz-IPS-Monitor",
+    "code": 182308
+  },
+  {
+    "price": 3600000,
+    "image": null,
+    "display_name": "MSI Pro MP273QP 27\" WQHD 75Hz IPS Monitor",
+    "name": "MSI-Pro-MP273QP-27-WQHD-75Hz-IPS-Monitor",
+    "code": 182309
+  },
+  {
+    "price": 5380000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/28/c02b9524-644a-418c-817f-087fef90dab7.jpg",
+    "display_name": "SAMSUNG 32\" S32AG524 Odyssey G5 QHD IPS G-SYNC Gaming Monitor 165Hz",
+    "name": "SAMSUNG-32-S32AG524-Odyssey-G5-QHD-IPS-G-SYNC-Gaming-Monitor-165Hz",
+    "code": 182434
+  },
+  {
+    "price": 2480000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/27/f153b817-9898-4868-b310-ff3a814afe71.jpg",
+    "display_name": "Gigabyte G24F 2 2\u200e3.8\" FHD IPS Gaming Monitor 180Hz",
+    "name": "Gigabyte-G24F-2-238-FHD-IPS-Gaming-Monitor-180Hz",
+    "code": 182435
+  },
+  {
+    "price": 4015000,
+    "image": null,
+    "display_name": "Philips 288E2UAE 28\" UHD 4K",
+    "name": "Philips-288E2UAE-28-UHD-4K",
+    "code": 182451
+  },
+  {
+    "price": 1275000,
+    "image": null,
+    "display_name": "Philips 242V8A 23.8\" FHD IPS 75Hz",
+    "name": "Philips-242V8A-238-FHD-IPS-75Hz",
+    "code": 182466
+  },
+  {
+    "price": 1420000,
+    "image": null,
+    "display_name": "AOC 23.8\" 24B2XDA FHD IPS 75Hz Frameless Monitor",
+    "name": "AOC-238-24B2XDA-FHD-IPS-75Hz-Frameless-Monitor",
+    "code": 182581
+  },
+  {
+    "price": 1490000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/9/8692d50a-5c0c-4f9e-a562-9d120937119b.jpg",
+    "display_name": "CUBE GAMING IRIS 23.8\" GF24FI FHD IPS Frameless Design 165Hz Gaming Monitor with AMD FreeSync & G-SYNC (HDMI +\u00a0DP) - Response Time 1ms",
+    "name": "CUBE-GAMING-IRIS-238-GF24FI-FHD-IPS-Frameless-Design-165Hz-Gaming-Monitor-with-AMD-FreeSync-G-SYNC-HDMI-DP-Response-Time-1ms",
+    "code": 182590
+  },
+  {
+    "price": 2280000,
+    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/5/c3b0a790-4035-4654-8395-59ded7c22a13.jpg",
+    "display_name": "LG 23.8\" 24GN60R-B UltraGear FHD IPS Gaming Monitor 144Hz",
+    "name": "LG-238-24GN60R-B-UltraGear-FHD-IPS-Gaming-Monitor-144Hz",
+    "code": 182592
+  },
+  {
+    "price": 885000,
+    "image": null,
+    "display_name": "Dahua LM20-A200S 19.5\" HD+ Monitor",
+    "name": "Dahua-LM20-A200S-195-HD-Monitor",
+    "code": 182597
+  },
+  {
+    "price": 1020000,
+    "image": null,
+    "display_name": "Dahua LM22-B200S 21.45\" FHD Monitor",
+    "name": "Dahua-LM22-B200S-2145-FHD-Monitor",
+    "code": 182598
+  },
+  {
+    "price": 2115000,
+    "image": null,
+    "display_name": "DELL 21.45\" E2222HS FHD Monitor",
+    "name": "DELL-2145-E2222HS-FHD-Monitor",
+    "code": 182662
+  },
+  {
+    "price": 7170000,
+    "image": null,
+    "display_name": "Cooler Master GM34-CW2 34\" UWQHD 144Hz (165Hz OC) Curved Gaming Monitor",
+    "name": "Cooler-Master-GM34-CW2-34-UWQHD-144Hz-165Hz-OC-Curved-Gaming-Monitor",
+    "code": 182734
+  },
+  {
+    "price": 2630000,
+    "image": null,
+    "display_name": "Cooler Master GM238-FFS 23.8\" FHD IPS 144Hz Gaming Monitor",
+    "name": "Cooler-Master-GM238-FFS-238-FHD-IPS-144Hz-Gaming-Monitor",
+    "code": 182735
+  },
+  {
+    "price": 2645000,
+    "image": null,
+    "display_name": "ViewSonic 32\" VA3209-MH FHD IPS Monitor Built-In Speaker",
+    "name": "ViewSonic-32-VA3209-MH-FHD-IPS-Monitor-Built-In-Speaker",
+    "code": 182810
+  },
+  {
+    "price": 4300000,
+    "image": null,
+    "display_name": "Philips 252M1RPE 24.5\" FHD IPS 240Hz Gaming Monitor",
+    "name": "Philips-252M1RPE-245-FHD-IPS-240Hz-Gaming-Monitor",
+    "code": 182811
+  },
+  {
+    "price": 1615000,
+    "image": null,
+    "display_name": "ViewSonic 24\" VX2416 FHD IPS 100Hz Gaming Monitor",
+    "name": "ViewSonic-24-VX2416-FHD-IPS-100Hz-Gaming-Monitor",
+    "code": 182812
+  },
+  {
+    "price": 3350000,
+    "image": null,
+    "display_name": "Philips 27M1N3200ZA 27\" FHD IPS 165Hz Gaming Monitor",
+    "name": "Philips-27M1N3200ZA-27-FHD-IPS-165Hz-Gaming-Monitor",
+    "code": 182813
+  },
+  {
+    "price": 2270000,
+    "image": null,
+    "display_name": "ViewSonic 24\" VX2418C FHD 165Hz Curved Gaming Monitor",
+    "name": "ViewSonic-24-VX2418C-FHD-165Hz-Curved-Gaming-Monitor",
+    "code": 182814
+  },
+  {
+    "price": 2155000,
+    "image": null,
+    "display_name": "Philips 272V8 27\" FHD IPS 75Hz Monitor",
+    "name": "Philips-272V8-27-FHD-IPS-75Hz-Monitor",
+    "code": 182815
+  },
+  {
+    "price": 6500000,
+    "image": null,
+    "display_name": "ViewSonic 34\" VX3418-2KPC-MHD  UWQHD 144Hz Curved Gaming Monitor",
+    "name": "ViewSonic-34-VX3418-2KPC-MHD-UWQHD-144Hz-Curved-Gaming-Monitor",
+    "code": 182816
+  },
+  {
+    "price": 10450000,
+    "image": null,
+    "display_name": "ViewSonic ColorPro 27\" VP2776 QHD IPS 165Hz Professional Monitor",
+    "name": "ViewSonic-ColorPro-27-VP2776-QHD-IPS-165Hz-Professional-Monitor",
+    "code": 182817
+  },
+  {
+    "price": 12250000,
+    "image": null,
+    "display_name": "ViewSonic Elite 25\" XG251G FHD IPS 360Hz Gaming Monitor",
+    "name": "ViewSonic-Elite-25-XG251G-FHD-IPS-360Hz-Gaming-Monitor",
+    "code": 182818
+  },
+  {
+    "price": 2980000,
+    "image": null,
+    "display_name": "LG 27\" 27GN60R UltraGear IPS Gaming Monitor 144Hz",
+    "name": "LG-27-27GN60R-UltraGear-IPS-Gaming-Monitor-144Hz",
+    "code": 182847
+  },
+  {
+    "price": 1010000,
+    "image": null,
+    "display_name": "SPC 22\" SM-22 HD LED",
+    "name": "SPC-22-SM-22-HD-LED",
+    "code": 182922
+  },
+  {
+    "price": 1980000,
+    "image": null,
+    "display_name": "CUBE GAMING RETINA 27\" F27FV FHD Frameless Design 75Hz - Response Time 5ms",
+    "name": "CUBE-GAMING-RETINA-27-F27FV-FHD-Frameless-Design-75Hz-Response-Time-5ms",
+    "code": 182953
+  },
+  {
+    "price": 2580000,
+    "image": null,
+    "display_name": "CUBE GAMING IRIS 27\" GF27FI FHD IPS Frameless Design 165Hz Gaming Monitor - Response Time 1ms",
+    "name": "CUBE-GAMING-IRIS-27-GF27FI-FHD-IPS-Frameless-Design-165Hz-Gaming-Monitor-Response-Time-1ms",
+    "code": 182954
+  },
+  {
+    "price": 3450000,
+    "image": null,
+    "display_name": "CUBE GAMING IRIS 27\" GF27QI QHD 2K IPS Frameless Design 165Hz Gaming Monitor with G-SYNC (HDMI +\u00a0DP) - USB-C Supported",
+    "name": "CUBE-GAMING-IRIS-27-GF27QI-QHD-2K-IPS-Frameless-Design-165Hz-Gaming-Monitor-with-G-SYNC-HDMI-DP-USB-C-Supported",
+    "code": 182955
+  },
+  {
+    "price": 18150000,
+    "image": null,
+    "display_name": "LG 48\" 48GQ900-B UltraGear UHD 4K OLED 120Hz Gaming Monitor",
+    "name": "LG-48-48GQ900-B-UltraGear-UHD-4K-OLED-120Hz-Gaming-Monitor",
+    "code": 182994
+  },
+  {
+    "price": 6240000,
+    "image": null,
+    "display_name": "LG 32\" 32UK580-B UHD 4K Monitor with Ergo Stand",
+    "name": "LG-32-32UK580-B-UHD-4K-Monitor-with-Ergo-Stand",
+    "code": 183001
+  },
+  {
+    "price": 5149000,
+    "image": null,
+    "display_name": "LG 27\" 27UK580-B UHD 4K IPS Monitor with Ergo Stand",
+    "name": "LG-27-27UK580-B-UHD-4K-IPS-Monitor-with-Ergo-Stand",
+    "code": 183002
+  },
+  {
+    "price": 5440000,
+    "image": null,
+    "display_name": "AOC AGON 27\" AG275QXR QHD IPS Gaming Monitor 165Hz (170Hz OC)",
+    "name": "AOC-AGON-27-AG275QXR-QHD-IPS-Gaming-Monitor-165Hz-170Hz-OC",
+    "code": 183153
+  },
+  {
+    "price": 7499000,
+    "image": null,
+    "display_name": "MSI Optix G27CQ4 E2 27\" WQHD 170Hz Curved Gaming Monitor",
+    "name": "MSI-Optix-G27CQ4-E2-27-WQHD-170Hz-Curved-Gaming-Monitor",
+    "code": 183250
+  },
+  {
+    "price": 5750000,
+    "image": null,
+    "display_name": "Xiaomi TV A2 55\" UHD 4K",
+    "name": "Xiaomi-TV-A2-55-UHD-4K",
+    "code": 183324
+  },
+  {
+    "price": 7370000,
+    "image": null,
+    "display_name": "Xiaomi TV Q1E 55\" OLED 4K",
+    "name": "Xiaomi-TV-Q1E-55-OLED-4K",
+    "code": 183325
+  },
+  {
+    "price": 8680000,
+    "image": null,
+    "display_name": "Xiaomi TV P1E 65\" UHD 4K",
+    "name": "Xiaomi-TV-P1E-65-UHD-4K",
+    "code": 183326
+  },
+  {
+    "price": 1280000,
+    "image": null,
+    "display_name": "AOC 23.8\" 24B3HM FHD 75Hz Frameless Monitor",
+    "name": "AOC-238-24B3HM-FHD-75Hz-Frameless-Monitor",
+    "code": 183345
+  },
+  {
+    "price": 2030000,
+    "image": null,
+    "display_name": "Philips 242E1GAEZ 23.8\" Gaming Monitor 165Hz",
+    "name": "Philips-242E1GAEZ-238-Gaming-Monitor-165Hz",
+    "code": 183346
+  },
+  {
+    "price": 6560000,
+    "image": null,
+    "display_name": "AOC AGON PRO AG275QXL 27\" QHD Fast IPS 170Hz Premium Gaming Monitor",
+    "name": "AOC-AGON-PRO-AG275QXL-27-QHD-Fast-IPS-170Hz-Premium-Gaming-Monitor",
+    "code": 183352
+  },
+  {
+    "price": 3900000,
+    "image": null,
+    "display_name": "LG 43\" 43UQ7500 UHD Smart TV",
+    "name": "LG-43-43UQ7500-UHD-Smart-TV",
+    "code": 183440
+  },
+  {
+    "price": 10000000,
+    "image": null,
+    "display_name": "LG 65\" 65UQ7500 UHD Smart TV",
+    "name": "LG-65-65UQ7500-UHD-Smart-TV",
+    "code": 183441
+  },
+  {
+    "price": 17150000,
+    "image": null,
+    "display_name": "LG 75\" 75UQ8050 UHD Smart TV",
+    "name": "LG-75-75UQ8050-UHD-Smart-TV",
+    "code": 183442
+  },
+  {
+    "price": 30400000,
+    "image": null,
+    "display_name": "LG 86\" 86UQ9000 UHD Smart TV",
+    "name": "LG-86-86UQ9000-UHD-Smart-TV",
+    "code": 183443
+  },
+  {
+    "price": 7730000,
+    "image": null,
+    "display_name": "ASRock Phantom Gaming PG34WQ15R3A 34\" WQHD 165Hz Curved Gaming Monitor",
+    "name": "ASRock-Phantom-Gaming-PG34WQ15R3A-34-WQHD-165Hz-Curved-Gaming-Monitor",
+    "code": 183444
+  },
+  {
+    "price": 6355000,
+    "image": null,
+    "display_name": "ASRock Phantom Gaming PG34WQ15R2B 34\" WQHD 165Hz Curved Gaming Monitor",
+    "name": "ASRock-Phantom-Gaming-PG34WQ15R2B-34-WQHD-165Hz-Curved-Gaming-Monitor",
+    "code": 183445
+  },
+  {
+    "price": 4515000,
+    "image": null,
+    "display_name": "ASRock Phantom Gaming PG32QF2B 31.5\" QHD 165Hz Gaming Monitor",
+    "name": "ASRock-Phantom-Gaming-PG32QF2B-315-QHD-165Hz-Gaming-Monitor",
+    "code": 183446
+  },
+  {
+    "price": 4220000,
+    "image": null,
+    "display_name": "ASRock Phantom Gaming PG27Q15R2A 27\" QHD 165Hz Curved Gaming Monitor",
+    "name": "ASRock-Phantom-Gaming-PG27Q15R2A-27-QHD-165Hz-Curved-Gaming-Monitor",
+    "code": 183447
+  },
+  {
+    "price": 3235000,
+    "image": null,
+    "display_name": "ASRock Phantom Gaming PG27F15RS1A 27\" FHD 240Hz Curved Gaming Monitor",
+    "name": "ASRock-Phantom-Gaming-PG27F15RS1A-27-FHD-240Hz-Curved-Gaming-Monitor",
+    "code": 183448
+  },
+  {
+    "price": 2945000,
+    "image": null,
+    "display_name": "ASRock Phantom Gaming PG27FF1A 27\u201d FHD 165Hz Gaming Monitor",
+    "name": "ASRock-Phantom-Gaming-PG27FF1A-27-FHD-165Hz-Gaming-Monitor",
+    "code": 183449
+  },
+  {
+    "price": 910000,
+    "image": null,
+    "display_name": "Oximus Bracket P820 17-27\" Desk Stand for Dual Monitor",
+    "name": "Oximus-Bracket-P820-17-27-Desk-Stand-for-Dual-Monitor",
+    "code": 183450
+  },
+  {
+    "price": 1165000,
+    "image": null,
+    "display_name": "Lenovo L22E-40 21.5\" FHD Edgeless Design 75Hz",
+    "name": "Lenovo-L22E-40-215-FHD-Edgeless-Design-75Hz",
+    "code": 183518
+  },
+  {
+    "price": 21950000,
+    "image": null,
+    "display_name": "SAMSUNG 49\" S49AG950 Odyssey Neo G9 Dual QHD 240Hz MiniLED Curved Monitor",
+    "name": "SAMSUNG-49-S49AG950-Odyssey-Neo-G9-Dual-QHD-240Hz-MiniLED-Curved-Monitor",
+    "code": 183537
+  },
+  {
+    "price": 15070000,
+    "image": null,
+    "display_name": "SAMSUNG 49\" S49A950U Super Ultra-wide Dual QHD 120Hz MiniLED Curved Monitor",
+    "name": "SAMSUNG-49-S49A950U-Super-Ultra-wide-Dual-QHD-120Hz-MiniLED-Curved-Monitor",
+    "code": 183538
+  },
+  {
+    "price": 2325000,
+    "image": null,
+    "display_name": "Acer 27\" K273 FHD IPS 75Hz Monitor",
+    "name": "Acer-27-K273-FHD-IPS-75Hz-Monitor",
+    "code": 183545
+  },
+  {
+    "price": 9749000,
+    "image": null,
+    "display_name": "MSI G32CQ4 E2 31.5\" WQHD 170Hz Curved Gaming Monitor",
+    "name": "MSI-G32CQ4-E2-315-WQHD-170Hz-Curved-Gaming-Monitor",
+    "code": 183558
+  },
+  {
+    "price": 6999000,
+    "image": null,
+    "display_name": "MSI Optix MAG342CQPV 34\" UWQHD 100Hz Curved Gaming Monitor",
+    "name": "MSI-Optix-MAG342CQPV-34-UWQHD-100Hz-Curved-Gaming-Monitor",
+    "code": 183559
+  },
+  {
+    "price": 2610000,
+    "image": null,
+    "display_name": "LG 23.8\" 24GN65R-B UltraGear FHD IPS Gaming Monitor 144Hz",
+    "name": "LG-238-24GN65R-B-UltraGear-FHD-IPS-Gaming-Monitor-144Hz",
+    "code": 183567
+  },
+  {
+    "price": 2839000,
+    "image": null,
+    "display_name": "Lenovo L15 15.6\" FHD IPS USB-C Portable Monitor",
+    "name": "Lenovo-L15-156-FHD-IPS-USB-C-Portable-Monitor",
+    "code": 183598
+  },
+  {
+    "price": 6100000,
+    "image": null,
+    "display_name": "Lenovo Legion Y27h-30 27\" QHD IPS 165Hz (180Hz OC) Gaming Monitor",
+    "name": "Lenovo-Legion-Y27h-30-27-QHD-IPS-165Hz-180Hz-OC-Gaming-Monitor",
+    "code": 183599
+  },
+  {
+    "price": 11799000,
+    "image": null,
+    "display_name": "Lenovo Legion Y32p-30 31.5\" UHD IPS 144Hz Gaming Monitor",
+    "name": "Lenovo-Legion-Y32p-30-315-UHD-IPS-144Hz-Gaming-Monitor",
+    "code": 183600
+  },
+  {
+    "price": 3225000,
+    "image": null,
+    "display_name": "ViewSonic 27\" VX2780-2K-PRO QHD IPS Entertainment Monitor",
+    "name": "ViewSonic-27-VX2780-2K-PRO-QHD-IPS-Entertainment-Monitor",
+    "code": 183604
+  },
+  {
+    "price": 7550000,
+    "image": null,
+    "display_name": "SAMSUNG 27\" S27BG652 Odyssey G6 WQHD Curved Gaming Monitor 240Hz",
+    "name": "SAMSUNG-27-S27BG652-Odyssey-G6-WQHD-Curved-Gaming-Monitor-240Hz",
+    "code": 183632
+  },
+  {
+    "price": 8380000,
+    "image": null,
+    "display_name": "SAMSUNG 32\" S32BG652 Odyssey G6 WQHD Curved Gaming Monitor 240Hz",
+    "name": "SAMSUNG-32-S32BG652-Odyssey-G6-WQHD-Curved-Gaming-Monitor-240Hz",
+    "code": 183633
+  },
+  {
+    "price": 9300000,
+    "image": null,
+    "display_name": "SAMSUNG 28\" S28BG700 Odyssey G7 UHD IPS Gaming Monitor 144Hz G-Sync Compatible with Smart TV Experience",
+    "name": "SAMSUNG-28-S28BG700-Odyssey-G7-UHD-IPS-Gaming-Monitor-144Hz-G-Sync-Compatible-with-Smart-TV-Experience",
+    "code": 183634
+  },
+  {
+    "price": 10450000,
+    "image": null,
+    "display_name": "SAMSUNG 32\" S32BG700 Odyssey G7 UHD IPS Gaming Monitor 144Hz G-Sync Compatible with Smart TV Experience",
+    "name": "SAMSUNG-32-S32BG700-Odyssey-G7-UHD-IPS-Gaming-Monitor-144Hz-G-Sync-Compatible-with-Smart-TV-Experience",
+    "code": 183636
+  },
+  {
+    "price": 1995000,
+    "image": null,
+    "display_name": "SAMSUNG 27\" S27C310 FHD IPS Monitor",
+    "name": "SAMSUNG-27-S27C310-FHD-IPS-Monitor",
+    "code": 183741
+  },
+  {
+    "price": 1990000,
+    "image": null,
+    "display_name": "SAMSUNG 24 F24T450 FHD IPS Business Monitor",
+    "name": "SAMSUNG-24-F24T450-FHD-IPS-Business-Monitor",
+    "code": 183742
+  },
+  {
+    "price": 3290000,
+    "image": null,
+    "display_name": "Lenovo Legion Y27-30 27\" FHD IPS 165Hz (180Hz OC) Gaming Monitor",
+    "name": "Lenovo-Legion-Y27-30-27-FHD-IPS-165Hz-180Hz-OC-Gaming-Monitor",
+    "code": 183743
+  },
+  {
+    "price": 1275000,
+    "image": null,
+    "display_name": "Lenovo D24-40 23.8\" FHD NearEdgeless Design",
+    "name": "Lenovo-D24-40-238-FHD-NearEdgeless-Design",
+    "code": 183744
+  },
+  {
+    "price": 1025000,
+    "image": null,
+    "display_name": "AOC 21.5\" 22B3HM  FHD 75Hz",
+    "name": "AOC-215-22B3HM-FHD-75Hz",
+    "code": 183786
+  },
+  {
+    "price": 3070000,
+    "image": null,
+    "display_name": "Xiaomi TV A2 43\" FHD",
+    "name": "Xiaomi-TV-A2-43-FHD",
+    "code": 183802
+  },
+  {
+    "price": 17290000,
+    "image": null,
+    "display_name": "ASUS ROG Swift OLED PG27AQDM 27\" QHD 240Hz Gaming Monitor",
+    "name": "ASUS-ROG-Swift-OLED-PG27AQDM-27-QHD-240Hz-Gaming-Monitor",
+    "code": 183807
+  },
+  {
+    "price": 2790000,
+    "image": null,
+    "display_name": "ASUS ZenScreen MB166C 15.6\" Portable USB Type-C FHD IPS Monitor",
+    "name": "ASUS-ZenScreen-MB166C-156-Portable-USB-Type-C-FHD-IPS-Monitor",
+    "code": 183808
+  },
+  {
+    "price": 4490000,
+    "image": null,
+    "display_name": "SAMSUNG 27\" S27AG524 Odyssey G5 QHD IPS G-SYNC Gaming Monitor 165Hz",
+    "name": "SAMSUNG-27-S27AG524-Odyssey-G5-QHD-IPS-G-SYNC-Gaming-Monitor-165Hz",
+    "code": 183874
+  },
+  {
+    "price": 3365000,
+    "image": null,
+    "display_name": "ViewSonic 27\" VX2780-2K 170Hz IPS Gaming Monitor",
+    "name": "ViewSonic-27-VX2780-2K-170Hz-IPS-Gaming-Monitor",
+    "code": 183997
+  },
+  {
+    "price": 2070000,
+    "image": null,
+    "display_name": "Asus VY249HGE 23.8\" FHD IPS 144Hz Gaming Monitor",
+    "name": "Asus-VY249HGE-238-FHD-IPS-144Hz-Gaming-Monitor",
+    "code": 184038
+  },
+  {
+    "price": 22220000,
+    "image": null,
+    "display_name": "Asus ROG Swift PG27AQN 27\" QHD Ultrafast IPS 360Hz  Gaming Monitor",
+    "name": "Asus-ROG-Swift-PG27AQN-27-QHD-Ultrafast-IPS-360Hz-Gaming-Monitor",
+    "code": 184039
+  },
+  {
+    "price": 2800000,
+    "image": null,
+    "display_name": "Asus VY279HGE 27\" FHD IPS 144Hz Gaming Monitor",
+    "name": "Asus-VY279HGE-27-FHD-IPS-144Hz-Gaming-Monitor",
+    "code": 184040
+  },
+  {
+    "price": 8270000,
+    "image": null,
+    "display_name": "Asus ROG Strix XG309CM 30\" WFHD Fast IPS 144Hz (220Hz OC) Gaming Monitor",
+    "name": "Asus-ROG-Strix-XG309CM-30-WFHD-Fast-IPS-144Hz-220Hz-OC-Gaming-Monitor",
+    "code": 184041
+  },
+  {
+    "price": 4700000,
+    "image": null,
+    "display_name": "Asus TUF Gaming VG30VQL1A 30\" WFHD 200Hz Curved Gaming Monitor",
+    "name": "Asus-TUF-Gaming-VG30VQL1A-30-WFHD-200Hz-Curved-Gaming-Monitor",
+    "code": 184042
+  },
+  {
+    "price": 4800000,
+    "image": null,
+    "display_name": "Asus TUF Gaming VG328H1B 31.5\" FHD 165Hz Curved\u00a0Gaming\u00a0Monitor",
+    "name": "Asus-TUF-Gaming-VG328H1B-315-FHD-165Hz-CurvedGamingMonitor",
+    "code": 184043
+  },
+  {
+    "price": 2785000,
+    "image": null,
+    "display_name": "Lenovo L24q-35 23.8\" QHD IPS 75Hz",
+    "name": "Lenovo-L24q-35-238-QHD-IPS-75Hz",
+    "code": 184101
+  },
+  {
+    "price": 9470000,
+    "image": null,
+    "display_name": "Dell UltraSharp U2723QE 27\" 4K USB-C Hub Monitor",
+    "name": "Dell-UltraSharp-U2723QE-27-4K-USB-C-Hub-Monitor",
+    "code": 184107
+  },
+  {
+    "price": 4780000,
+    "image": null,
+    "display_name": "LG 34\" 34WQ500-B UltraWide FHD VESA Display HDR IPS Monitor with AMD FreeSync",
+    "name": "LG-34-34WQ500-B-UltraWide-FHD-VESA-Display-HDR-IPS-Monitor-with-AMD-FreeSync",
+    "code": 184139
+  },
+  {
+    "price": 1090000,
+    "image": null,
+    "display_name": "Acer 19.5\" V206HQL Abi LED Wide Screen",
+    "name": "Acer-195-V206HQL-Abi-LED-Wide-Screen",
+    "code": 184152
+  },
+  {
+    "price": 20360000,
+    "image": null,
+    "display_name": "SAMSUNG 34\" S34BG850 OLED Ultra WQHD Curved Smart Gaming Monitor 144Hz",
+    "name": "SAMSUNG-34-S34BG850-OLED-Ultra-WQHD-Curved-Smart-Gaming-Monitor-144Hz",
+    "code": 184158
+  },
+  {
+    "price": 13120000,
+    "image": null,
+    "display_name": "SAMSUNG 43\" S43CG700 Odyssey Neo G7 4K Gaming Monitor 144Hz",
+    "name": "SAMSUNG-43-S43CG700-Odyssey-Neo-G7-4K-Gaming-Monitor-144Hz",
+    "code": 184159
+  },
+  {
+    "price": 2135000,
+    "image": null,
+    "display_name": "ViewSonic 24\" VX2428 FHD IPS 165Hz Gaming Monitor",
+    "name": "ViewSonic-24-VX2428-FHD-IPS-165Hz-Gaming-Monitor",
+    "code": 184223
+  },
+  {
+    "price": 13170000,
+    "image": null,
+    "display_name": "ASUS ProArt PA279CRV 27\" 4K UHD IPS Professional Monitor",
+    "name": "ASUS-ProArt-PA279CRV-27-4K-UHD-IPS-Professional-Monitor",
+    "code": 184240
+  },
+  {
+    "price": 7870000,
+    "image": null,
+    "display_name": "ASUS ProArt PA248CRV 24.1\" WUXGA IPS Professional Monitor",
+    "name": "ASUS-ProArt-PA248CRV-241-WUXGA-IPS-Professional-Monitor",
+    "code": 184241
+  },
+  {
+    "price": 775000,
+    "image": null,
+    "display_name": "Qwerty QM-190VH 19\" HD LED Monitor",
+    "name": "Qwerty-QM-190VH-19-HD-LED-Monitor",
+    "code": 184256
+  },
+  {
+    "price": 1240000,
+    "image": null,
+    "display_name": "HP P24v G5 23.8\" FHD Monitor",
+    "name": "HP-P24v-G5-238-FHD-Monitor",
+    "code": 184304
+  },
+  {
+    "price": 1230000,
+    "image": null,
+    "display_name": "HP P22v G5 22\" FHD Monitor",
+    "name": "HP-P22v-G5-22-FHD-Monitor",
+    "code": 184305
+  },
+  {
+    "price": 15250000,
+    "image": null,
+    "display_name": "DELL 34\" U3423WE UltraSharp WQHD Curved USB-C Monitor",
+    "name": "DELL-34-U3423WE-UltraSharp-WQHD-Curved-USB-C-Monitor",
+    "code": 184353
+  },
+  {
+    "price": 4910000,
+    "image": null,
+    "display_name": "Dell UltraSharp U2422HE 24\" FHD USB-C Hub Monitor",
+    "name": "Dell-UltraSharp-U2422HE-24-FHD-USB-C-Hub-Monitor",
+    "code": 184354
+  },
+  {
+    "price": 5080000,
+    "image": null,
+    "display_name": "DELL 27\" P2722HE FHD USB-C Monitor",
+    "name": "DELL-27-P2722HE-FHD-USB-C-Monitor",
+    "code": 184355
+  },
+  {
+    "price": 3375000,
+    "image": null,
+    "display_name": "Xiaomi Mi 30\" WFHD Curved Gaming Monitor 200Hz",
+    "name": "Xiaomi-Mi-30-WFHD-Curved-Gaming-Monitor-200Hz",
+    "code": 184409
+  },
+  {
+    "price": 5890000,
+    "image": null,
+    "display_name": "MSI Modern MD272QXP 27\" WQHD IPS 100Hz with USB-C",
+    "name": "MSI-Modern-MD272QXP-27-WQHD-IPS-100Hz-with-USB-C",
+    "code": 184412
+  },
+  {
+    "price": 4090000,
+    "image": null,
+    "display_name": "MSI G27C4 E2 27\" FHD 170Hz Curved Gaming Monitor",
+    "name": "MSI-G27C4-E2-27-FHD-170Hz-Curved-Gaming-Monitor",
+    "code": 184413
+  },
+  {
+    "price": 3630000,
+    "image": null,
+    "display_name": "MSI G27C4X 27\" FHD 250Hz Gaming Monitor",
+    "name": "MSI-G27C4X-27-FHD-250Hz-Gaming-Monitor",
+    "code": 184414
+  },
+  {
+    "price": 7850000,
+    "image": null,
+    "display_name": "MSI G274QPF-QD 27\" WQHD Rapid IPS 170Hz Gaming Monitor",
+    "name": "MSI-G274QPF-QD-27-WQHD-Rapid-IPS-170Hz-Gaming-Monitor",
+    "code": 184415
+  },
+  {
+    "price": 12800000,
+    "image": null,
+    "display_name": "MSI MAG321QR-QD 31.5\" WQHD IPS 170Hz Gaming Monitor",
+    "name": "MSI-MAG321QR-QD-315-WQHD-IPS-170Hz-Gaming-Monitor",
+    "code": 184416
+  },
+  {
+    "price": 35750000,
+    "image": null,
+    "display_name": "MSI MEG 342C QD-OLED 34.18\" UWQHD 175Hz Curved Gaming Monitor",
+    "name": "MSI-MEG-342C-QD-OLED-3418-UWQHD-175Hz-Curved-Gaming-Monitor",
+    "code": 184417
+  },
+  {
+    "price": 790000,
+    "image": null,
+    "display_name": "CUBE GAMING CORNEA 18.5\" F18HT (VGA & HDMI) 75Hz Monitor",
+    "name": "CUBE-GAMING-CORNEA-185-F18HT-VGA-HDMI-75Hz-Monitor",
+    "code": 184423
+  },
+  {
+    "price": 1280000,
+    "image": null,
+    "display_name": "CUBE GAMING IRIS 23.8\" F24FI FHD IPS Frameless Design 75Hz Gaming Monitor",
+    "name": "CUBE-GAMING-IRIS-238-F24FI-FHD-IPS-Frameless-Design-75Hz-Gaming-Monitor",
+    "code": 184424
+  },
+  {
+    "price": 2770000,
+    "image": null,
+    "display_name": "Lenovo D32-40 32\" FHD Monitor",
+    "name": "Lenovo-D32-40-32-FHD-Monitor",
+    "code": 184432
+  }
+]
