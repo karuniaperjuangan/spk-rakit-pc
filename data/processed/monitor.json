@@ -35,41 +35,6 @@
     "code": 124677
   },
   {
-    "price": 165000,
-    "image": null,
-    "display_name": "Bracket Draco-4412 32\" - 50\"",
-    "name": "Bracket-Draco-4412-32-50",
-    "code": 124727
-  },
-  {
-    "price": 265000,
-    "image": null,
-    "display_name": "Bracket Draco-6432 32\" - 65\"",
-    "name": "Bracket-Draco-6432-32-65",
-    "code": 124728
-  },
-  {
-    "price": 60000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/f55d06d3-cc56-480f-96eb-30272d7fe443.jpg",
-    "display_name": "Oximus Bracket Lynx-1123 13\" - 27\"",
-    "name": "Oximus-Bracket-Lynx-1123-13-27",
-    "code": 124734
-  },
-  {
-    "price": 138000,
-    "image": null,
-    "display_name": "Oximus Bracket Lynx-Y1124 13\" - 27\"",
-    "name": "Oximus-Bracket-Lynx-Y1124-13-27",
-    "code": 124735
-  },
-  {
-    "price": 77000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/7/f1dfe4ca-ff41-4225-8610-412334a23fbd.jpg",
-    "display_name": "Oximus Bracket Lynx-1163 13\" - 27\"",
-    "name": "Oximus-Bracket-Lynx-1163-13-27",
-    "code": 124740
-  },
-  {
     "price": 920000,
     "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/31945df3-12ee-49b5-b13b-dd9bf8e78b9b.png",
     "display_name": "LG 19\" LED 19M38A-B (Analog)",
@@ -82,13 +47,6 @@
     "display_name": "LG 23.8\" 24MK430H-B FHD IPS 75Hz with AMD FreeSync",
     "name": "LG-238-24MK430H-B-FHD-IPS-75Hz-with-AMD-FreeSync",
     "code": 155541
-  },
-  {
-    "price": 135000,
-    "image": null,
-    "display_name": "Adaptor LED Monitor LG 19v-2.1A",
-    "name": "Adaptor-LED-Monitor-LG-19v-21A",
-    "code": 156733
   },
   {
     "price": 3100000,
@@ -252,13 +210,6 @@
     "code": 164005
   },
   {
-    "price": 135000,
-    "image": null,
-    "display_name": "Adaptor LED Monitor 19v-0,84A",
-    "name": "Adaptor-LED-Monitor-19v-084A",
-    "code": 164205
-  },
-  {
     "price": 2825000,
     "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/4/6953d489-a2cd-486d-b506-8627a24f57fb.png",
     "display_name": "ViewSonic 23.8\" XG2405 144Hz FHD IPS Gaming Monitor",
@@ -299,13 +250,6 @@
     "display_name": "BenQ ZOWIE 27\" XL2731 FHD Gaming Monitor 144Hz",
     "name": "BenQ-ZOWIE-27-XL2731-FHD-Gaming-Monitor-144Hz",
     "code": 165180
-  },
-  {
-    "price": 235000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/25/ac7f63a8-60ac-4c8d-89b2-2a5fd24a0647.jpg",
-    "display_name": "North Bayou NB-F80 Bracket Monitor 17-27 Inch",
-    "name": "North-Bayou-NB-F80-Bracket-Monitor-17-27-Inch",
-    "code": 165198
   },
   {
     "price": 5990000,
@@ -371,13 +315,6 @@
     "code": 166433
   },
   {
-    "price": 138000,
-    "image": null,
-    "display_name": "Bracket Oximus EV-02",
-    "name": "Bracket-Oximus-EV-02",
-    "code": 166437
-  },
-  {
     "price": 14815000,
     "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/0b78c061-48e5-4cfc-abc7-ccbc3fe7777e.jpg",
     "display_name": "ASUS ROG Strix XG27UQ 27\" 4K IPS Gaming Monitor 144Hz",
@@ -413,13 +350,6 @@
     "code": 166946
   },
   {
-    "price": 140000,
-    "image": null,
-    "display_name": "Adaptor LED Monitor LG 19v-1.2A",
-    "name": "Adaptor-LED-Monitor-LG-19v-12A",
-    "code": 167154
-  },
-  {
     "price": 8750000,
     "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/2/aaeb725c-0ab6-46dd-95ca-3725fc974ced.png",
     "display_name": "LG 35\" 35WN75C-B UltraWide QHD HDR Curved Monitor 100Hz",
@@ -446,27 +376,6 @@
     "display_name": "ViewSonic 24\" TD2455 Touchscreen",
     "name": "ViewSonic-24-TD2455-Touchscreen",
     "code": 167189
-  },
-  {
-    "price": 36000,
-    "image": null,
-    "display_name": "Oximus Bracket Aquila-2204 14\" - 42\"",
-    "name": "Oximus-Bracket-Aquila-2204-14-42",
-    "code": 167193
-  },
-  {
-    "price": 55000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/686b0491-6ee4-4e0e-9e77-e2e7687b64d8.jpg",
-    "display_name": "Oximus Bracket Aquila-2227 14\" - 42\"",
-    "name": "Oximus-Bracket-Aquila-2227-14-42",
-    "code": 167194
-  },
-  {
-    "price": 81000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/4dab2396-c29a-4fe2-9ed3-69d4aa6a00d7.jpg",
-    "display_name": "Oximus Bracket Aquila-4450 23\" - 55\"",
-    "name": "Oximus-Bracket-Aquila-4450-23-55",
-    "code": 167195
   },
   {
     "price": 2350000,
@@ -509,13 +418,6 @@
     "display_name": "SAMSUNG 24\" S24R350 FHD IPS Bezel-less Design 75Hz",
     "name": "SAMSUNG-24-S24R350-FHD-IPS-Bezel-less-Design-75Hz",
     "code": 167401
-  },
-  {
-    "price": 460000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/4d0e0389-0464-4acb-8298-3367dd9762f4.jpg",
-    "display_name": "Oximus Bracket Hydra-ZDP1128 13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZDP1128-13-27",
-    "code": 167452
   },
   {
     "price": 2415000,
@@ -574,25 +476,11 @@
     "code": 167623
   },
   {
-    "price": 135000,
-    "image": null,
-    "display_name": "Adaptor LED Monitor Samsung 14V-1.07A",
-    "name": "Adaptor-LED-Monitor-Samsung-14V-107A",
-    "code": 167977
-  },
-  {
     "price": 6750000,
     "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/23/7ebe9038-62bd-4e33-9c9a-798860e8b13f.jpg",
     "display_name": "LG 27\" 27GN880-B UltraGear QHD Nano IPS Gaming Monitor 144Hz",
     "name": "LG-27-27GN880-B-UltraGear-QHD-Nano-IPS-Gaming-Monitor-144Hz",
     "code": 168119
-  },
-  {
-    "price": 1495000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/caf48050-391a-4267-a727-3dedaac315a8.jpg",
-    "display_name": "North Bayou AVA 1800-70-1P Bracket Standing Monitor 55-80 Inch",
-    "name": "North-Bayou-AVA-1800-70-1P-Bracket-Standing-Monitor-55-80-Inch",
-    "code": 168176
   },
   {
     "price": 7480000,
@@ -700,13 +588,6 @@
     "code": 169895
   },
   {
-    "price": 240000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/9923fe0a-122e-405f-8c3c-6b0215e20869.jpg",
-    "display_name": "Oximus Bracket Hydra-ZDP1118  13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZDP1118-13-27",
-    "code": 170082
-  },
-  {
     "price": 2260000,
     "image": null,
     "display_name": "BenQ 24\" EW2480 LED",
@@ -747,13 +628,6 @@
     "display_name": "Lenovo D24-20 23.8\" FHD Edgeless Design",
     "name": "Lenovo-D24-20-238-FHD-Edgeless-Design",
     "code": 170395
-  },
-  {
-    "price": 108000,
-    "image": null,
-    "display_name": "Bracket Oximus Lynx 2232",
-    "name": "Bracket-Oximus-Lynx-2232",
-    "code": 170602
   },
   {
     "price": 3140000,
@@ -803,13 +677,6 @@
     "display_name": "SAMSUNG 18,5\" S19A330 LED - HDMI",
     "name": "SAMSUNG-185-S19A330-LED-HDMI",
     "code": 170872
-  },
-  {
-    "price": 235000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/5/dd61c496-2755-4f87-acef-bf6e34ba80a3.jpg",
-    "display_name": "Bracket North Bayou H80 17\" - 27\"",
-    "name": "Bracket-North-Bayou-H80-17-27",
-    "code": 170898
   },
   {
     "price": 1755000,
@@ -931,13 +798,6 @@
     "code": 171104
   },
   {
-    "price": 279000,
-    "image": null,
-    "display_name": "Oximus Bracket Hydra-ZL1102 13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZL1102-13-27",
-    "code": 171137
-  },
-  {
     "price": 2180000,
     "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/7/aa729aac-38a2-45fc-a976-e0229c5c9a2c.png",
     "display_name": "LG 27\" LED 27MP500 Gaming Monitor",
@@ -1020,13 +880,6 @@
     "display_name": "LG 43\" 43LM5750 Smart TV",
     "name": "LG-43-43LM5750-Smart-TV",
     "code": 171879
-  },
-  {
-    "price": 310000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/3/1/279e080f-ea55-4fff-8dd7-4d2efc3ed601.jpg",
-    "display_name": "Oximus Bracket Hydra-ZD1124",
-    "name": "Oximus-Bracket-Hydra-ZD1124",
-    "code": 171926
   },
   {
     "price": 4935000,
@@ -1540,13 +1393,6 @@
     "code": 174423
   },
   {
-    "price": 179000,
-    "image": null,
-    "display_name": "Oximus Bracket CB-762 26\" - 55\"",
-    "name": "Oximus-Bracket-CB-762-26-55",
-    "code": 174481
-  },
-  {
     "price": 1020000,
     "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/3/32c816b3-4b76-477a-820a-021207fbb118.jpg",
     "display_name": "Philips 221V8 21.5\" LED",
@@ -1603,13 +1449,6 @@
     "code": 174998
   },
   {
-    "price": 609000,
-    "image": null,
-    "display_name": "Oximus Bracket Hydra-ZL1123 13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZL1123-13-27",
-    "code": 175021
-  },
-  {
     "price": 4969000,
     "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/28/e20949bc-8c4f-400e-9c71-7612dae6e75b.jpg",
     "display_name": "MSI Optix MAG301CR2 29.5\" WFHD Curved Gaming Monitor 200Hz",
@@ -1657,69 +1496,6 @@
     "display_name": "ACER Nitro 23.8\" XV242YP Gaming Monitor 165Hz",
     "name": "ACER-Nitro-238-XV242YP-Gaming-Monitor-165Hz",
     "code": 175154
-  },
-  {
-    "price": 295000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/fc1d48ef-43f7-46d3-94c2-f7e170186344.jpg",
-    "display_name": "North Bayou NB-F150 Bracket Arm TV Monitor 17-35 Inch",
-    "name": "North-Bayou-NB-F150-Bracket-Arm-TV-Monitor-17-35-Inch",
-    "code": 175174
-  },
-  {
-    "price": 5850000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/de64b297-a646-47ef-87e4-93b6b32a0f17.jpg",
-    "display_name": "North Bayou AVT1800-65-2A Bracket Dual Standing Monitor 40-65 Inch",
-    "name": "North-Bayou-AVT1800-65-2A-Bracket-Dual-Standing-Monitor-40-65-Inch",
-    "code": 175176
-  },
-  {
-    "price": 1100000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/33fd8db2-1b7c-4e3c-a476-8a47c1b29abd.jpg",
-    "display_name": "North Bayou AVA1500-60-1P Bracket Standing Monitor 32-70 Inch",
-    "name": "North-Bayou-AVA1500-60-1P-Bracket-Standing-Monitor-32-70-Inch",
-    "code": 175177
-  },
-  {
-    "price": 1265000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/536ac24a-dbbf-4655-952b-8e5165898bdc.jpg",
-    "display_name": "North Bayou AVF1500-50-1P Bracket Standing Monitor 32-65 Inch",
-    "name": "North-Bayou-AVF1500-50-1P-Bracket-Standing-Monitor-32-65-Inch",
-    "code": 175178
-  },
-  {
-    "price": 135000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/5/b5ca8167-6acf-4925-8a35-4a8e2954334f.jpg",
-    "display_name": "North Bayou NB-P4 Bracket Monitor Wall Mount 32-55 Inch",
-    "name": "North-Bayou-NB-P4-Bracket-Monitor-Wall-Mount-32-55-Inch",
-    "code": 175179
-  },
-  {
-    "price": 270000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/baa03482-53d6-4416-ab81-b9539da91dde.jpg",
-    "display_name": "North Bayou NB-P5 Bracket Monitor Wall Mount 40-70 Inch",
-    "name": "North-Bayou-NB-P5-Bracket-Monitor-Wall-Mount-40-70-Inch",
-    "code": 175180
-  },
-  {
-    "price": 585000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/1/07f2dac8-b310-4ba4-a3c3-1c363ddf98ab.jpg",
-    "display_name": "North Bayou NB-F195A Bracket Dual Monitor 22-32 Inch",
-    "name": "North-Bayou-NB-F195A-Bracket-Dual-Monitor-22-32-Inch",
-    "code": 175181
-  },
-  {
-    "price": 130000,
-    "image": null,
-    "display_name": "North Bayou NB-C3F Bracket Monitor Wall Mount 40-65 Inch",
-    "name": "North-Bayou-NB-C3F-Bracket-Monitor-Wall-Mount-40-65-Inch",
-    "code": 175182
-  },
-  {
-    "price": 559000,
-    "image": null,
-    "display_name": "Oximus Bracket Hydra-ZD1123 13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZD1123-13-27",
-    "code": 175184
   },
   {
     "price": 5955000,
@@ -1806,41 +1582,6 @@
     "code": 175844
   },
   {
-    "price": 60000,
-    "image": null,
-    "display_name": "Oximus Bracket Aquila-4401 22\" - 55\"",
-    "name": "Oximus-Bracket-Aquila-4401-22-55",
-    "code": 175990
-  },
-  {
-    "price": 909000,
-    "image": null,
-    "display_name": "Oximus Bracket TC-1700 32\u2033 \u2013 70\u2033",
-    "name": "Oximus-Bracket-TC-1700-32-70",
-    "code": 175992
-  },
-  {
-    "price": 309000,
-    "image": null,
-    "display_name": "Oximus Bracket Hydra-ZL1104 13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZL1104-13-27",
-    "code": 175999
-  },
-  {
-    "price": 409000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/17/ef589f6d-91ec-4366-853f-822812edd2d1.jpg",
-    "display_name": "Oximus Bracket Hydra-ZL1124 13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZL1124-13-27",
-    "code": 176000
-  },
-  {
-    "price": 809000,
-    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/8/0e5d99b8-a2ca-4b05-a80b-3c1696fb7f40.jpg",
-    "display_name": "Oximus Bracket Hydra-ZL1141 13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZL1141-13-27",
-    "code": 176001
-  },
-  {
     "price": 3805000,
     "image": null,
     "display_name": "Lenovo Q27q-1L 27\" QHD IPS Monitor",
@@ -1867,13 +1608,6 @@
     "display_name": "ViewSonic 18.5\" VA1903H-2 LED",
     "name": "ViewSonic-185-VA1903H-2-LED",
     "code": 176070
-  },
-  {
-    "price": 120000,
-    "image": null,
-    "display_name": "Adaptor LED Monitor LG 19v-0.8A",
-    "name": "Adaptor-LED-Monitor-LG-19v-08A",
-    "code": 176169
   },
   {
     "price": 810000,
@@ -2021,13 +1755,6 @@
     "display_name": "LG 21.45\" 22MP410-B FHD with AMD FreeSync",
     "name": "LG-2145-22MP410-B-FHD-with-AMD-FreeSync",
     "code": 176996
-  },
-  {
-    "price": 130000,
-    "image": null,
-    "display_name": "Adaptor LED Monitor LG 19v-1.3A",
-    "name": "Adaptor-LED-Monitor-LG-19v-13A",
-    "code": 177006
   },
   {
     "price": 34590000,
@@ -2198,13 +1925,6 @@
     "code": 177258
   },
   {
-    "price": 320000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/9/8fcd1a8f-a46c-4ee3-9288-f12e593a6fd9.jpg",
-    "display_name": "Bracket North Bayou H100 22\" - 35\"",
-    "name": "Bracket-North-Bayou-H100-22-35",
-    "code": 177385
-  },
-  {
     "price": 5186000,
     "image": null,
     "display_name": "Lenovo L32p-30 31.5\" UHD IPS Entertainment Monitor",
@@ -2224,13 +1944,6 @@
     "display_name": "Lenovo L27m-30 27\" FHD USB Type C Monitor",
     "name": "Lenovo-L27m-30-27-FHD-USB-Type-C-Monitor",
     "code": 177414
-  },
-  {
-    "price": 210000,
-    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/55a18223-a37c-4688-b8f1-a3912a7912d5.jpg",
-    "display_name": "Oximus Bracket Hydra-ZD1102 13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZD1102-13-27",
-    "code": 177522
   },
   {
     "price": 4750000,
@@ -2380,48 +2093,6 @@
     "code": 178317
   },
   {
-    "price": 540000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/14/016ed4e2-32f5-45d5-8138-69b4599878dc.jpg",
-    "display_name": "North Bayou NB-F160 Bracket Dual Monitor 17-27 Inch",
-    "name": "North-Bayou-NB-F160-Bracket-Dual-Monitor-17-27-Inch",
-    "code": 178318
-  },
-  {
-    "price": 625000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/11/8b9c471a-ac8d-4483-86d4-224eaeb470b3.jpg",
-    "display_name": "North Bayou NBDF80-T Bracket Monitor 60-80 Inch",
-    "name": "North-Bayou-NBDF80-T-Bracket-Monitor-60-80-Inch",
-    "code": 178369
-  },
-  {
-    "price": 80000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/aab72085-a565-4690-8e75-76cadb9de409.jpg",
-    "display_name": "North Bayou NBC D2F Bracket Monitor 32-55 Inch",
-    "name": "North-Bayou-NBC-D2F-Bracket-Monitor-32-55-Inch",
-    "code": 178370
-  },
-  {
-    "price": 80000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/11/781e610b-e925-41aa-a629-fe806f6421c0.jpg",
-    "display_name": "North Bayou NBC 1F Bracket Monitor 17-37 Inch",
-    "name": "North-Bayou-NBC-1F-Bracket-Monitor-17-37-Inch",
-    "code": 178371
-  },
-  {
-    "price": 560000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/9f733e52-2d1d-496d-9b91-22a0aabddfc8.jpg",
-    "display_name": "North Bayou H180 Bracket Dual Monitor 22-32 Inch",
-    "name": "North-Bayou-H180-Bracket-Dual-Monitor-22-32-Inch",
-    "code": 178372
-  },
-  {
-    "price": 290000,
-    "image": "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/10/5af4b333-dbd9-43ce-b5a9-718baa8d8072.jpg",
-    "display_name": "North Bayou NB-P6 Bracket Monitor Wall Mount 45-75 Inch",
-    "name": "North-Bayou-NB-P6-Bracket-Monitor-Wall-Mount-45-75-Inch",
-    "code": 178373
-  },
-  {
     "price": 3750000,
     "image": null,
     "display_name": "Lenovo L28u-30 28\" UHD Monitor",
@@ -2497,13 +2168,6 @@
     "display_name": "ViewSonic 24\" VG2440V IPS Full HD Video Conferencing Monitor",
     "name": "ViewSonic-24-VG2440V-IPS-Full-HD-Video-Conferencing-Monitor",
     "code": 178832
-  },
-  {
-    "price": 1110000,
-    "image": null,
-    "display_name": "Oximus Bracket P300 Triple Arms 27\" or Above",
-    "name": "Oximus-Bracket-P300-Triple-Arms-27-or-Above",
-    "code": 179068
   },
   {
     "price": 6535000,
@@ -2646,20 +2310,6 @@
     "code": 179338
   },
   {
-    "price": 480000,
-    "image": null,
-    "display_name": "Oximus Bracket P100 22\" - 34\" White",
-    "name": "Oximus-Bracket-P100-22-34-White",
-    "code": 179452
-  },
-  {
-    "price": 450000,
-    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/30/60da5b59-66df-4edf-8b65-352f538a41ca.jpg",
-    "display_name": "Oximus Bracket P100 22\" - 34\" Black",
-    "name": "Oximus-Bracket-P100-22-34-Black",
-    "code": 179453
-  },
-  {
     "price": 9300000,
     "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/25/35c3aa6e-23ec-4776-817e-57d6c6f9c51a.jpg",
     "display_name": "LG 27\" 27GP95R-B UltraGear UHD 4K IPS 144Hz (160Hz Overclock) Gaming Monitor",
@@ -2758,13 +2408,6 @@
     "code": 179882
   },
   {
-    "price": 300000,
-    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/8/1b59ee04-193c-4fb9-95e8-b8ea167d7cf0.jpg",
-    "display_name": "Oximus Bracket Hydra-ZDP1118 White 13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZDP1118-White-13-27",
-    "code": 179885
-  },
-  {
     "price": 23059000,
     "image": null,
     "display_name": "DELL 40\" U4021QW UltraSharp Curved WUHD Monitor",
@@ -2772,25 +2415,11 @@
     "code": 179892
   },
   {
-    "price": 760000,
-    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/64cb06c2-d666-431e-8721-cf97f5088cd2.jpg",
-    "display_name": "Oximus Bracket P200 22\" - 34\" Black",
-    "name": "Oximus-Bracket-P200-22-34-Black",
-    "code": 179920
-  },
-  {
     "price": 2530000,
     "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/12/471ea707-fb04-4f91-91f2-48642c566b3f.jpg",
     "display_name": "MSI Modern MD241PW 23.8\" FHD IPS 75hz",
     "name": "MSI-Modern-MD241PW-238-FHD-IPS-75hz",
     "code": 179928
-  },
-  {
-    "price": 120000,
-    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/15/5ae8f818-2cff-4dd6-8c6f-6d976c256f61.jpg",
-    "display_name": "Oximus Bracket T410 32\" - 55\" Black",
-    "name": "Oximus-Bracket-T410-32-55-Black",
-    "code": 179945
   },
   {
     "price": 10170000,
@@ -2898,13 +2527,6 @@
     "code": 180167
   },
   {
-    "price": 230000,
-    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/28/4f91841b-cf23-42fa-af23-ff8510f65399.jpg",
-    "display_name": "North Bayou NB-F120 Bracket Arm TV Monitor 17-27 Inch",
-    "name": "North-Bayou-NB-F120-Bracket-Arm-TV-Monitor-17-27-Inch",
-    "code": 180216
-  },
-  {
     "price": 8245000,
     "image": null,
     "display_name": "SAMSUNG 32\" S32B800 ViewFinity 4K IPS with USB Type-C",
@@ -2924,62 +2546,6 @@
     "display_name": "SAMSUNG 32\"32T4500 HD Smart TV",
     "name": "SAMSUNG-3232T4500-HD-Smart-TV",
     "code": 180260
-  },
-  {
-    "price": 570000,
-    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/10/c3c80a50-22a7-4e9f-a389-03fe2a696ba0.jpg",
-    "display_name": "North Bayou H160 Bracket Dual Monitor 17-27Inch",
-    "name": "North-Bayou-H160-Bracket-Dual-Monitor-17-27Inch",
-    "code": 180261
-  },
-  {
-    "price": 825000,
-    "image": null,
-    "display_name": "North Bayou NB-SP2 SwiffeL Bracket TV  40-80 Inch",
-    "name": "North-Bayou-NB-SP2-SwiffeL-Bracket-TV-40-80-Inch",
-    "code": 180266
-  },
-  {
-    "price": 1235000,
-    "image": null,
-    "display_name": "North Bayou NB-SP5 Swivel Bracket TV 50-100 Inch",
-    "name": "North-Bayou-NB-SP5-Swivel-Bracket-TV-50-100-Inch",
-    "code": 180267
-  },
-  {
-    "price": 5550000,
-    "image": null,
-    "display_name": "North Bayou CF-100 Standing Bracket  TV 100 inch",
-    "name": "North-Bayou-CF-100-Standing-Bracket-TV-100-inch",
-    "code": 180268
-  },
-  {
-    "price": 157000,
-    "image": null,
-    "display_name": "Oximus Bracket T610 32\" - 65\" Black",
-    "name": "Oximus-Bracket-T610-32-65-Black",
-    "code": 180312
-  },
-  {
-    "price": 760000,
-    "image": null,
-    "display_name": "Oximus TC600 Standing Bracket TV 32\" - 65\"",
-    "name": "Oximus-TC600-Standing-Bracket-TV-32-65",
-    "code": 180316
-  },
-  {
-    "price": 409000,
-    "image": null,
-    "display_name": "Oximus P802 Ergonomic Stand Monitor",
-    "name": "Oximus-P802-Ergonomic-Stand-Monitor",
-    "code": 180321
-  },
-  {
-    "price": 560000,
-    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/10/1b339f2a-6066-424e-85be-b62b8023d7f4.jpg",
-    "display_name": "Oximus Bracket Hydra-ZDP1128 White 13\" - 27\"",
-    "name": "Oximus-Bracket-Hydra-ZDP1128-White-13-27",
-    "code": 180322
   },
   {
     "price": 1240000,
@@ -3029,13 +2595,6 @@
     "display_name": "BenQ MOBIUZ 23.8\" EX240 FHD IPS 165Hz Gaming Monitor",
     "name": "BenQ-MOBIUZ-238-EX240-FHD-IPS-165Hz-Gaming-Monitor",
     "code": 180946
-  },
-  {
-    "price": 235000,
-    "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/10/4acb84b2-a9e1-4690-80c1-225263cbc50e.jpg",
-    "display_name": "Oximus Bracket Hydra-ZD1104",
-    "name": "Oximus-Bracket-Hydra-ZD1104",
-    "code": 180947
   },
   {
     "price": 2355000,
@@ -3526,13 +3085,6 @@
     "display_name": "ASRock Phantom Gaming PG27FF1A 27\u201d FHD 165Hz Gaming Monitor",
     "name": "ASRock-Phantom-Gaming-PG27FF1A-27-FHD-165Hz-Gaming-Monitor",
     "code": 183449
-  },
-  {
-    "price": 910000,
-    "image": null,
-    "display_name": "Oximus Bracket P820 17-27\" Desk Stand for Dual Monitor",
-    "name": "Oximus-Bracket-P820-17-27-Desk-Stand-for-Dual-Monitor",
-    "code": 183450
   },
   {
     "price": 1165000,

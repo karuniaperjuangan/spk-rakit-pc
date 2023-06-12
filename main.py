@@ -21,8 +21,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.add_middleware(DBSessionMiddleware, db_url=os.environ['DATABASE_URL'])
+#app.add_middleware(DBSessionMiddleware, db_url=os.environ['DATABASE_URL'])
 app.include_router(router)
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="localhost", port=8000)
