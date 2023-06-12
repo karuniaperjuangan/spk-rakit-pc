@@ -4,49 +4,57 @@ from sqlalchemy.ext.declarative import declarative_base
 Base = declarative_base()
 
 class CPU(Base):
-    __table__ = 'cpu'
+    __table__ = 'processor'
 
-    PCODE = Column(Integer, primary_key=True)
-    PNAME = Column(VARCHAR(200))
-    PPRCZ0 = Column(Integer)
-    PPRCZ1 = Column(Integer)
+    code = Column(Integer, primary_key=True)
+    display_name = Column(VARCHAR(200))
+    brand = Column(String(50))
+    socket = Column(String(50))
+    image = Column(VARCHAR(200))
+    price = Column(Integer)
 
 class Monitor(Base):
-    __table__ = 'prosesor'
+    __table__ = 'monitor'
 
-    PCODE = Column(Integer, primary_key=True)
-    PNAME = Column(VARCHAR(200))
-    PPRCZ0 = Column(Integer)
-    PPRCZ1 = Column(Integer)
+    code = Column(Integer, primary_key=True)
+    display_name = Column(VARCHAR(200))
+    image = Column(VARCHAR(200))
+    price = Column(Integer)
 
 class GPU(Base):
     __table__ = 'gpu'
 
-    PCODE = Column(Integer, primary_key=True)
-    PNAME = Column(VARCHAR(200))
-    PPRCZ0 = Column(Integer)
-    PPRCZ1 = Column(Integer)
+    code = Column(Integer, primary_key=True)
+    display_name = Column(VARCHAR(200))
+    brand = Column(String(50))
+    size = Column(VARCHAR(10))
+    image = Column(VARCHAR(200))
+    price = Column(Integer)
 
 class RAM(Base):
     __table__ = 'ram'
 
-    PCODE = Column(Integer, primary_key=True)
-    PNAME = Column(VARCHAR(200))
-    PPRCZ0 = Column(Integer)
-    PPRCZ1 = Column(Integer)
+    code = Column(Integer, primary_key=True)
+    display_name = Column(VARCHAR(200))
+    size = Column(VARCHAR(10))
+    ram_type = Column(VARCHAR(10))
+    image = Column(VARCHAR(200))
+    price = Column(Integer)
 
 class StorageHDD(Base):
     __table__ = 'hdd'
 
-    PCODE = Column(Integer, primary_key=True)
-    PNAME = Column(VARCHAR(200))
-    PPRCZ0 = Column(Integer)
-    PPRCZ1 = Column(Integer)
+    code = Column(Integer, primary_key=True)
+    display_name = Column(VARCHAR(200))
+    size = Column(VARCHAR(10))
+    image = Column(VARCHAR(200))
+    price = Column(Integer)
 
 class StorageSSD(Base):
     __table__ = 'ssd'
 
-    PCODE = Column(Integer, primary_key=True)
-    PNAME = Column(VARCHAR(200))
-    PPRCZ0 = Column(Integer)
-    PPRCZ1 = Column(Integer)
+    code = Column(Integer, primary_key=True)
+    display_name = Column(VARCHAR(200))
+    size = Column(VARCHAR(10))
+    image = Column(VARCHAR(200))
+    price = Column(Integer)
