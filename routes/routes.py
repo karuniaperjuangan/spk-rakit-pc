@@ -154,7 +154,7 @@ async def recommendation(request_recommendation: RequestRecommendationSchema):
                     success = True
         except (IndexError, ValueError, KeyError):
                 success = False
-        return {'remaining_budget': budget, 'used_component': used_component}
+        return {'remaining_budget': budget, 'used_component': [{"component":key,**value} for key, value in used_component.items()]}
 
 
     
