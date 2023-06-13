@@ -3,5 +3,6 @@ fastapi-sqlalchemy
 pydantic
 alembic
 psycopg2-binary
+requests
 uvicorn
 python-dotenv
