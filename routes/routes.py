@@ -157,4 +157,8 @@ async def recommendation(request_recommendation: RequestRecommendationSchema):
         return {'remaining_budget': budget, 'used_component': [{"component":key,**value} for key, value in used_component.items()]}
 
 
-    
+@router.get('/components')
+async def get_components():
+    with open('./data/processed/component.json') as f:
+        components = json.load(f)
+    return components
